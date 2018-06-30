@@ -1,0 +1,8370 @@
+Karl	O	UC	NNP
+Crary	O	UC	NNP
+
+
+8127	O	UM	CD
+Wean	O	UC	VB
+Hall	O	UC	NN
+
+
+School	O	UC	NNP
+of	O	O	IN
+Computer	O	UC	NN
+Science	O	UC	NN
+Carnegie	O	UC	NNP
+Mellon	O	UC	NNP
+University	O	UC	NNP
+
+
+5000	O	UM	CD
+Forbes	O	UC	NNP
+Avenue	O	UC	NNP
+Pittsburgh	O	UC	NNP
+,	O	UM	,
+PA	O	UC	NN
+15213	O	UM	CD
+
+
+Phone	O	UC	NN
+:	O	UM	:
+-LRB-	AHA	UC	-LRB-
+412	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+268-7687	AHA	UM	CD
+Fax	O	UC	NN
+:	O	UM	:
+-LRB-	AHA	UC	-LRB-
+412	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+268-5576	AHA	UM	CD
+crary@cs.cmu.edu	PRD	O	NN
+
+
+Research	O	UC	NNP
+Interests	O	UC	NNS
+
+
+My	O	UC	PRP$
+research	O	O	NN
+interests	O	O	NNS
+are	O	O	VBP
+in	O	O	IN
+applying	O	O	VBG
+programming	O	O	NN
+language	O	O	NN
+technology	O	O	NN
+to	O	O	TO
+improve	O	O	VB
+the	O	O	DT
+
+
+development	O	O	NN
+,	O	UM	,
+maintenance	O	O	NN
+,	O	UM	,
+and	O	O	CC
+performance	O	O	NN
+of	O	O	IN
+software	O	O	NN
+systems	O	O	NNS
+.	PRD	UM	.
+I	O	UC	PRP
+am	O	O	RB
+particularly	O	O	RB
+
+
+interested	O	O	JJ
+in	O	O	IN
+mechanization	O	O	NN
+of	O	O	IN
+the	O	O	DT
+metatheory	O	O	NN
+of	O	O	IN
+programming	O	O	NN
+languages	O	O	NNS
+,	O	UM	,
+type-oriented	AHA	O	JJ
+
+
+compilation	O	O	NN
+strategies	O	O	NNS
+,	O	UM	,
+in	O	O	IN
+type-based	AHA	O	JJ
+certification	O	O	NN
+of	O	O	IN
+machine	O	O	NN
+code	O	O	NN
+,	O	UM	,
+and	O	O	CC
+in	O	O	IN
+the	O	O	DT
+design	O	O	NN
+
+
+of	O	O	IN
+practical	O	O	JJ
+,	O	UM	,
+high	O	O	JJ
+-	AHA	UM	:
+or	O	O	CC
+low-level	AHA	O	JJ
+programming	O	O	NN
+languages	O	O	NNS
+.	PRD	UM	.
+
+
+Publications	O	UC	NNP
+
+
+Most	O	UC	JJS
+of	O	O	IN
+my	O	O	PRP$
+publications	O	O	NNS
+are	O	O	VBP
+available	O	O	JJ
+online	O	O	NN
+.	PRD	UM	.
+
+
+Teaching	O	UC	NN
+
+
+*	O	UM	SYM
+This	O	UC	DT
+Spring	O	UC	NN
+,	O	UM	,
+I	O	UC	PRP
+am	O	O	RB
+teaching	O	O	NN
+HOT	O	UC	JJ
+Compilation	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+15-501	AHA	UM	CD
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+an	O	O	DT
+
+
+undergraduate	O	O	JJ
+course	O	O	NN
+on	O	O	IN
+the	O	O	DT
+implementation	O	O	NN
+of	O	O	IN
+compilers	O	O	NNS
+for	O	O	IN
+higher-order	AHA	O	JJ
+,	O	UM	,
+typed	O	O	VBN
+languages	O	O	NNS
+.	PRD	UM	.
+
+
+Current	O	UC	JJ
+Students	O	UC	NNS
+
+
+*	O	UM	SYM
+Aleksey	O	UC	NNP
+Kliger	O	UC	NNP
+
+
+*	O	UM	SYM
+Daniel	O	UC	NNP
+Lee	O	UC	NNP
+
+
+*	O	UM	SYM
+Susmit	O	UC	NNP
+Sarkar	O	UC	NNP
+
+
+Former	O	UC	NNP
+Students	O	UC	NNS
+
+
+*	O	UM	SYM
+Derek	O	UC	NNP
+Dreyer	O	UC	NNP
+
+
+*	O	UM	SYM
+Tom	O	UC	NNP
+Murphy	O	UC	NNP
+
+
+*	O	UM	SYM
+Leaf	O	UC	NN
+Petersen	O	UC	NNP
+
+
+*	O	UM	SYM
+Joe	O	UC	NNP
+Vanderwaart	O	UC	NNP
+
+
+Current	O	UC	JJ
+Events	O	UC	NNS
+
+
+``	O	UM	``
+Of	O	UC	IN
+all	O	O	DT
+the	O	O	DT
+commandments	O	O	NNS
+,	O	UM	,
+which	O	O	WDT
+is	O	O	VBZ
+the	O	O	DT
+most	O	O	RBS
+important	O	O	JJ
+?	O	UM	.
+''	AHA	UM	''
+
+
+``	O	UM	``
+The	O	UC	DT
+most	O	O	RBS
+important	O	O	JJ
+one	O	O	CD
+,	O	UM	,
+''	AHA	UM	''
+answered	O	O	VBN
+Jesus	O	UC	NNP
+,	O	UM	,
+``	O	UM	``
+is	O	O	VBZ
+this	O	O	DT
+:	O	UM	:
+`	O	UM	``
+Hear	O	UC	VBP
+,	O	UM	,
+O	O	UC	NN
+
+
+Israel	O	UC	NNP
+,	O	UM	,
+the	O	O	DT
+Lord	O	UC	NNP
+our	O	O	PRP$
+God	O	UC	NNP
+,	O	UM	,
+the	O	O	DT
+Lord	O	UC	NNP
+is	O	O	VBZ
+one	O	O	CD
+.	PRD	UM	.
+Love	O	UC	NN
+the	O	O	DT
+
+
+Lord	O	UC	NNP
+your	O	O	PRP$
+God	O	UC	NNP
+with	O	O	IN
+all	O	O	DT
+your	O	O	PRP$
+heart	O	O	NN
+and	O	O	CC
+with	O	O	IN
+all	O	O	DT
+your	O	O	PRP$
+soul	O	O	NN
+and	O	O	CC
+with	O	O	IN
+
+
+all	O	O	DT
+your	O	O	PRP$
+mind	O	O	NN
+and	O	O	CC
+with	O	O	IN
+all	O	O	DT
+your	O	O	PRP$
+strength	O	O	NN
+.	PRD	UM	.
+'	AHA	UM	''
+The	O	UC	DT
+second	O	O	JJ
+is	O	O	VBZ
+this	O	O	DT
+:	O	UM	:
+
+
+`	O	UM	``
+Love	O	UC	NN
+your	O	O	PRP$
+neighbor	O	O	NN
+as	O	O	IN
+yourself	O	O	PRP
+.	PRD	UM	.
+'	AHA	UM	''
+There	O	UC	EX
+is	O	O	VBZ
+no	O	O	DT
+commandment	O	O	NN
+greater	O	O	JJR
+than	O	O	IN
+these	O	O	DT
+.	PRD	UM	.
+''	AHA	UM	''
+
+
+--	AHA	UM	:
+Mark	O	UC	NNP
+12:29	O	UM	CD
+-31	AHA	UM	CD
+
+
+Erik	O	UC	NNP
+Winfree	O	UC	NNP
+
+
+Associate	O	UC	JJ
+Professor	O	UC	NNP
+of	O	O	IN
+Computer	O	UC	NN
+Science	O	UC	NN
+,	O	UM	,
+Computation	O	UC	NN
+and	O	O	CC
+Neural	O	UC	JJ
+Systems	O	UC	NNPS
+,	O	UM	,
+and	O	O	CC
+Bioengineering	O	UC	VBG
+
+
+B.S.	PRD	UC	NNP
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+Chicago	O	UC	NNP
+,	O	UM	,
+1991	O	UM	CD
+;	O	UM	:
+Ph.D.	PRD	UC	NNP
+,	O	UM	,
+Caltech	O	UC	NNP
+,	O	UM	,
+1998	O	UM	CD
+
+
+California	O	UC	NNP
+Institute	O	UC	NNP
+of	O	O	IN
+Technology	O	UC	NN
+
+
+Computer	O	UC	NN
+Science	O	UC	NN
+
+
+1200	O	UM	CD
+E.	PRD	UC	NNP
+California	O	UC	NNP
+Boulevard	O	UC	NNP
+
+
+MC	O	UC	NNP
+136-93	AHA	UM	CD
+
+
+Pasadena	O	UC	NNP
+,	O	UM	,
+CA	O	UC	NNP
+91125	O	UM	CD
+
+
+Office	O	UC	NNP
+Location	O	UC	NNP
+:	O	UM	:
+204	O	UM	CD
+Moore	O	UC	NNP
+
+
+Phone	O	UC	NN
+:	O	UM	:
+-LRB-	AHA	UC	-LRB-
+626	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+395-6246	AHA	UM	CD
+
+
+email	O	O	NN
+|	O	UM	SYM
+personal	O	O	JJ
+page	O	O	NN
+
+
+Research	O	UC	NNP
+
+
+Biomolecular	O	UC	JJ
+computation	O	O	NN
+,	O	UM	,
+DNA	O	UC	NN
+based	O	O	VBN
+computation	O	O	NN
+,	O	UM	,
+algorithmic	O	O	JJ
+self-assembly	AHA	O	RB
+,	O	UM	,
+in	O	O	IN
+vitro	O	O	NN
+biochemical	O	O	JJ
+circuits	O	O	NNS
+,	O	UM	,
+noise	O	O	NN
+and	O	O	CC
+fault-tolerance	AHA	O	NN
+,	O	UM	,
+DNA	O	UC	NN
+and	O	O	CC
+RNA	O	UC	NN
+folding	O	O	JJ
+,	O	UM	,
+evolution	O	O	NN
+.	PRD	UM	.
+
+
+Peter	O	UC	NNP
+'s	AHA	O	POS
+Homepage	O	UC	NN
+
+
+The	O	UC	DT
+place	O	O	NN
+to	O	O	TO
+be	O	O	VB
+if	O	O	IN
+you	O	O	PRP
+like	O	O	IN
+Parrots	O	UC	NNP
+,	O	UM	,
+Old	O	UC	NNP
+Cameras	O	UC	NNS
+,	O	UM	,
+Motorbikes	O	UC	NNS
+,	O	UM	,
+Diving	O	UC	JJ
+,	O	UM	,
+Travels	O	UC	NNS
+and	O	O	CC
+other	O	O	JJ
+stuff	O	O	NN
+
+
+2/01/04	O	UM	CD
+
+
+Please	O	UC	VB
+wait	O	O	NN
+patiently	O	O	RB
+while	O	O	IN
+the	O	O	DT
+graphics	O	O	NNS
+animations	O	O	NNS
+and	O	O	CC
+Music	O	UC	NN
+load	O	O	NN
+-	AHA	UM	:
+it	O	O	PRP
+'s	AHA	O	VBZ
+worth	O	O	JJ
+it	O	O	PRP
+
+
+This	O	UC	DT
+site	O	O	NN
+is	O	O	VBZ
+optimised	O	O	VBN
+for	O	O	IN
+Frames	O	UC	NNS
+with	O	O	IN
+Internet	O	UC	NN
+Explorer	O	UC	NNP
+5	O	UM	CD
+with	O	O	IN
+1152x864	O	UM	NN
+graphics	O	O	NNS
+if	O	O	IN
+you	O	O	PRP
+only	O	O	RB
+have	O	O	VB
+800x600	O	UM	NN
+click	O	O	VB
+here	O	O	RB
+for	O	O	IN
+the	O	O	DT
+no	O	O	DT
+frames	O	O	NNS
+version	O	O	NN
+
+
+You	O	UC	PRP
+may	O	O	MD
+get	O	O	VB
+a	O	O	DT
+Coolfreepages	O	UC	NNS
+banner	O	O	NN
+screen	O	O	NN
+popping	O	O	VBG
+up	O	O	RB
+at	O	O	IN
+some	O	O	DT
+point	O	O	NN
+-	AHA	UM	:
+if	O	O	IN
+so	O	O	RB
+remove	O	O	VB
+it	O	O	PRP
+by	O	O	IN
+clicking	O	O	VBG
+the	O	O	DT
+X	O	UC	NN
+box	O	O	NN
+at	O	O	IN
+the	O	O	DT
+top	O	O	NN
+right	O	O	RB
+of	O	O	IN
+the	O	O	DT
+window	O	O	NN
+and	O	O	CC
+you	O	O	PRP
+will	O	O	MD
+be	O	O	VB
+back	O	O	RB
+to	O	O	TO
+Peter	O	UC	NNP
+'s	AHA	O	POS
+Homepage	O	UC	NNP
+.	PRD	UM	.
+Other	O	UC	JJ
+errors	O	O	NNS
+are	O	O	VBP
+probably	O	O	RB
+because	O	O	IN
+your	O	O	PRP$
+browser	O	O	NN
+is	O	O	VBZ
+out	O	O	IN
+of	O	O	IN
+date	O	O	NN
+-	AHA	UM	:
+so	O	O	RB
+why	O	O	WRB
+do	O	O	VBP
+n't	AHA	O	RB
+you	O	O	PRP
+download	O	O	NN
+the	O	O	DT
+latest	O	O	JJS
+Explorer	O	UC	NNP
+or	O	O	CC
+Navigator	O	UC	NN
+versions	O	O	NNS
+from	O	O	IN
+the	O	O	DT
+Microsoft	O	UC	NNP
+or	O	O	CC
+Netscape	O	UC	NNP
+websites	O	O	NNS
+?	O	UM	.
+-	AHA	UM	:
+they	O	O	PRP
+`	O	UM	``
+re	O	O	VB
+free	O	O	JJ
+!	O	UM	.
+
+
+What	O	UC	WP
+'s	AHA	O	VBZ
+New	O	UC	NNP
+?	O	UM	.
+:	O	UM	:
+Well	O	UC	RB
+there	O	O	EX
+'s	AHA	O	VBZ
+a	O	O	DT
+whole	O	O	JJ
+new	O	O	JJ
+layout	O	O	NN
+and	O	O	CC
+some	O	O	DT
+more	O	O	RBR
+music	O	O	NN
+,	O	UM	,
+a	O	O	DT
+history	O	O	NN
+of	O	O	IN
+my	O	O	PRP$
+motorcycles	O	O	NNS
+In	O	UC	IN
+search	O	O	NN
+of	O	O	IN
+Don	O	UC	NNP
+Quixote	O	UC	NNP
+in	O	O	IN
+Spain	O	UC	NNP
+,	O	UM	,
+photos	O	O	NNS
+from	O	O	IN
+Florence	O	UC	NNP
+,	O	UM	,
+Rock-n-Roll	AHA	UC	NNP
+Archeology	O	UC	NNP
+in	O	O	IN
+Manassas	O	UC	NNP
+.	PRD	UM	.
+Three	O	UC	CD
+diving	O	O	NN
+travel	O	O	NN
+features	O	O	NNS
+on	O	O	IN
+the	O	O	DT
+Sudan	O	UC	NNP
+,	O	UM	,
+the	O	O	DT
+Saintes	O	UC	NNS
+and	O	O	CC
+Mauritius	O	UC	NNP
+.	PRD	UM	.
+More	O	UC	RBR
+pics	O	O	NNS
+of	O	O	IN
+the	O	O	DT
+Darmah	O	UC	NNP
+and	O	O	CC
+VFR	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+CBR1000	O	UC	NN
+for	O	O	IN
+those	O	O	DT
+of	O	O	IN
+you	O	O	PRP
+who	O	O	WP
+like	O	O	IN
+Bikes	O	UC	NNS
+.	PRD	UM	.
+Photos	O	UC	NNS
+of	O	O	IN
+the	O	O	DT
+radio	O	O	NN
+controlled	O	O	VBN
+duck	O	O	NN
+taken	O	O	VBN
+with	O	O	IN
+Six-20	AHA	UC	NN
+Junior	O	UC	NN
+,	O	UM	,
+A	O	UC	DT
+new	O	O	JJ
+page	O	O	NN
+on	O	O	IN
+Accessories	O	UC	NNS
+in	O	O	IN
+the	O	O	DT
+Camera	O	UC	NN
+collection	O	O	NN
+.	PRD	UM	.
+There	O	UC	EX
+are	O	O	VBP
+Photos	O	UC	NNS
+with	O	O	IN
+Kodaks	O	UC	NNPS
+from	O	O	IN
+1897	O	UM	CD
+and	O	O	CC
+1908	O	UM	CD
+plus	O	O	CC
+some	O	O	DT
+music	O	O	NN
+,	O	UM	,
+animation	O	O	NN
+and	O	O	CC
+The	O	UC	DT
+Gurls	O	UC	NNS
+guide	O	O	NN
+to	O	O	TO
+using	O	O	VBG
+120	O	UM	CD
+film	O	O	NN
+in	O	O	IN
+a	O	O	DT
+620	O	UM	CD
+camera	O	O	NN
+.	PRD	UM	.
+Also	O	UC	RB
+check	O	O	NN
+out	O	O	IN
+The	O	UC	DT
+original	O	O	JJ
+Radio	O	UC	NN
+Controlled	O	UC	VBN
+Duck	O	UC	NN
+,	O	UM	,
+a	O	O	DT
+special	O	O	JJ
+guest	O	O	NN
+appearance	O	O	NN
+from	O	O	IN
+Harry	O	UC	NNP
+Fiske	O	UC	NNP
+'s	AHA	O	POS
+Mk	O	UC	NN
+.2	PRD	UM	NN
+Duck	O	UC	NN
+and	O	O	CC
+Peter	O	UC	NNP
+'s	AHA	O	POS
+latest	O	O	JJS
+Mk	O	UC	NN
+.	PRD	UM	.
+2	O	UM	CD
+RC	O	UC	NN
+Duck	O	UC	NN
+
+
+Larry	O	UC	NNP
+Cuba	O	UC	NNP
+is	O	O	VBZ
+widely	O	O	RB
+recognized	O	O	VBN
+as	O	O	IN
+a	O	O	DT
+pioneer	O	O	NN
+in	O	O	IN
+the	O	O	DT
+use	O	O	NN
+of	O	O	IN
+computers	O	O	NNS
+in	O	O	IN
+animation	O	O	NN
+art	O	O	NN
+.	PRD	UM	.
+Producing	O	UC	NNP
+his	O	O	PRP$
+first	O	O	RB
+computer	O	O	NN
+animation	O	O	NN
+in	O	O	IN
+1974	O	UM	CD
+,	O	UM	,
+Cuba	O	UC	NNP
+was	O	O	VBD
+at	O	O	IN
+the	O	O	DT
+forefront	O	O	NN
+of	O	O	IN
+the	O	O	DT
+computer-animation	AHA	O	NN
+artists	O	O	NNS
+considered	O	O	VBN
+the	O	O	DT
+``	O	UM	``
+second	O	O	JJ
+generation	O	O	NN
+''	AHA	UM	''
+--	AHA	UM	:
+those	O	O	DT
+who	O	O	WP
+directly	O	O	RB
+followed	O	O	VBN
+the	O	O	DT
+visionaries	O	O	NNS
+of	O	O	IN
+the	O	O	DT
+sixties	O	O	NNS
+:	O	UM	:
+John	O	UC	NNP
+Whitney	O	UC	NNP
+,	O	UM	,
+Sr.	PRD	UC	NNP
+.	PRD	UM	.
+,	O	UM	,
+Stan	O	UC	NNP
+Vanderbeek	O	UC	NNP
+and	O	O	CC
+Lillian	O	UC	NNP
+Schwartz	O	UC	NNP
+.	PRD	UM	.
+
+
+While	O	UC	IN
+still	O	O	RB
+a	O	O	DT
+graduate	O	O	NN
+student	O	O	NN
+at	O	O	IN
+The	O	UC	DT
+California	O	UC	NNP
+Institute	O	UC	NNP
+of	O	O	IN
+the	O	O	DT
+Arts	O	UC	NNS
+,	O	UM	,
+he	O	O	PRP
+was	O	O	VBD
+convinced	O	O	JJ
+of	O	O	IN
+the	O	O	DT
+artistic	O	O	JJ
+potential	O	O	NN
+of	O	O	IN
+computer	O	O	NN
+graphics	O	O	NNS
+,	O	UM	,
+but	O	O	CC
+this	O	O	DT
+was	O	O	VBD
+years	O	O	NNS
+before	O	O	IN
+art	O	O	NN
+schools	O	O	NNS
+began	O	O	VBD
+teaching	O	O	NN
+the	O	O	DT
+subject	O	O	NN
+.	PRD	UM	.
+Cuba	O	UC	NNP
+'s	AHA	O	POS
+solution	O	O	NN
+was	O	O	VBD
+to	O	O	TO
+solicit	O	O	VB
+access	O	O	NN
+to	O	O	TO
+the	O	O	DT
+mainframe	O	O	NN
+computers	O	O	NNS
+at	O	O	IN
+NASA	O	UC	NNP
+'s	AHA	O	POS
+Jet	O	UC	NNP
+Propulsion	O	UC	NN
+Lab	O	UC	NN
+and	O	O	CC
+teach	O	O	VB
+himself	O	O	PRP
+computer	O	O	NN
+animation	O	O	NN
+by	O	O	IN
+producing	O	O	VBG
+his	O	O	PRP$
+first	O	O	RB
+film	O	O	NN
+,	O	UM	,
+First	O	UC	NNP
+Fig	O	UC	NN
+.	PRD	UM	.
+
+
+In	O	UC	IN
+1975	O	UM	CD
+,	O	UM	,
+John	O	UC	NNP
+Whitney	O	UC	NNP
+,	O	UM	,
+Sr.	PRD	UC	NNP
+.	PRD	UM	.
+invited	O	O	VBN
+Cuba	O	UC	NNP
+to	O	O	TO
+be	O	O	VB
+the	O	O	DT
+programmer	O	O	NN
+on	O	O	IN
+one	O	O	CD
+of	O	O	IN
+his	O	O	PRP$
+films	O	O	NNS
+.	PRD	UM	.
+The	O	UC	DT
+result	O	O	NN
+of	O	O	IN
+this	O	O	DT
+collaboration	O	O	NN
+was	O	O	VBD
+Arabesque	O	UC	NNP
+.	PRD	UM	.
+
+
+Subsequently	O	UC	RB
+,	O	UM	,
+Cuba	O	UC	NNP
+produced	O	O	VBN
+three	O	O	CD
+more	O	O	RBR
+computer-animated	AHA	O	JJ
+films	O	O	NNS
+:	O	UM	:
+3/78	O	UM	CD
+-LRB-	AHA	UC	-LRB-
+Objects	O	UC	NNS
+and	O	O	CC
+Transformations	O	UC	NNS
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+Two	O	UC	CD
+Space	O	UC	NN
+,	O	UM	,
+and	O	O	CC
+Calculated	O	UC	VBN
+Movements	O	UC	NNS
+.	PRD	UM	.
+These	O	UC	DT
+works	O	O	NNS
+were	O	O	VBD
+shown	O	O	VBN
+at	O	O	IN
+film	O	O	NN
+festivals	O	O	NNS
+throughout	O	O	IN
+the	O	O	DT
+world	O	O	NN
+--	AHA	UM	:
+including	O	O	VBG
+Los	O	UC	NNP
+Angeles	O	UC	NNP
+,	O	UM	,
+Hiroshima	O	UC	NNP
+,	O	UM	,
+Zagreb	O	UC	NNP
+and	O	O	CC
+Bangkok	O	UC	NNP
+--	AHA	UM	:
+and	O	O	CC
+have	O	O	VB
+won	O	O	VBN
+numerous	O	O	JJ
+awards	O	O	NNS
+.	PRD	UM	.
+Cuba	O	UC	NNP
+'s	AHA	O	POS
+been	O	O	VBN
+invited	O	O	VBN
+to	O	O	TO
+present	O	O	JJ
+his	O	O	PRP$
+work	O	O	NN
+at	O	O	IN
+various	O	O	JJ
+conferences	O	O	NNS
+such	O	O	JJ
+as	O	O	IN
+Siggraph	O	UC	NNP
+,	O	UM	,
+ISEA	O	UC	NN
+,	O	UM	,
+Ars	O	UC	NNS
+Electronica	O	UC	NN
+,	O	UM	,
+and	O	O	CC
+Art	O	UC	NNP
+and	O	O	CC
+Math	O	UC	NNP
+Moscow	O	UC	NNP
+and	O	O	CC
+his	O	O	PRP$
+films	O	O	NNS
+have	O	O	VB
+been	O	O	VBN
+included	O	O	VBN
+in	O	O	IN
+screenings	O	O	NNS
+at	O	O	IN
+New	O	UC	NNP
+York	O	UC	NNP
+'s	AHA	O	POS
+Museum	O	UC	NN
+of	O	O	IN
+Modern	O	UC	NNP
+Art	O	UC	NNP
+,	O	UM	,
+The	O	UC	DT
+Hirshhorn	O	UC	NNP
+Museum	O	UC	NN
+,	O	UM	,
+The	O	UC	DT
+San	O	UC	NNP
+Francisco	O	UC	NNP
+Museum	O	UC	NN
+of	O	O	IN
+Modern	O	UC	NNP
+Art	O	UC	NNP
+,	O	UM	,
+The	O	UC	DT
+Art	O	UC	NNP
+Institute	O	UC	NNP
+of	O	O	IN
+Chicago	O	UC	NNP
+,	O	UM	,
+The	O	UC	DT
+Amsterdam	O	UC	NNP
+Filmmuseum	O	UC	NN
+and	O	O	CC
+the	O	O	DT
+Isetan	O	UC	NNP
+Museum	O	UC	NN
+of	O	O	IN
+Art	O	UC	NNP
+,	O	UM	,
+Tokyo	O	UC	NNP
+.	PRD	UM	.
+
+
+Cuba	O	UC	NNP
+received	O	O	VBN
+grants	O	O	NNS
+for	O	O	IN
+his	O	O	PRP$
+work	O	O	NN
+from	O	O	IN
+the	O	O	DT
+American	O	UC	NNP
+Film	O	UC	NNP
+Institute	O	UC	NNP
+and	O	O	CC
+The	O	UC	DT
+National	O	UC	NNP
+Endowment	O	UC	NN
+for	O	O	IN
+the	O	O	DT
+Arts	O	UC	NNS
+and	O	O	CC
+was	O	O	VBD
+awarded	O	O	VBN
+a	O	O	DT
+residency	O	O	NN
+at	O	O	IN
+the	O	O	DT
+Center	O	UC	NNP
+for	O	O	IN
+Art	O	UC	NNP
+and	O	O	CC
+Media	O	UC	NNP
+Technology	O	UC	NN
+Karlsruhe	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+ZKM	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+He	O	UC	PRP
+has	O	O	VBZ
+served	O	O	VBD
+on	O	O	IN
+the	O	O	DT
+juries	O	O	NNS
+for	O	O	IN
+the	O	O	DT
+Siggraph	O	UC	NNP
+Electronic	O	UC	JJ
+Theater	O	UC	NNP
+,	O	UM	,
+the	O	O	DT
+Montpellier	O	UC	NNP
+Festival	O	UC	NNP
+of	O	O	IN
+Abstract	O	UC	JJ
+Film	O	UC	NNP
+,	O	UM	,
+The	O	UC	DT
+Ann	O	UC	NNP
+Arbor	O	UC	NNP
+Film	O	UC	NNP
+Festival	O	UC	NNP
+and	O	O	CC
+Ars	O	UC	NNS
+Electronica	O	UC	NN
+.	PRD	UM	.
+
+
+In	O	UC	IN
+the	O	O	DT
+pure	O	O	JJ
+form	O	O	NN
+of	O	O	IN
+abstraction	O	O	NN
+that	O	O	IN
+Cuba	O	UC	NNP
+pursues	O	O	VBZ
+,	O	UM	,
+visual	O	O	JJ
+perception	O	O	NN
+is	O	O	VBZ
+paramount	O	O	JJ
+.	PRD	UM	.
+But	O	UC	CC
+because	O	O	IN
+the	O	O	DT
+images	O	O	NNS
+are	O	O	VBP
+generated	O	O	VBN
+via	O	O	IN
+algorithms	O	O	NNS
+written	O	O	VBN
+in	O	O	IN
+computer	O	O	NN
+language	O	O	NN
+,	O	UM	,
+there	O	O	RB
+is	O	O	VBZ
+a	O	O	DT
+paradox	O	O	NN
+in	O	O	IN
+trying	O	O	VBG
+to	O	O	TO
+use	O	O	NN
+words	O	O	NNS
+to	O	O	TO
+describe	O	O	VBP
+images	O	O	NNS
+for	O	O	IN
+which	O	O	WDT
+words	O	O	NNS
+do	O	O	VB
+not	O	O	RB
+exist	O	O	VB
+.	PRD	UM	.
+
+
+As	O	UC	IN
+Raphael	O	UC	NNP
+Bassan	O	UC	NNP
+wrote	O	O	VBD
+in	O	O	IN
+a	O	O	DT
+1981	O	UM	CD
+issue	O	O	NN
+of	O	O	IN
+La	O	UC	NNP
+Revue	O	UC	NN
+du	O	O	NNP
+Cinema	O	UC	NNP
+,	O	UM	,
+``	O	UM	``
+The	O	UC	DT
+computer	O	O	NN
+animation	O	O	NN
+establishes	O	O	VBZ
+a	O	O	DT
+parallel	O	O	NN
+between	O	O	IN
+visual	O	O	JJ
+perception	O	O	NN
+and	O	O	CC
+a	O	O	DT
+structure	O	O	NN
+of	O	O	IN
+linguistic	O	O	JJ
+or	O	O	CC
+mathematical	O	O	JJ
+order	O	O	NN
+:	O	UM	:
+it	O	O	PRP
+is	O	O	VBZ
+concerned	O	O	JJ
+with	O	O	IN
+establishing	O	O	VBG
+a	O	O	DT
+new	O	O	JJ
+organizational	O	O	JJ
+field	O	O	NN
+for	O	O	IN
+the	O	O	DT
+aesthetic	O	O	JJ
+material	O	O	NN
+.	PRD	UM	.
+In	O	UC	IN
+the	O	O	DT
+sphere	O	O	NN
+of	O	O	IN
+abstract	O	O	JJ
+cinema	O	O	NN
+-LRB-	AHA	UC	-LRB-
+lacking	O	O	VBG
+a	O	O	DT
+better	O	O	RB
+term	O	O	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+Larry	O	UC	NNP
+Cuba	O	UC	NNP
+'s	AHA	O	POS
+research	O	O	NN
+is	O	O	VBZ
+,	O	UM	,
+in	O	O	IN
+fact	O	O	NN
+,	O	UM	,
+at	O	O	IN
+the	O	O	DT
+origin	O	O	NN
+of	O	O	IN
+a	O	O	DT
+new	O	O	JJ
+direction	O	O	NN
+which	O	O	WDT
+does	O	O	VBZ
+not	O	O	RB
+yet	O	O	RB
+have	O	O	VB
+a	O	O	DT
+name	O	O	NN
+''	AHA	UM	''
+
+
+For	O	UC	IN
+more	O	O	RBR
+information	O	O	NN
+,	O	UM	,
+see	O	O	VB
+the	O	O	DT
+articles	O	O	NNS
+by	O	O	IN
+Gene	O	UC	NN
+Youngblood	O	UC	NNP
+and	O	O	CC
+Bill	O	UC	NNP
+Moritz	O	UC	NNP
+.	PRD	UM	.
+
+
+Filmography	O	UC	NN
+
+
+First	O	UC	NNP
+Fig	O	UC	NN
+
+
+-LRB-	AHA	UC	-LRB-
+1974	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+6	O	UM	CD
+minute	O	O	NN
+16mm	O	UM	NN
+,	O	UM	,
+Color	O	UC	NN
+
+
+3/78	O	UM	CD
+-LRB-	AHA	UC	-LRB-
+Objects	O	UC	NNS
+and	O	O	CC
+Transformations	O	UC	NNS
+-RRB-	AHA	UC	-RRB-
+
+
+-LRB-	AHA	UC	-LRB-
+1978	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+6	O	UM	CD
+minutes	O	O	NNS
+16mm	O	UM	NN
+,	O	UM	,
+B/W	O	UC	NN
+
+
+Two	O	UC	CD
+Space	O	UC	NN
+
+
+-LRB-	AHA	UC	-LRB-
+1979	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+8	O	UM	CD
+minutes	O	O	NNS
+16mm	O	UM	NN
+,	O	UM	,
+B/W	O	UC	NN
+
+
+Calculated	O	UC	VBN
+Movements	O	UC	NNS
+
+
+-LRB-	AHA	UC	-LRB-
+1985	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+6	O	UM	CD
+minutes	O	O	NNS
+16mm	O	UM	NN
+,	O	UM	,
+B/W	O	UC	NN
+
+
+Bibliography	O	UC	NN
+
+
+Moritz	O	UC	NNP
+,	O	UM	,
+William	O	UC	NNP
+.	PRD	UM	.
+Visuelle	O	UC	NNP
+Musik	O	UC	NNP
+,	O	UM	,
+Mediagramm	O	UC	NNP
+,	O	UM	,
+Zentrum	O	UC	NNP
+fur	O	O	NN
+Kunst	O	UC	IN
+und	O	O	NN
+Medientechnologie	O	UC	NN
+Karlsruhe	O	UC	NNP
+,	O	UM	,
+Juli	O	UC	NN
+1996	O	UM	CD
+
+
+Bendazzi	O	UC	NNP
+,	O	UM	,
+Giannalberto	O	UC	NNP
+.	PRD	UM	.
+Cartoons	O	UC	NNS
+:	O	UM	:
+One	O	UC	CD
+Hundred	O	UC	NNP
+Years	O	UC	NNS
+of	O	O	IN
+Cinema	O	UC	NNP
+Animation	O	UC	NN
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+Indiana	O	UC	NNP
+Press	O	UC	NNP
+,	O	UM	,
+1994	O	UM	CD
+
+
+Gehr	O	UC	NNP
+,	O	UM	,
+Herbert	O	UC	NNP
+.	PRD	UM	.
+Sound	O	UC	NN
+&	AHA	UM	CC
+Vision	O	UC	NNP
+,	O	UM	,
+Musikvideo	O	UC	NNP
+und	O	O	NN
+Filmkunst	O	UC	NNP
+,	O	UM	,
+Deutsches	O	UC	NNS
+Filmmuseum	O	UC	NN
+,	O	UM	,
+Frankfurt	O	UC	NNP
+,	O	UM	,
+1993	O	UM	CD
+
+
+Binkley	O	UC	NNP
+,	O	UM	,
+Timothy	O	UC	NNP
+.	PRD	UM	.
+Refiguring	O	UC	VBG
+Culture	O	UC	NN
+,	O	UM	,
+Future	O	UC	JJ
+Visions	O	UC	NNS
+:	O	UM	:
+New	O	UC	NNP
+Technologies	O	UC	NNPS
+of	O	O	IN
+the	O	O	DT
+Screen	O	UC	NN
+,	O	UM	,
+1993	O	UM	CD
+
+
+Kawahara	O	UC	NNP
+,	O	UM	,
+Toshifumi	O	UC	NNP
+.	PRD	UM	.
+World	O	UC	NNP
+Graphic	O	UC	NNP
+Design	O	UC	NN
+Now	O	UC	RB
+#	O	UM	#
+6	O	UM	CD
+,	O	UM	,
+Kodansha	O	UC	NNP
+,	O	UM	,
+1989	O	UM	CD
+
+
+Binkley	O	UC	NNP
+,	O	UM	,
+Timothy	O	UC	NNP
+.	PRD	UM	.
+Computed	O	UC	VBN
+Visions	O	UC	NNS
+of	O	O	IN
+Virtual	O	UC	JJ
+Realities	O	UC	NNS
+,	O	UM	,
+Millennium	O	UC	NN
+Film	O	UC	NNP
+Journal	O	UC	NNP
+,	O	UM	,
+Fall	O	UC	NN
+'	AHA	UM	POS
+89	O	UM	CD
+
+
+Russet	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+&	AHA	UM	CC
+Starr	O	UC	NNP
+,	O	UM	,
+C.	PRD	UC	NNP
+Experimental	O	UC	JJ
+Animation	O	UC	NN
+:	O	UM	:
+Origins	O	UC	NNS
+of	O	O	IN
+a	O	O	DT
+New	O	UC	NNP
+Art	O	UC	NNP
+,	O	UM	,
+Revised	O	UC	VBN
+1988	O	UM	CD
+
+
+Goodman	O	UC	NNP
+,	O	UM	,
+Cynthia	O	UC	NNP
+.	PRD	UM	.
+Digital	O	UC	NNP
+Visions	O	UC	NNS
+:	O	UM	:
+Computers	O	UC	NNS
+and	O	O	CC
+Art	O	UC	NNP
+,	O	UM	,
+1987	O	UM	CD
+
+
+Youngblood	O	UC	NNP
+,	O	UM	,
+Gene	O	UC	NN
+.	PRD	UM	.
+Calculated	O	UC	VBN
+Movements	O	UC	NNS
+,	O	UM	,
+Video	O	UC	NNP
+and	O	O	CC
+the	O	O	DT
+Arts	O	UC	NNS
+,	O	UM	,
+Winter	O	UC	NNP
+,	O	UM	,
+1986	O	UM	CD
+
+
+Giloth	O	UC	NNP
+,	O	UM	,
+C.	PRD	UC	NNP
+&	AHA	UM	CC
+Veeder	O	UC	NNP
+,	O	UM	,
+J.	PRD	UC	NNP
+The	O	UC	DT
+Paint	O	UC	VB
+Problem	O	UC	NNP
+,	O	UM	,
+Computer	O	UC	NN
+Graphics	O	UC	NNS
+and	O	O	CC
+Applications	O	UC	NNS
+,	O	UM	,
+July	O	UC	NNP
+1985	O	UM	CD
+
+
+Abbado	O	UC	NNP
+,	O	UM	,
+Adriano	O	UC	NNP
+.	PRD	UM	.
+Immagini	O	UC	NNP
+con	O	O	RB
+il	O	O	NN
+Computer	O	UC	NN
+,	O	UM	,
+1985	O	UM	CD
+
+
+Cook	O	UC	NNP
+,	O	UM	,
+Rob	O	UC	NNP
+.	PRD	UM	.
+Siggraph	O	UC	NNP
+'	AHA	UM	''
+85	O	UM	CD
+:	O	UM	:
+The	O	UC	DT
+Film/Video	O	UC	NN
+Show	O	UC	NN
+,	O	UM	,
+Computer	O	UC	NN
+Graphics	O	UC	NNS
+World	O	UC	NNP
+,	O	UM	,
+July	O	UC	NNP
+,	O	UM	,
+1985	O	UM	CD
+
+
+Edgar	O	UC	NNP
+,	O	UM	,
+Robert	O	UC	NNP
+.	PRD	UM	.
+Art	O	UC	NNP
+and	O	O	CC
+Technology	O	UC	NN
+,	O	UM	,
+Art	O	UC	NNP
+Papers	O	UC	NNP
+,	O	UM	,
+Sep/Oct	O	UC	NN
+1985	O	UM	CD
+
+
+Solomon	O	UC	NNP
+,	O	UM	,
+Charles	O	UC	NNP
+.	PRD	UM	.
+Enchanted	O	UC	JJ
+Drawings	O	UC	NNS
+,	O	UM	,
+The	O	UC	DT
+History	O	UC	NN
+of	O	O	IN
+Animation	O	UC	NN
+,	O	UM	,
+Knopf	O	UC	NNP
+,	O	UM	,
+1989	O	UM	CD
+
+
+Thompson	O	UC	NNP
+,	O	UM	,
+Frank	O	UC	NNP
+.	PRD	UM	.
+Atlanta	O	UC	NNP
+'s	AHA	O	POS
+Computer	O	UC	NN
+Animator	O	UC	NNP
+,	O	UM	,
+Atlanta	O	UC	NNP
+Magazine	O	UC	NN
+,	O	UM	,
+March	O	UC	NNP
+,	O	UM	,
+1984	O	UM	CD
+
+
+Allan	O	UC	NNP
+,	O	UM	,
+Robb	O	UC	NNP
+A.	PRD	UC	NN
+Creative	O	UC	JJ
+Computers	O	UC	NNS
+,	O	UM	,
+Newsweek	O	UC	NNP
+,	O	UM	,
+July	O	UC	NNP
+5	O	UM	CD
+,	O	UM	,
+1982	O	UM	CD
+
+
+Bassan	O	UC	NNP
+,	O	UM	,
+Raphael	O	UC	NNP
+.	PRD	UM	.
+Cinema	O	UC	NNP
+Abstrait	O	UC	NN
+et	O	O	FW
+Experimental	O	UC	JJ
+,	O	UM	,
+La	O	UC	NNP
+Revue	O	UC	NN
+Du	O	UC	NNP
+Cinema	O	UC	NNP
+,	O	UM	,
+March	O	UC	NNP
+1981	O	UM	CD
+
+
+Perlman	O	UC	NNP
+,	O	UM	,
+Marty	O	UC	NNP
+.	PRD	UM	.
+The	O	UC	DT
+Artist	O	UC	NNP
+and	O	O	CC
+the	O	O	DT
+Computer	O	UC	NN
+,	O	UM	,
+Santa	O	UC	NNP
+Barbara	O	UC	NNP
+News	O	UC	NNP
+and	O	O	CC
+Review	O	UC	NN
+,	O	UM	,
+10/9/80	O	UM	CD
+
+
+Moritz	O	UC	NNP
+,	O	UM	,
+William	O	UC	NNP
+.	PRD	UM	.
+Non-Objective	AHA	UC	JJ
+Film	O	UC	NNP
+:	O	UM	:
+The	O	UC	DT
+Second	O	UC	JJ
+Generation	O	UC	NN
+,	O	UM	,
+
+
+Film	O	UC	NNP
+as	O	O	IN
+Film	O	UC	NNP
+:	O	UM	:
+Formal	O	UC	JJ
+Experiments	O	UC	NNS
+in	O	O	IN
+Film	O	UC	NNP
+1910-1975	AHA	UM	CD
+,	O	UM	,
+1979	O	UM	CD
+
+
+Glabicki	O	UC	NNP
+,	O	UM	,
+Paul	O	UC	NNP
+.	PRD	UM	.
+Animation	O	UC	NN
+Art	O	UC	NNP
+,	O	UM	,
+Field	O	UC	NN
+of	O	O	IN
+Vision	O	UC	NNP
+,	O	UM	,
+Fall	O	UC	NN
+,	O	UM	,
+1979	O	UM	CD
+
+
+Welcome	O	UC	VB
+
+
+Welcome	O	UC	VB
+to	O	O	TO
+the	O	O	DT
+webpage	O	O	NN
+for	O	O	IN
+North	O	UC	NNP
+American	O	UC	NNP
+Chapter	O	UC	NN
+of	O	O	IN
+the	O	O	DT
+Association	O	UC	NNP
+for	O	O	IN
+Computational	O	UC	JJ
+Linguistics	O	UC	NNS
+-	AHA	UM	:
+Human	O	UC	JJ
+Language	O	UC	NN
+Technologies	O	UC	NNPS
+-LRB-	AHA	UC	-LRB-
+NAACL	O	UC	NN
+HLT	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+2009	O	UM	CD
+conference	O	O	NN
+.	PRD	UM	.
+
+
+Announcements	O	UC	NNS
+
+
+The	O	UC	DT
+submission	O	O	NN
+deadline	O	O	NN
+for	O	O	IN
+full	O	O	JJ
+papers	O	O	NNS
+is	O	O	VBZ
+11.59	PRD	UM	CD
+pm	O	O	NN
+,	O	UM	,
+PST	O	UC	NNP
+,	O	UM	,
+December	O	UC	NNP
+1st	O	UM	JJ
+2008	O	UM	CD
+.	PRD	UM	.
+Papers	O	UC	NNP
+should	O	O	MD
+be	O	O	VB
+submitted	O	O	VBN
+at	O	O	IN
+https://www.softconf.com/naacl-hlt09/papers	PRD	O	NNS
+
+
+Events	O	UC	NNS
+
+
+Tutorials	O	UC	NNS
+,	O	UM	,
+May	O	UC	NNP
+31	O	UM	CD
+
+
+Main	O	UC	NNP
+Conference	O	UC	NN
+,	O	UM	,
+June	O	UC	NNP
+1-3	AHA	UM	CD
+
+
+Workshops	O	UC	NNS
+,	O	UM	,
+June	O	UC	NNP
+4-5	AHA	UM	CD
+
+
+Conference	O	UC	NN
+Committee	O	UC	NNP
+
+
+General	O	UC	NNP
+Conference	O	UC	NN
+Chair	O	UC	NN
+
+
+*	O	UM	SYM
+Mari	O	UC	NNP
+Ostendorf	O	UC	NNP
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+Washington	O	UC	NNP
+
+
+Program	O	UC	NN
+Committee	O	UC	NNP
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Michael	O	UC	NNP
+Collins	O	UC	NNP
+,	O	UM	,
+Massachusetts	O	UC	NNP
+Institute	O	UC	NNP
+of	O	O	IN
+Technology	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+NLP	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Lucy	O	UC	NNP
+Vanderwende	O	UC	NNP
+,	O	UM	,
+Microsoft	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+NLP	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Doug	O	UC	NNP
+Oard	O	UC	NN
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+Maryland	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+IR	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Shri	O	UC	NNP
+Narayanan	O	UC	NNP
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+Southern	O	UC	NNP
+California	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Speech	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+Local	O	UC	JJ
+Arrangement	O	UC	NN
+Co-Chairs	AHA	UC	NNS
+
+
+*	O	UM	SYM
+James	O	UC	NNP
+Martin	O	UC	NNP
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+Colorado	O	UC	NNP
+at	O	O	IN
+Boulder	O	UC	NNP
+
+
+*	O	UM	SYM
+-LSB-	AHA	UC	-LRB-
+Martha	O	UC	NNP
+Palmer	O	UC	NNP
+-RSB-	AHA	UC	-RRB-
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+Colorado	O	UC	NNP
+at	O	O	IN
+Boulder	O	UC	NNP
+
+
+Publicitiy	O	UC	NN
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Matthew	O	UC	NNP
+Stone	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Rutgers	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Gokhan	O	UC	NNP
+Tur	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+SRI	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Diana	O	UC	NNP
+Inkpen	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+U	O	UC	NNP
+Ottawa	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Publications	O	UC	NNP
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Christy	O	UC	NNP
+Doran	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+MITRE	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Eric	O	UC	NNP
+Ringger	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+BYU	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Tutorials	O	UC	NNS
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Ciprian	O	UC	NNP
+Chelba	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Google	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Paul	O	UC	NNP
+Kantor	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Rutgers	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Brian	O	UC	NNP
+Roark	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+OHSU	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+Workshops	O	UC	NNS
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Mark	O	UC	NNP
+Hasegawa-Johnson	AHA	UC	NN
+-LRB-	AHA	UC	-LRB-
+UIUC	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+
+
+*	O	UM	SYM
+Nizar	O	UC	NNP
+Habash	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Columbia	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Student	O	UC	NN
+research	O	O	NN
+conference	O	O	NN
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Anoop	O	UC	NNP
+Sarkar	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Simon	O	UC	NNP
+Fraser	O	UC	NNP
+U	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Carolyn	O	UC	NNP
+Rose	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+CMU	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Student	O	UC	NN
+Doctoral	O	UC	JJ
+Consortium	O	UC	NNP
+Co-Chairs	AHA	UC	NNS
+
+
+*	O	UM	SYM
+Svetlana	O	UC	NNP
+Stenchikova	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+Stony	O	UC	NNP
+Brook	O	UC	NNP
+University	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+-	AHA	UM	:
+Speech	O	UC	NN
+
+
+*	O	UM	SYM
+Ulrich	O	UC	NNP
+Germann	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+University	O	UC	NNP
+of	O	O	IN
+Toronto	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+-	AHA	UM	:
+NLP	O	UC	NN
+
+
+*	O	UM	SYM
+Chirag	O	UC	NNP
+Shah	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+University	O	UC	NNP
+of	O	O	IN
+North	O	UC	NNP
+Carolina	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+-	AHA	UM	:
+Information	O	UC	NN
+Retrieval	O	UC	NN
+
+
+Demo	O	UC	NNP
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Fred	O	UC	NNP
+Popowich	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+U	O	UC	NNP
+Alberta	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Michael	O	UC	NNP
+Johnston	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+AT&T	AHA	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Sponsorship	O	UC	NN
+Chairs	O	UC	NNS
+
+
+*	O	UM	SYM
+Nicolas	O	UC	NNP
+Nicolov	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+JD	O	UC	NN
+Powers	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Hitoshi	O	UC	NNP
+Isahara	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+NICT	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Philipp	O	UC	NNP
+Koehn	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+U	O	UC	NNP
+Edinburgh	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Josef	O	UC	NNP
+van	O	O	NN
+Genabith	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+Dublin	O	UC	NNP
+City	O	UC	NNP
+U	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Venue	O	UC	NN
+
+
+Conference	O	UC	NN
+
+
+The	O	UC	DT
+conference	O	O	NN
+will	O	O	MD
+be	O	O	VB
+held	O	O	VBN
+at	O	O	IN
+the	O	O	DT
+University	O	UC	NNP
+of	O	O	IN
+Colorado	O	UC	NNP
+at	O	O	IN
+Boulder	O	UC	NNP
+
+
+Accomodations	O	UC	NNS
+
+
+Millennium	O	UC	NN
+Harvest	O	UC	NN
+House	O	UC	NNP
+
+
+Reserve	O	UC	NNP
+prior	O	O	RB
+to	O	O	TO
+May	O	UC	NNP
+2nd	O	UM	JJ
+
+
+Rate	O	UC	NN
+:	O	UM	:
+TBD	O	UC	NN
+
+
+1-800-545-6285	AHA	UM	NN
+
+
+http://millenniumhotels.com/millenniumboulder/	PRD	O	NN
+
+
+Reservation	O	UC	NN
+Links	O	UC	NNP
+
+
+*	O	UM	SYM
+Government	O	UC	NN
+Block	O	UC	NNP
+
+
+*	O	UM	SYM
+Non-Government	AHA	UC	NNP
+Block	O	UC	NNP
+
+
+Contact	O	UC	NN
+Us	O	UC	NNP
+
+
+For	O	UC	IN
+additional	O	O	JJ
+information	O	O	NN
+contact	O	O	NN
+us	O	O	PRP
+at	O	O	IN
+naaclhlt2009@gmail.com	PRD	O	NN
+.	PRD	UM	.
+
+
+For	O	UC	IN
+questions	O	O	NNS
+related	O	O	JJ
+to	O	O	TO
+paper	O	O	NN
+submissions	O	O	NNS
+,	O	UM	,
+contact	O	O	NN
+:	O	UM	:
+naacl-hlt09@csail.mit.edu	PRD	O	NN
+
+
+Anant	O	UC	NNP
+Agarwal	O	UC	NNP
+
+
+Position	O	UC	NN
+:	O	UM	:
+Faculty	O	UC	NN
+
+
+Office	O	UC	NNP
+:	O	UM	:
+32-G782	AHA	UC	NN
+
+
+Phone	O	UC	NN
+:253	O	UM	CD
+-1448	AHA	UM	CD
+
+
+E-mail	AHA	UC	NN
+:	O	UM	:
+agarwal@csail.mit.edu	PRD	O	NN
+
+
+Research	O	UC	NNP
+Directorate	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+s	O	O	NNS
+-RRB-	AHA	UC	-RRB-
+:	O	UM	:
+Systems	O	UC	NNPS
+
+
+URL	O	UC	NN
+:	O	UM	:
+http://cag.csail.mit.edu/~agarwal/	PRD	O	NN
+
+
+Biography	O	UC	NN
+:	O	UM	:
+
+
+Anant	O	UC	NNP
+Agarwal	O	UC	NNP
+holds	O	O	VBZ
+a	O	O	DT
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+-LRB-	AHA	UC	-LRB-
+1987	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+and	O	O	CC
+an	O	O	DT
+MS	O	UC	NN
+in	O	O	IN
+Electrical	O	UC	JJ
+Engineering	O	UC	NNP
+from	O	O	IN
+Stanford	O	UC	NNP
+University	O	UC	NNP
+.	PRD	UM	.
+He	O	UC	PRP
+got	O	O	VBD
+his	O	O	PRP$
+bachelor	O	O	NN
+'s	AHA	O	POS
+degree	O	O	NN
+in	O	O	IN
+Electrical	O	UC	JJ
+Engineering	O	UC	NNP
+from	O	O	IN
+IIT	O	UC	NNP
+Madras	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+1982	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+He	O	UC	PRP
+is	O	O	VBZ
+currently	O	O	RB
+a	O	O	DT
+professor	O	O	NN
+of	O	O	IN
+Electrical	O	UC	JJ
+Engineering	O	UC	NNP
+and	O	O	CC
+Computer	O	UC	NN
+Science	O	UC	NN
+at	O	O	IN
+MIT	O	UC	NNP
+,	O	UM	,
+where	O	O	WRB
+his	O	O	PRP$
+teaching	O	O	NN
+and	O	O	CC
+research	O	O	NN
+interests	O	O	NNS
+include	O	O	VB
+VLSI	O	UC	NNP
+,	O	UM	,
+computer	O	O	NN
+architecture	O	O	NN
+,	O	UM	,
+compilation	O	O	NN
+,	O	UM	,
+and	O	O	CC
+software	O	O	NN
+systems	O	O	NNS
+.	PRD	UM	.
+He	O	UC	PRP
+led	O	O	VBN
+a	O	O	DT
+group	O	O	NN
+that	O	O	IN
+developed	O	O	VBN
+the	O	O	DT
+MIT	O	UC	NNP
+Alewife	O	UC	NNP
+,	O	UM	,
+a	O	O	DT
+scalable	O	O	JJ
+shared-memory	AHA	O	NN
+multiprocessor	O	O	NN
+.	PRD	UM	.
+He	O	UC	PRP
+also	O	O	RB
+led	O	O	VBN
+the	O	O	DT
+VirtualWires	O	UC	NNS
+project	O	O	NN
+at	O	O	IN
+MIT	O	UC	NNP
+and	O	O	CC
+was	O	O	VBD
+founder	O	O	NN
+of	O	O	IN
+Virtual	O	UC	JJ
+Machine	O	UC	NN
+Works	O	UC	NNP
+,	O	UM	,
+Inc.	PRD	UC	NNP
+.	PRD	UM	.
+,	O	UM	,
+which	O	O	WDT
+took	O	O	VBD
+the	O	O	DT
+VirtualWires	O	UC	NNS
+logic	O	O	NN
+emulation	O	O	NN
+technology	O	O	NN
+to	O	O	TO
+market	O	O	NN
+.	PRD	UM	.
+He	O	UC	PRP
+currently	O	O	RB
+leads	O	O	NNS
+the	O	O	DT
+Raw	O	UC	NN
+project	O	O	NN
+in	O	O	IN
+the	O	O	DT
+Computer	O	UC	NN
+Science	O	UC	NN
+and	O	O	CC
+Artificial	O	UC	JJ
+Intelligence	O	UC	NNP
+Laboratory	O	UC	NN
+.	PRD	UM	.
+He	O	UC	PRP
+is	O	O	VBZ
+also	O	O	RB
+founder	O	O	NN
+of	O	O	IN
+InCert	O	UC	NNP
+Software	O	UC	NNP
+Corporation	O	UC	NNP
+,	O	UM	,
+which	O	O	WDT
+is	O	O	VBZ
+applying	O	O	VBG
+a	O	O	DT
+software	O	O	NN
+agent	O	O	NN
+technology	O	O	NN
+to	O	O	TO
+enterprise	O	O	NN
+applications	O	O	NNS
+management	O	O	NN
+.	PRD	UM	.
+
+
+Recent	O	UC	JJ
+and/or	O	O	CC
+Significant	O	UC	JJ
+Publications	O	UC	NNPS
+:	O	UM	:
+
+
+A.	PRD	UC	NN
+Agarwal	O	UC	NNP
+,	O	UM	,
+M.	PRD	UC	NN
+Horowitz	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+John	O	UC	NNP
+Hennessy	O	UC	NNP
+.	PRD	UM	.
+``	O	UM	``
+An	O	UC	DT
+Analytical	O	UC	NNP
+Cache	O	UC	NN
+Model	O	UC	NNP
+.	PRD	UM	.
+''	AHA	UM	''
+ACM	O	UC	NNP
+Transactions	O	UC	NNS
+on	O	O	IN
+Computer	O	UC	NN
+Systems	O	UC	NNPS
+,	O	UM	,
+7:2	O	UM	CD
+,	O	UM	,
+May	O	UC	NNP
+1989	O	UM	CD
+,	O	UM	,
+pp	O	O	NN
+.	PRD	UM	.
+184-215	AHA	UM	CD
+.	PRD	UM	.
+
+
+A.	PRD	UC	NN
+Agarwal	O	UC	NNP
+,	O	UM	,
+J.	PRD	UC	NNP
+Babb	O	UC	NNP
+,	O	UM	,
+D.	PRD	UC	NNP
+Chaiken	O	UC	NNP
+,	O	UM	,
+G.D.	PRD	UC	NNP
+Souza	O	UC	NNP
+,	O	UM	,
+K.	PRD	UC	NNP
+Johnson	O	UC	NNP
+,	O	UM	,
+D.	PRD	UC	NNP
+Kranz	O	UC	NNP
+,	O	UM	,
+J.	PRD	UC	NNP
+Kubiatowicz	O	UC	NNP
+,	O	UM	,
+B.H.	PRD	UC	NNP
+Lim	O	UC	NNP
+,	O	UM	,
+G.	PRD	UC	NNP
+Maa	O	UC	NN
+,	O	UM	,
+K.	PRD	UC	NNP
+MacKenzie	O	UC	NNP
+,	O	UM	,
+D.	PRD	UC	NNP
+Nussbaum	O	UC	NNP
+,	O	UM	,
+M.	PRD	UC	NN
+Parkin	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+D.	PRD	UC	NNP
+Yeung	O	UC	NNP
+.	PRD	UM	.
+``	O	UM	``
+Sparcle	O	UC	NNP
+:	O	UM	:
+Today	O	UC	NN
+'s	AHA	O	POS
+micro	O	O	JJ
+for	O	O	IN
+Tomorrow	O	UC	NN
+'s	AHA	O	POS
+Multiprocessor	O	UC	NNP
+.	PRD	UM	.
+''	AHA	UM	''
+In	O	UC	IN
+proceedings	O	O	NNS
+of	O	O	IN
+the	O	O	DT
+HOTCHIPS	O	UC	NNS
+Conference	O	UC	NN
+,	O	UM	,
+August	O	UC	NNP
+1992	O	UM	CD
+,	O	UM	,
+and	O	O	CC
+also	O	O	RB
+in	O	O	IN
+IEEE	O	UC	NN
+Micro	O	UC	NNP
+13:3	O	UM	CD
+,	O	UM	,
+June	O	UC	NNP
+1993	O	UM	CD
+,	O	UM	,
+PP.48-61	PRD	UC	NN
+.	PRD	UM	.
+
+
+J.	PRD	UC	NNP
+Babb	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+Tessier	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+A.	PRD	UC	NN
+Agarwal	O	UC	NNP
+.	PRD	UM	.
+``	O	UM	``
+Virtual	O	UC	JJ
+Wires	O	UC	NNS
+:	O	UM	:
+Overcoming	O	UC	VBG
+Pin	O	UC	NN
+Limitations	O	UC	NNPS
+in	O	O	IN
+FPGA-Based	AHA	UC	JJ
+Logic	O	UC	NN
+Emulators	O	UC	NNS
+.	PRD	UM	.
+''	AHA	UM	''
+In	O	UC	IN
+proceedings	O	O	NNS
+of	O	O	IN
+the	O	O	DT
+First	O	UC	NNP
+IEEE	O	UC	NN
+Workshop	O	UC	NNP
+on	O	O	IN
+FPGAs	O	UC	NNS
+for	O	O	IN
+Custom	O	UC	NNP
+Computing	O	UC	NNP
+Machines	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+FCCM	O	UC	NN
+``	O	UM	``
+93	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+April	O	UC	NNP
+1993	O	UM	CD
+,	O	UM	,
+pp	O	O	NN
+142-151	AHA	UM	CD
+.	PRD	UM	.
+
+
+A.	PRD	UC	NN
+Agarwal	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+Bianchini	O	UC	NNP
+,	O	UM	,
+D.	PRD	UC	NNP
+Chaiken	O	UC	NNP
+,	O	UM	,
+K.	PRD	UC	NNP
+Johnson	O	UC	NNP
+,	O	UM	,
+D.	PRD	UC	NNP
+Kranz	O	UC	NNP
+,	O	UM	,
+J.	PRD	UC	NNP
+Kubiatowicz	O	UC	NNP
+,	O	UM	,
+B.	PRD	UC	NNP
+H.	PRD	UC	NNP
+LIm	O	UC	NNP
+,	O	UM	,
+K.	PRD	UC	NNP
+MacKenzie	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+D.	PRD	UC	NNP
+Yeung	O	UC	NNP
+.	PRD	UM	.
+''	AHA	UM	''
+The	O	UC	DT
+MIT	O	UC	NNP
+Alewife	O	UC	NNP
+Machine	O	UC	NN
+:	O	UM	:
+Architecture	O	UC	NNP
+and	O	O	CC
+Performance	O	UC	NNP
+.	PRD	UM	.
+''	AHA	UM	''
+In	O	UC	IN
+proceedings	O	O	NNS
+of	O	O	IN
+the	O	O	DT
+22nd	O	UM	JJ
+Annual	O	UC	JJ
+Internationsl	O	UC	NN
+Symposium	O	UC	NNP
+on	O	O	IN
+Computer	O	UC	NN
+Architecture	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+ISCA	O	UC	NN
+1995	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+June	O	UC	NNP
+1995	O	UM	CD
+,	O	UM	,
+pp	O	O	NN
+2-13	AHA	UM	CD
+.	PRD	UM	.
+
+
+MIT	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+and	O	O	CC
+Artificial	O	UC	JJ
+Intelligence	O	UC	NNP
+Laboratory	O	UC	NN
+
+
+The	O	UC	DT
+Stata	O	UC	NNP
+Center	O	UC	NNP
+,	O	UM	,
+Building	O	UC	NN
+32	O	UM	CD
+-	AHA	UM	:
+32	O	UM	CD
+Vassar	O	UC	NNP
+Street	O	UC	NNP
+-	AHA	UM	:
+Cambridge	O	UC	NNP
+,	O	UM	,
+MA	O	UC	NNP
+02139	O	UM	CD
+-	AHA	UM	:
+USA	O	UC	NNP
+
+
+tel	O	O	NN
+:	O	UM	:
++1	O	UM	CD
+-617	AHA	UM	CD
+-253	AHA	UM	CD
+-5851	AHA	UM	CD
+-	AHA	UM	:
+webmaster@csail.mit.edu	PRD	O	NN
+
+
+Here	O	UC	RB
+is	O	O	VBZ
+a	O	O	DT
+little	O	O	RB
+about	O	O	IN
+me	O	O	PRP
+:	O	UM	:
+-RRB-	AHA	UC	-RRB-
+
+
+I	O	UC	PRP
+-LRB-	AHA	UC	-LRB-
+Known	O	UC	VBN
+as	O	O	IN
+''	AHA	UM	''
+Kannan	O	UC	NNP
+''	AHA	UM	''
+to	O	O	TO
+family	O	O	NN
+and	O	O	CC
+friends	O	O	NNS
+-RRB-	AHA	UC	-RRB-
+am	O	O	RB
+the	O	O	DT
+eldest	O	O	IN
+of	O	O	IN
+the	O	O	DT
+three	O	O	CD
+children	O	O	NNS
+of	O	O	IN
+T.S.Balakrishnan	PRD	UC	NNP
+-LCB-	AHA	UC	-LRB-
+Retired	O	UC	VBN
+from	O	O	IN
+Shaw	O	UC	NNP
+Wallace	O	UC	NNP
+,	O	UM	,
+India	O	UC	NNP
+Pvt.	PRD	UC	NNP
+Ltd.	PRD	UC	NNP
+.	PRD	UM	.
+and	O	O	CC
+now	O	O	RB
+settled	O	O	VBN
+in	O	O	IN
+Madras	O	UC	NNP
+-RCB-	AHA	UC	-RRB-
+and	O	O	CC
+-LSB-	AHA	UC	-LRB-
+Raji	O	UC	NN
+-RSB-	AHA	UC	-RRB-
+-LCB-	AHA	UC	-LRB-
+home	O	O	NN
+maker	O	O	NN
+-RCB-	AHA	UC	-RRB-
+.	PRD	UM	.
+Born	O	UC	VBN
+on	O	O	IN
+the	O	O	DT
+13th	O	UM	JJ
+of	O	O	IN
+June	O	UC	NNP
+1968	O	UM	CD
+,	O	UM	,
+I	O	UC	PRP
+spent	O	O	VBN
+my	O	O	PRP$
+childhood	O	O	NN
+in	O	O	IN
+Madras	O	UC	NNP
+.	PRD	UM	.
+
+
+I	O	UC	PRP
+had	O	O	VBD
+my	O	O	PRP$
+early	O	O	RB
+schooling	O	O	NN
+at	O	O	IN
+``	O	UM	``
+Chinmaya	O	UC	NNP
+Vidyalaya	O	UC	NNP
+''	AHA	UM	''
+in	O	O	IN
+Madras	O	UC	NNP
+,	O	UM	,
+in	O	O	IN
+the	O	O	DT
+state	O	O	NN
+of	O	O	IN
+Tamil	O	UC	NNP
+Nadu	O	UC	NNP
+.	PRD	UM	.
+I	O	UC	PRP
+graduated	O	O	VBN
+from	O	O	IN
+the	O	O	DT
+Sri	O	UC	NNP
+Venkateswara	O	UC	NNP
+College	O	UC	NNP
+of	O	O	IN
+Engineering	O	UC	NNP
+with	O	O	IN
+a	O	O	DT
+Bachelors	O	UC	NNS
+in	O	O	IN
+Electrical	O	UC	JJ
+and	O	O	CC
+Electronics	O	UC	NNP
+.	PRD	UM	.
+I	O	UC	PRP
+then	O	O	RB
+completed	O	O	VBN
+a	O	O	DT
+Masters	O	UC	NN
+in	O	O	IN
+``	O	UM	``
+Electrical	O	UC	JJ
+and	O	O	CC
+Computer	O	UC	NN
+Engineering	O	UC	NNP
+''	AHA	UM	''
+and	O	O	CC
+obtained	O	O	VBN
+my	O	O	PRP$
+second	O	O	JJ
+Masters	O	UC	NN
+in	O	O	IN
+``	O	UM	``
+System	O	UC	NNP
+Science	O	UC	NN
+''	AHA	UM	''
+from	O	O	IN
+the	O	O	DT
+Louisiana	O	UC	NNP
+State	O	UC	NN
+University	O	UC	NNP
+,	O	UM	,
+Baton	O	UC	NNP
+Rouge	O	UC	NNP
+,	O	UM	,
+La.	PRD	UC	NNP
+,	O	UM	,
+USA	O	UC	NNP
+.	PRD	UM	.
+
+
+I	O	UC	PRP
+wasworking	O	O	VBG
+as	O	O	IN
+a	O	O	DT
+``	O	UM	``
+Computer	O	UC	NN
+Analyst	O	UC	NN
+''	AHA	UM	''
+in	O	O	IN
+the	O	O	DT
+College	O	UC	NNP
+of	O	O	IN
+Education	O	UC	NN
+,	O	UM	,
+at	O	O	IN
+the	O	O	DT
+Louisiana	O	UC	NNP
+State	O	UC	NN
+Universtiy	O	UC	NNP
+.	PRD	UM	.
+I	O	UC	PRP
+have	O	O	VB
+since	O	O	IN
+moved	O	O	VBN
+to	O	O	TO
+Tulsa	O	UC	NNP
+in	O	O	IN
+the	O	O	DT
+Native	O	UC	JJ
+American	O	UC	NNP
+State	O	UC	NN
+of	O	O	IN
+Oklahoma	O	UC	NNP
+.	PRD	UM	.
+I	O	UC	PRP
+now	O	O	RB
+work	O	O	NN
+for	O	O	IN
+SPR	O	UC	NN
+Inc	O	UC	NNP
+in	O	O	IN
+Tulsa	O	UC	NNP
+as	O	O	IN
+an	O	O	DT
+Information	O	UC	NN
+Systems	O	UC	NNPS
+Consultant	O	UC	NN
+.	PRD	UM	.
+
+
+My	O	UC	PRP$
+sister	O	O	NN
+,	O	UM	,
+Shobha	O	UC	NNP
+married	O	O	VBN
+R.Sriram	PRD	UC	NN
+on	O	O	IN
+Feb	O	UC	NNP
+2	O	UM	CD
+,	O	UM	,
+1995	O	UM	CD
+,	O	UM	,
+and	O	O	CC
+is	O	O	VBZ
+now	O	O	RB
+settled	O	O	VBN
+in	O	O	IN
+Madras	O	UC	NNP
+.	PRD	UM	.
+They	O	UC	PRP
+share	O	O	NN
+a	O	O	DT
+little	O	O	RB
+bundle	O	O	NN
+of	O	O	IN
+joy	O	O	NN
+in	O	O	IN
+their	O	O	PRP$
+daughter	O	O	NN
+,	O	UM	,
+Sanjana	O	UC	NNP
+.	PRD	UM	.
+
+
+My	O	UC	PRP$
+brother	O	O	NN
+Vinod	O	UC	NNP
+is	O	O	VBZ
+pursuing	O	O	VBG
+his	O	O	PRP$
+MBA	O	UC	NNP
+from	O	O	IN
+Xavier	O	UC	NNP
+Institute	O	UC	NNP
+of	O	O	IN
+Management	O	UC	NN
+,	O	UM	,
+Bhuvaneshwar	O	UC	NNP
+-LCB-	AHA	UC	-LRB-
+-LSB-	AHA	UC	-LRB-
+LOC	O	UC	NN
+Orissa	O	UC	NNP
+-RSB-	AHA	UC	-RRB-
+-RCB-	AHA	UC	-RRB-
+,	O	UM	,
+besides	O	O	IN
+working	O	O	VBG
+in	O	O	IN
+Johnson	O	UC	NNP
+&	AHA	UM	CC
+Johnson	O	UC	NNP
+,	O	UM	,
+Madras	O	UC	NNP
+.	PRD	UM	.
+
+
+I	O	UC	PRP
+married	O	O	VBN
+Priya	O	UC	NNP
+on	O	O	IN
+January	O	UC	NNP
+26	O	UM	CD
+,	O	UM	,
+1996	O	UM	CD
+at	O	O	IN
+Bangalore	O	UC	NNP
+,	O	UM	,
+India	O	UC	NNP
+.	PRD	UM	.
+
+
+My	O	UC	PRP$
+hobbies	O	O	NNS
+include	O	O	VB
+traveling	O	O	VBG
+,	O	UM	,
+music	O	O	NN
+,	O	UM	,
+movies	O	O	NNS
+,	O	UM	,
+sports	O	O	NNS
+and	O	O	CC
+good	O	O	JJ
+food	O	O	NN
+!!!!!!!	O	UM	CD
+
+
+People	O	UC	NNS
+>	O	UM	JJR
+Donald	O	UC	NNP
+E.	PRD	UC	NNP
+Troxel	O	UC	NNP
+>	O	UM	JJR
+Biographical	O	UC	NNP
+Background	O	UC	NN
+
+
+Donald	O	UC	NNP
+E.	PRD	UC	NNP
+Troxel	O	UC	NNP
+
+
+Donald	O	UC	NNP
+E.	PRD	UC	NNP
+Troxel	O	UC	NNP
+
+
+Professor	O	UC	NNP
+of	O	O	IN
+Electrical	O	UC	JJ
+Engineering	O	UC	NNP
+
+
+Biographical	O	UC	NNP
+Background	O	UC	NN
+
+
+Professor	O	UC	NNP
+Donald	O	UC	NNP
+E.	PRD	UC	NNP
+Troxel	O	UC	NNP
+is	O	O	VBZ
+a	O	O	DT
+principal	O	O	NN
+investigator	O	O	NN
+in	O	O	IN
+the	O	O	DT
+Research	O	UC	NNP
+Laboratory	O	UC	NN
+of	O	O	IN
+Electronics	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+RLE	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+at	O	O	IN
+the	O	O	DT
+Massachusetts	O	UC	NNP
+Institute	O	UC	NNP
+of	O	O	IN
+Technology	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+MIT	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+He	O	UC	PRP
+received	O	O	VBN
+the	O	O	DT
+B.S.	PRD	UC	NNP
+degree	O	O	NN
+in	O	O	IN
+electrical	O	O	JJ
+engineering	O	O	NN
+from	O	O	IN
+Rutgers	O	UC	NNP
+University	O	UC	NNP
+in	O	O	IN
+1956	O	UM	CD
+.	PRD	UM	.
+He	O	UC	PRP
+received	O	O	VBN
+the	O	O	DT
+S.M.	PRD	UC	NNP
+and	O	O	CC
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+degrees	O	O	NNS
+in	O	O	IN
+electrical	O	O	JJ
+engineering	O	O	NN
+from	O	O	IN
+the	O	O	DT
+Massachusetts	O	UC	NNP
+Institute	O	UC	NNP
+of	O	O	IN
+Technology	O	UC	NN
+in	O	O	IN
+1960	O	UM	CD
+and	O	O	CC
+1962	O	UM	CD
+.	PRD	UM	.
+He	O	UC	PRP
+has	O	O	VBZ
+been	O	O	VBN
+at	O	O	IN
+MIT	O	UC	NNP
+since	O	O	IN
+1962	O	UM	CD
+,	O	UM	,
+first	O	O	RB
+as	O	O	IN
+a	O	O	DT
+Ford	O	UC	NNP
+Foundation	O	UC	NNP
+Post-doctoral	AHA	UC	JJ
+Fellow	O	UC	NNP
+,	O	UM	,
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+,	O	UM	,
+Associate	O	UC	JJ
+Professor	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+now	O	O	RB
+as	O	O	IN
+Professor	O	UC	NNP
+of	O	O	IN
+Electrical	O	UC	JJ
+Engineering	O	UC	NNP
+.	PRD	UM	.
+
+
+His	O	UC	PRP$
+teaching	O	O	NN
+activities	O	O	NNS
+have	O	O	VB
+centered	O	O	JJ
+around	O	O	IN
+undergraduate	O	O	JJ
+electronics	O	O	NNS
+and	O	O	CC
+digital	O	O	JJ
+systems	O	O	NNS
+laboratories	O	O	NNS
+.	PRD	UM	.
+Professor	O	UC	NNP
+Troxel	O	UC	NNP
+'s	AHA	O	POS
+principal	O	O	NN
+research	O	O	NN
+interests	O	O	NNS
+include	O	O	VB
+digital	O	O	JJ
+systems	O	O	NNS
+design	O	O	NN
+and	O	O	CC
+computer	O	O	NN
+aided	O	O	VBN
+fabrication	O	O	NN
+of	O	O	IN
+integrated	O	O	VBN
+circuits	O	O	NNS
+.	PRD	UM	.
+Early	O	UC	RB
+research	O	O	NN
+interests	O	O	NNS
+were	O	O	VBD
+concerned	O	O	JJ
+with	O	O	IN
+tactile	O	O	JJ
+communication	O	O	NN
+,	O	UM	,
+sensory	O	O	JJ
+aids	O	O	NNS
+for	O	O	IN
+the	O	O	DT
+blind	O	O	JJ
+,	O	UM	,
+optical	O	O	JJ
+character	O	O	NN
+recognition	O	O	NN
+,	O	UM	,
+picture	O	O	NN
+processing	O	O	NN
+,	O	UM	,
+image	O	O	NN
+bandwidth	O	O	NN
+compression	O	O	NN
+,	O	UM	,
+and	O	O	CC
+graphic	O	O	JJ
+arts	O	O	NNS
+applications	O	O	NNS
+.	PRD	UM	.
+
+
+Coye	O	UC	NNP
+Cheshire	O	UC	NNP
+
+
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+
+
+Current	O	UC	JJ
+Research	O	UC	NNP
+
+
+I	O	UC	PRP
+am	O	O	RB
+interested	O	O	JJ
+in	O	O	IN
+the	O	O	DT
+social	O	O	JJ
+aspects	O	O	NNS
+of	O	O	IN
+computer	O	O	NN
+networks	O	O	NNS
+and	O	O	CC
+exchange	O	O	NN
+systems	O	O	NNS
+.	PRD	UM	.
+My	O	UC	PRP$
+current	O	O	JJ
+research	O	O	NN
+topics	O	O	NNS
+include	O	O	VB
+the	O	O	DT
+role	O	O	NN
+of	O	O	IN
+information	O	O	NN
+as	O	O	IN
+the	O	O	DT
+object	O	O	NN
+of	O	O	IN
+exchange	O	O	NN
+in	O	O	IN
+social	O	O	JJ
+exchange	O	O	NN
+environments	O	O	NNS
+and	O	O	CC
+the	O	O	DT
+production	O	O	NN
+of	O	O	IN
+collective	O	O	JJ
+goods	O	O	NNS
+in	O	O	IN
+computer-mediated	AHA	O	JJ
+exchange	O	O	NN
+networks	O	O	NNS
+.	PRD	UM	.
+My	O	UC	PRP$
+current	O	O	JJ
+collaborative	O	O	JJ
+work	O	O	NN
+on	O	O	IN
+focuses	O	O	VBZ
+on	O	O	IN
+the	O	O	DT
+relationship	O	O	NN
+between	O	O	IN
+exchange	O	O	NN
+structures	O	O	NNS
+and	O	O	CC
+risk	O	O	NN
+,	O	UM	,
+uncertainty	O	O	NN
+,	O	UM	,
+trust	O	O	NN
+,	O	UM	,
+and	O	O	CC
+cooperation	O	O	NN
+-LRB-	AHA	UC	-LRB-
+in	O	O	IN
+the	O	O	DT
+U.S.	PRD	UC	NNP
+and	O	O	CC
+across	O	O	IN
+societies	O	O	NNS
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+Education	O	UC	NN
+
+
+B.A.	PRD	UC	NNP
+,	O	UM	,
+Sociology	O	UC	NN
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+North	O	UC	NNP
+Carolina	O	UC	NNP
+at	O	O	IN
+Chapel	O	UC	NN
+Hill	O	UC	NNP
+,	O	UM	,
+1997	O	UM	CD
+
+
+M.A.	PRD	UC	NNP
+,	O	UM	,
+Sociology	O	UC	NN
+,	O	UM	,
+Stanford	O	UC	NNP
+University	O	UC	NNP
+,	O	UM	,
+1998	O	UM	CD
+
+
+Ph.D.	PRD	UC	NNP
+,	O	UM	,
+Sociology	O	UC	NN
+,	O	UM	,
+Stanford	O	UC	NNP
+University	O	UC	NNP
+,	O	UM	,
+2005	O	UM	CD
+
+
+What	O	UC	WDT
+is	O	O	VBZ
+the	O	O	DT
+best	O	O	RB
+thing	O	O	NN
+about	O	O	IN
+working	O	O	VBG
+at	O	O	IN
+the	O	O	DT
+iSchool	O	UM	NN
+?	O	UM	.
+
+
+One	O	UC	CD
+of	O	O	IN
+the	O	O	DT
+most	O	O	RBS
+exciting	O	O	JJ
+and	O	O	CC
+rewarding	O	O	VBG
+things	O	O	NNS
+about	O	O	IN
+our	O	O	PRP$
+program	O	O	NN
+is	O	O	VBZ
+its	O	O	PRP$
+multi-disciplinary	AHA	O	JJ
+nature	O	O	NN
+.	PRD	UM	.
+I	O	UC	PRP
+love	O	O	NN
+the	O	O	DT
+fact	O	O	NN
+that	O	O	IN
+faculty	O	O	NN
+and	O	O	CC
+students	O	O	NNS
+are	O	O	VBP
+continually	O	O	RB
+exposed	O	O	VBN
+to	O	O	TO
+new	O	O	JJ
+,	O	UM	,
+cutting-edge	AHA	O	NN
+research	O	O	NN
+that	O	O	IN
+spans	O	O	NNS
+the	O	O	DT
+social	O	O	JJ
+,	O	UM	,
+technical	O	O	JJ
+,	O	UM	,
+theoretical	O	O	JJ
+,	O	UM	,
+and	O	O	CC
+practical	O	O	JJ
+dimensions	O	O	NNS
+of	O	O	IN
+information	O	O	NN
+and	O	O	CC
+information	O	O	NN
+technology	O	O	NN
+.	PRD	UM	.
+
+
+Something	O	UC	NN
+few	O	O	JJ
+people	O	O	NNS
+know	O	O	VB
+about	O	O	IN
+me	O	O	PRP
+
+
+I	O	UC	PRP
+know	O	O	VB
+little	O	O	RB
+to	O	O	TO
+nothing	O	O	NN
+about	O	O	IN
+sports	O	O	NNS
+.	PRD	UM	.
+Despite	O	UC	IN
+my	O	O	PRP$
+best	O	O	RB
+efforts	O	O	NNS
+to	O	O	TO
+hide	O	O	VB
+this	O	O	DT
+fact	O	O	NN
+,	O	UM	,
+my	O	O	PRP$
+cover	O	O	NN
+was	O	O	VBD
+once	O	O	RB
+blown	O	O	VBN
+when	O	O	WRB
+I	O	UC	PRP
+sincerely	O	O	RB
+congratulated	O	O	VBN
+my	O	O	PRP$
+graduate	O	O	NN
+school	O	O	NN
+advisor	O	O	NN
+s	O	O	NNS
+son	O	O	NN
+for	O	O	IN
+throwing	O	O	VBG
+several	O	O	JJ
+successful	O	O	JJ
+interceptions	O	O	NNS
+during	O	O	IN
+a	O	O	DT
+high	O	O	JJ
+school	O	O	NN
+football	O	O	NN
+game	O	O	NN
+.	PRD	UM	.
+
+
+How	O	UC	WRB
+to	O	O	TO
+Reach	O	UC	VB
+Me	O	UC	PRP
+
+
+Office	O	UC	NNP
+:	O	UM	:
+305A	O	UM	CD
+South	O	UC	NNP
+Hall	O	UC	NN
+
+
+Office	O	UC	NNP
+Hours	O	UC	NNS
+:	O	UM	:
+Tue	O	UC	NN
+&	AHA	UM	CC
+Thu	O	UC	NN
+4-5	AHA	UM	CD
+pm	O	O	NN
+
+
+Personal	O	UC	NNP
+Website	O	UC	NN
+:	O	UM	:
+http://www.sims.berkeley.edu/~coye/	PRD	O	NN
+
+
+Email	O	UC	VB
+:	O	UM	:
+coye@ischool	O	O	NN
+Voice	O	UC	NNP
+:	O	UM	:
+-LRB-	AHA	UC	-LRB-
+510	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+643-6388	AHA	UM	CD
+
+
+Paul	O	UC	NNP
+Duguid	O	UC	NNP
+
+
+Adjunct	O	UC	NN
+Professor	O	UC	NNP
+
+
+Current	O	UC	JJ
+Research	O	UC	NNP
+
+
+Knowledge	O	UC	NN
+in	O	O	IN
+organizations	O	O	NNS
+.	PRD	UM	.
+The	O	UC	DT
+role	O	O	NN
+of	O	O	IN
+branding	O	O	VBG
+in	O	O	IN
+asserting	O	O	VBG
+the	O	O	DT
+quality	O	O	NN
+and	O	O	CC
+authenticity	O	O	NN
+of	O	O	IN
+information	O	O	NN
+.	PRD	UM	.
+The	O	UC	DT
+history	O	O	NN
+of	O	O	IN
+brands	O	O	NNS
+.	PRD	UM	.
+The	O	UC	DT
+role	O	O	NN
+of	O	O	IN
+brands	O	O	NNS
+in	O	O	IN
+vertical	O	O	JJ
+competition	O	O	NN
+within	O	O	IN
+supply	O	O	NN
+chains	O	O	NNS
+.	PRD	UM	.
+
+
+Other	O	UC	JJ
+Activities	O	UC	NNS
+
+
+Professorial	O	UC	JJ
+Research	O	UC	NNP
+Fellow	O	UC	NNP
+,	O	UM	,
+Queen	O	UC	NNP
+Mary	O	UC	NNP
+,	O	UM	,
+University	O	UC	NNP
+of	O	O	IN
+London	O	UC	NNP
+
+
+Visiting	O	UC	VBG
+Fellow	O	UC	NNP
+,	O	UM	,
+Lancaster	O	UC	NNP
+University	O	UC	NNP
+Management	O	UC	NN
+School	O	UC	NNP
+
+
+Education	O	UC	NN
+
+
+BA	O	UC	NN
+,	O	UM	,
+English	O	UC	NNP
+&	AHA	UM	CC
+Philosophy	O	UC	NN
+,	O	UM	,
+Bristol	O	UC	NNP
+University	O	UC	NNP
+,	O	UM	,
+UK	O	UC	NNP
+,	O	UM	,
+1976	O	UM	CD
+
+
+MA	O	UC	NNP
+,	O	UM	,
+English	O	UC	NNP
+Literature	O	UC	NN
+,	O	UM	,
+Washington	O	UC	NNP
+University	O	UC	NNP
+,	O	UM	,
+St.	PRD	UC	NNP
+Louis	O	UC	NNP
+,	O	UM	,
+1980	O	UM	CD
+
+
+What	O	UC	WDT
+is	O	O	VBZ
+the	O	O	DT
+best	O	O	RB
+thing	O	O	NN
+about	O	O	IN
+working	O	O	VBG
+at	O	O	IN
+the	O	O	DT
+I	O	UC	PRP
+School	O	UC	NNP
+?	O	UM	.
+
+
+Multidisciplinary	O	UC	JJ
+faculty	O	O	NN
+and	O	O	CC
+students	O	O	NNS
+.	PRD	UM	.
+
+
+What	O	UC	WDT
+Information	O	UC	NN
+issues	O	O	NNS
+interests	O	O	NNS
+you	O	O	PRP
+most	O	O	RBS
+?	O	UM	.
+
+
+Questions	O	UC	NNS
+of	O	O	IN
+quality	O	O	NN
+and	O	O	CC
+information	O	O	NN
+.	PRD	UM	.
+
+
+How	O	UC	WRB
+to	O	O	TO
+Reach	O	UC	VB
+Me	O	UC	PRP
+
+
+Office	O	UC	NNP
+:	O	UM	:
+203A	O	UM	NN
+South	O	UC	NNP
+Hall	O	UC	NN
+
+
+Personal	O	UC	NNP
+Website	O	UC	NN
+:	O	UM	:
+http://www.ischool.berkeley.edu/~duguid/	PRD	O	NN
+
+
+Email	O	UC	VB
+:	O	UM	:
+duguid@ischool	O	O	NN
+Voice	O	UC	NNP
+:	O	UM	:
+-LRB-	AHA	UC	-LRB-
+510	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+643-3894	AHA	UM	CD
+
+
+Ron	O	UC	NNP
+Fedkiw	O	UC	NNP
+
+
+Associate	O	UC	JJ
+Professor	O	UC	NNP
+
+
+Stanford	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+
+
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+Applied	O	UC	NNP
+Mathematics	O	UC	NNS
+,	O	UM	,
+UCLA	O	UC	NNP
+
+
+Computer	O	UC	NN
+Science	O	UC	NN
+Department	O	UC	NNP
+
+
+Stanford	O	UC	NNP
+University	O	UC	NNP
+
+
+Gates	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+Bldg.	PRD	UC	NNP
+,	O	UM	,
+Room	O	UC	NN
+207	O	UM	CD
+
+
+Stanford	O	UC	NNP
+,	O	UM	,
+CA	O	UC	NNP
+94305-9020	AHA	UM	CD
+
+
+fedkiw@cs.stanford.edu	PRD	O	NN
+
+
+Phone	O	UC	NN
+:	O	UM	:
+-LRB-	AHA	UC	-LRB-
+650	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+xxx-xxxx	AHA	O	NN
+
+
+directions	O	O	NNS
+to	O	O	TO
+Stanford	O	UC	NNP
+
+
+directions	O	O	NNS
+to	O	O	TO
+the	O	O	DT
+Gates	O	UC	NNP
+building	O	O	NN
+
+
+CS	O	UC	NN
+Broad	O	UC	NNP
+Area	O	UC	NN
+Colloquium	O	UC	NN
+
+
+Institute	O	UC	NNP
+for	O	O	IN
+Computational	O	UC	JJ
+and	O	O	CC
+Mathematical	O	UC	JJ
+Engineering	O	UC	NNP
+
+
+Brief	O	UC	JJ
+Bio	O	UC	NN
+
+
+Fedkiw	O	UC	NNP
+received	O	O	VBN
+his	O	O	PRP$
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+in	O	O	IN
+Mathematics	O	UC	NNS
+from	O	O	IN
+UCLA	O	UC	NNP
+in	O	O	IN
+1996	O	UM	CD
+and	O	O	CC
+did	O	O	VBD
+postdoctoral	O	O	JJ
+studies	O	O	NNS
+both	O	O	DT
+at	O	O	IN
+UCLA	O	UC	NNP
+in	O	O	IN
+Mathematics	O	UC	NNS
+and	O	O	CC
+at	O	O	IN
+Caltech	O	UC	NNP
+in	O	O	IN
+Aeronautics	O	UC	NNP
+before	O	O	IN
+joining	O	O	VBG
+the	O	O	DT
+Stanford	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+Department	O	UC	NNP
+.	PRD	UM	.
+He	O	UC	PRP
+was	O	O	VBD
+awarded	O	O	VBN
+an	O	O	DT
+Academy	O	UC	NNP
+Award	O	UC	NN
+from	O	O	IN
+The	O	UC	DT
+Academy	O	UC	NNP
+of	O	O	IN
+Motion	O	UC	NNP
+Picture	O	UC	NNP
+Arts	O	UC	NNS
+and	O	O	CC
+Sciences	O	UC	NNPS
+,	O	UM	,
+the	O	O	DT
+National	O	UC	NNP
+Academy	O	UC	NNP
+of	O	O	IN
+Science	O	UC	NN
+Award	O	UC	NN
+for	O	O	IN
+Initiatives	O	UC	NNS
+in	O	O	IN
+Research	O	UC	NNP
+,	O	UM	,
+a	O	O	DT
+Packard	O	UC	NNP
+Foundation	O	UC	NNP
+Fellowship	O	UC	NNP
+,	O	UM	,
+a	O	O	DT
+Presidential	O	UC	JJ
+Early	O	UC	RB
+Career	O	UC	NNP
+Award	O	UC	NN
+for	O	O	IN
+Scientists	O	UC	NNS
+and	O	O	CC
+Engineers	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+PECASE	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+a	O	O	DT
+Sloan	O	UC	NNP
+Research	O	UC	NNP
+Fellowship	O	UC	NNP
+,	O	UM	,
+the	O	O	DT
+ACM	O	UC	NNP
+Siggraph	O	UC	NNP
+Significant	O	UC	JJ
+New	O	UC	NNP
+Researcher	O	UC	NN
+Award	O	UC	NN
+,	O	UM	,
+an	O	O	DT
+Office	O	UC	NNP
+of	O	O	IN
+Naval	O	UC	NNP
+Research	O	UC	NNP
+Young	O	UC	NNP
+Investigator	O	UC	NN
+Program	O	UC	NN
+Award	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+ONR	O	UC	NN
+YIP	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+the	O	O	DT
+Okawa	O	UC	NNP
+Foundation	O	UC	NNP
+Research	O	UC	NNP
+Grant	O	UC	NNP
+,	O	UM	,
+the	O	O	DT
+Robert	O	UC	NNP
+Bosch	O	UC	NNP
+Faculty	O	UC	NN
+Scholarship	O	UC	NN
+,	O	UM	,
+the	O	O	DT
+Robert	O	UC	NNP
+N.	PRD	UC	NNP
+Noyce	O	UC	NNP
+Family	O	UC	NNP
+Faculty	O	UC	NN
+Scholarship	O	UC	NN
+,	O	UM	,
+two	O	O	CD
+distinguished	O	O	VBN
+teaching	O	O	NN
+awards	O	O	NNS
+,	O	UM	,
+etc.	PRD	O	FW
+.	PRD	UM	.
+Currently	O	UC	RB
+he	O	O	PRP
+is	O	O	VBZ
+on	O	O	IN
+the	O	O	DT
+editorial	O	O	NN
+board	O	O	NN
+of	O	O	IN
+the	O	O	DT
+Journal	O	UC	NNP
+of	O	O	IN
+Computational	O	UC	JJ
+Physics	O	UC	NN
+,	O	UM	,
+Journal	O	UC	NNP
+of	O	O	IN
+Scientific	O	UC	NNP
+Computing	O	UC	NNP
+,	O	UM	,
+SIAM	O	UC	NNP
+Journal	O	UC	NNP
+on	O	O	IN
+Imaging	O	UC	NNP
+Sciences	O	UC	NNPS
+,	O	UM	,
+and	O	O	CC
+Communications	O	UC	NNPS
+in	O	O	IN
+Mathematical	O	UC	JJ
+Sciences	O	UC	NNPS
+,	O	UM	,
+and	O	O	CC
+he	O	O	PRP
+participates	O	O	VBZ
+in	O	O	IN
+the	O	O	DT
+reviewing	O	O	VBG
+process	O	O	NN
+of	O	O	IN
+a	O	O	DT
+number	O	O	NN
+of	O	O	IN
+journals	O	O	NNS
+and	O	O	CC
+funding	O	O	NN
+agencies	O	O	NNS
+.	PRD	UM	.
+He	O	UC	PRP
+has	O	O	VBZ
+published	O	O	VBN
+over	O	O	IN
+80	O	UM	CD
+research	O	O	NN
+papers	O	O	NNS
+in	O	O	IN
+computational	O	O	JJ
+physics	O	O	NN
+,	O	UM	,
+computer	O	O	NN
+graphics	O	O	NNS
+and	O	O	CC
+vision	O	O	NN
+,	O	UM	,
+as	O	O	IN
+well	O	O	RB
+as	O	O	IN
+a	O	O	DT
+book	O	O	NN
+on	O	O	IN
+level	O	O	NN
+set	O	O	NN
+methods	O	O	NNS
+.	PRD	UM	.
+For	O	UC	IN
+the	O	O	DT
+past	O	O	IN
+seven	O	O	CD
+years	O	O	NNS
+,	O	UM	,
+he	O	O	PRP
+has	O	O	VBZ
+been	O	O	VBN
+a	O	O	DT
+consultant	O	O	NN
+with	O	O	IN
+Industrial	O	UC	NNP
+Light	O	UC	NN
++	O	UM	CC
+Magic	O	UC	JJ
+.	PRD	UM	.
+He	O	UC	PRP
+received	O	O	VBN
+screen	O	O	NN
+credits	O	O	NNS
+for	O	O	IN
+his	O	O	PRP$
+work	O	O	NN
+on	O	O	IN
+``	O	UM	``
+Terminator	O	UC	NNP
+3	O	UM	CD
+:	O	UM	:
+Rise	O	UC	NN
+of	O	O	IN
+the	O	O	DT
+Machines	O	UC	NNS
+''	AHA	UM	''
+,	O	UM	,
+``	O	UM	``
+Star	O	UC	NNP
+Wars	O	UC	NNS
+:	O	UM	:
+Episode	O	UC	NN
+III	O	UC	NNP
+-	AHA	UM	:
+Revenge	O	UC	NN
+of	O	O	IN
+the	O	O	DT
+Sith	O	UC	NNP
+''	AHA	UM	''
+,	O	UM	,
+``	O	UM	``
+Poseidon	O	UC	NNP
+''	AHA	UM	''
+and	O	O	CC
+``	O	UM	``
+Evan	O	UC	NNP
+Almighty	O	UC	NNP
+''	AHA	UM	''
+.	PRD	UM	.
+
+
+Research	O	UC	NNP
+
+
+My	O	UC	PRP$
+research	O	O	NN
+is	O	O	VBZ
+focused	O	O	VBN
+on	O	O	IN
+the	O	O	DT
+design	O	O	NN
+of	O	O	IN
+new	O	O	JJ
+computational	O	O	JJ
+algorithms	O	O	NNS
+for	O	O	IN
+a	O	O	DT
+variety	O	O	NN
+of	O	O	IN
+applications	O	O	NNS
+including	O	O	VBG
+computational	O	O	JJ
+fluid	O	O	NN
+dynamics	O	O	NNS
+and	O	O	CC
+solid	O	O	JJ
+mechanics	O	O	NNS
+,	O	UM	,
+computer	O	O	NN
+graphics	O	O	NNS
+,	O	UM	,
+computer	O	O	NN
+vision	O	O	NN
+and	O	O	CC
+computational	O	O	JJ
+biomechanics	O	O	NNS
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Two	O	UC	CD
+way	O	O	NN
+coupled	O	O	VBN
+SPH	O	UC	NN
+and	O	O	CC
+particle	O	O	NN
+level	O	O	NN
+set	O	O	NN
+fluid	O	O	NN
+simulation	O	O	NN
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Frank	O	UC	NNP
+Losasso	O	UC	NNP
+,	O	UM	,
+Jerry	O	UC	NNP
+Talton	O	UC	NNP
+and	O	O	CC
+Nipun	O	UC	NN
+Kwatra	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Hybrid	O	UC	NN
+simulation	O	O	NN
+of	O	O	IN
+embedded	O	O	JJ
+deformable	O	O	JJ
+solids	O	O	NNS
+and	O	O	CC
+rigid	O	O	JJ
+bodies	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Eftychios	O	UC	NNS
+Sifakis	O	UC	NNP
+,	O	UM	,
+Tamar	O	UC	NNP
+Shinar	O	UC	NNP
+and	O	O	CC
+Geoffrey	O	UC	NNP
+Irving	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Arbitrary	O	UC	JJ
+cutting	O	O	VBG
+of	O	O	IN
+tetrahedral	O	O	JJ
+meshes	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Eftychios	O	UC	NNS
+Sifakis	O	UC	NNP
+and	O	O	CC
+Kevin	O	UC	NNP
+Der	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Fire	O	UC	NN
+with	O	O	IN
+cellular	O	O	JJ
+patterns	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Jeong-Mo	AHA	UC	NN
+Hong	O	UC	NNP
+and	O	O	CC
+Tamar	O	UC	NNP
+Shinar	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Incompressible	O	UC	JJ
+solids	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Geoffrey	O	UC	NNP
+Irving	O	UC	NNP
+and	O	O	CC
+Craig	O	UC	NNP
+Schroeder	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Fracturing	O	UC	NNP
+rigid	O	O	JJ
+bodies	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Josh	O	UC	NNP
+Bao	O	UC	NNP
+,	O	UM	,
+Jeong-Mo	AHA	UC	NN
+Hong	O	UC	NNP
+and	O	O	CC
+Joey	O	UC	NNP
+Teran	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Thin	O	UC	JJ
+shell	O	O	NN
+rigid	O	O	JJ
+bodies	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Josh	O	UC	NNP
+Bao	O	UC	NNP
+,	O	UM	,
+Jeong-Mo	AHA	UC	NN
+Hong	O	UC	NNP
+and	O	O	CC
+Joey	O	UC	NNP
+Teran	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Multiple	O	UC	JJ
+Interacting	O	UC	VBG
+Liquids	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Frank	O	UC	NNP
+Losasso	O	UC	NNP
+,	O	UM	,
+Tamar	O	UC	NNP
+Shinar	O	UC	NNP
+and	O	O	CC
+Andrew	O	UC	NNP
+Selle	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+MANTASUIT	O	UC	NNP
+
+
+The	O	UC	DT
+goal	O	O	NN
+is	O	O	VBZ
+to	O	O	TO
+design	O	O	NN
+an	O	O	DT
+underwater	O	O	JJ
+diving	O	O	NN
+suit	O	O	NN
+that	O	O	IN
+provides	O	O	VBZ
+a	O	O	DT
+diver	O	O	NN
+with	O	O	IN
+an	O	O	DT
+exoskeleton	O	O	NN
+for	O	O	IN
+enhanced	O	O	VBN
+locomotion	O	O	NN
+,	O	UM	,
+as	O	O	IN
+well	O	O	RB
+as	O	O	IN
+augmented	O	O	JJ
+reality	O	O	NN
+enhancements	O	O	NNS
+for	O	O	IN
+underwater	O	O	JJ
+vision	O	O	NN
+and	O	O	CC
+directional	O	O	JJ
+sound	O	O	NN
+detection	O	O	NN
+.	PRD	UM	.
+Concept	O	UC	NN
+art	O	O	NN
+by	O	O	IN
+Wilson	O	UC	NNP
+Tang	O	UC	NNP
+.	PRD	UM	.
+
+
+Academy	O	UC	NNP
+of	O	O	IN
+Motion	O	UC	NNP
+Picture	O	UC	NNP
+Arts	O	UC	NNS
+and	O	O	CC
+Sciences	O	UC	NNPS
+
+
+Scientific	O	UC	NNP
+and	O	O	CC
+Technical	O	UC	NNP
+Awards	O	UC	NNS
+-	AHA	UM	:
+Since	O	UC	IN
+1930/31	O	UM	CD
+the	O	O	DT
+Academy	O	UC	NNP
+of	O	O	IN
+Motion	O	UC	NNP
+Picture	O	UC	NNP
+Arts	O	UC	NNS
+and	O	O	CC
+Sciences	O	UC	NNPS
+has	O	O	VBZ
+conducted	O	O	VBN
+a	O	O	DT
+program	O	O	NN
+for	O	O	IN
+honoring	O	O	VBG
+the	O	O	DT
+artisans	O	O	NNS
+whose	O	O	WP$
+contributions	O	O	NNS
+have	O	O	VB
+made	O	O	VBN
+it	O	O	PRP
+possible	O	O	JJ
+for	O	O	IN
+an	O	O	DT
+industry	O	O	NN
+known	O	O	VBN
+as	O	O	IN
+``	O	UM	``
+The	O	UC	DT
+Movies	O	UC	NNS
+''	AHA	UM	''
+to	O	O	TO
+exist	O	O	VB
+.	PRD	UM	.
+Recognition	O	UC	NN
+of	O	O	IN
+ingenuity	O	O	NN
+,	O	UM	,
+efficiency	O	O	NN
+and	O	O	CC
+economy	O	O	NN
+toward	O	O	IN
+achieving	O	O	VBG
+the	O	O	DT
+end	O	O	NN
+result	O	O	NN
+is	O	O	VBZ
+the	O	O	DT
+basic	O	O	JJ
+purpose	O	O	NN
+of	O	O	IN
+the	O	O	DT
+Scientific	O	UC	NNP
+and	O	O	CC
+Technical	O	UC	NNP
+Awards	O	UC	NNS
+.	PRD	UM	.
+
+
+National	O	UC	NNP
+Academy	O	UC	NNP
+of	O	O	IN
+Sciences	O	UC	NNPS
+
+
+NAS	O	UC	NNP
+Award	O	UC	NN
+for	O	O	IN
+Initiatives	O	UC	NNS
+in	O	O	IN
+Research	O	UC	NNP
+-	AHA	UM	:
+awarded	O	O	VBN
+to	O	O	TO
+recognize	O	O	VB
+innovative	O	O	JJ
+young	O	O	JJ
+scientists	O	O	NNS
+and	O	O	CC
+to	O	O	TO
+encourage	O	O	VB
+research	O	O	NN
+likely	O	O	RB
+to	O	O	TO
+lead	O	O	NN
+toward	O	O	IN
+new	O	O	JJ
+capabilities	O	O	NNS
+for	O	O	IN
+human	O	O	JJ
+benefit	O	O	NN
+.	PRD	UM	.
+The	O	UC	DT
+award	O	O	NN
+is	O	O	VBZ
+to	O	O	TO
+be	O	O	VB
+given	O	O	VBN
+to	O	O	TO
+a	O	O	DT
+citizen	O	O	NN
+of	O	O	IN
+the	O	O	DT
+United	O	UC	NNP
+States	O	UC	NNPS
+,	O	UM	,
+preferably	O	O	RB
+no	O	O	DT
+older	O	O	JJR
+than	O	O	IN
+35	O	UM	CD
+years	O	O	NNS
+of	O	O	IN
+age	O	O	NN
+.	PRD	UM	.
+The	O	UC	DT
+field	O	O	NN
+of	O	O	IN
+presentation	O	O	NN
+rotates	O	O	VBZ
+among	O	O	IN
+the	O	O	DT
+physical	O	O	JJ
+sciences	O	O	NNS
+,	O	UM	,
+engineering	O	O	NN
+,	O	UM	,
+and	O	O	CC
+mathematics	O	O	NNS
+.	PRD	UM	.
+
+
+The	O	UC	DT
+David	O	UC	NNP
+and	O	O	CC
+Lucille	O	UC	NNP
+Packard	O	UC	NNP
+Foundation	O	UC	NNP
+
+
+Fellowships	O	UC	NNS
+for	O	O	IN
+Science	O	UC	NN
+and	O	O	CC
+Engineering	O	UC	NNP
+-	AHA	UM	:
+The	O	UC	DT
+Foundation	O	UC	NNP
+has	O	O	VBZ
+a	O	O	DT
+long-standing	AHA	O	JJ
+interest	O	O	NN
+in	O	O	IN
+strengthening	O	O	VBG
+both	O	O	DT
+university-based	AHA	O	JJ
+research	O	O	NN
+and	O	O	CC
+graduate	O	O	NN
+education	O	O	NN
+.	PRD	UM	.
+Each	O	UC	DT
+year	O	O	NN
+,	O	UM	,
+they	O	O	PRP
+generously	O	O	RB
+-LRB-	AHA	UC	-LRB-
+!	O	UM	.
+-RRB-	AHA	UC	-RRB-
+select	O	O	JJ
+20	O	UM	CD
+Fellows	O	UC	NNS
+to	O	O	TO
+receive	O	O	VB
+individual	O	O	JJ
+grants	O	O	NNS
+of	O	O	IN
+$	O	UM	$
+625,000	O	UM	CD
+over	O	O	IN
+five	O	O	CD
+years	O	O	NNS
+.	PRD	UM	.
+The	O	UC	DT
+Fellowship	O	UC	NNP
+Program	O	UC	NN
+was	O	O	VBD
+established	O	O	VBN
+in	O	O	IN
+1988	O	UM	CD
+.	PRD	UM	.
+
+
+Presidential	O	UC	JJ
+Early	O	UC	RB
+Career	O	UC	NNP
+Award	O	UC	NN
+for	O	O	IN
+Scientists	O	UC	NNS
+and	O	O	CC
+Engineers	O	UC	NNS
+
+
+PECASE	O	UC	NN
+-	AHA	UM	:
+I	O	UC	PRP
+went	O	O	VBD
+to	O	O	TO
+the	O	O	DT
+White	O	UC	NNP
+House	O	UC	NNP
+for	O	O	IN
+the	O	O	DT
+PECASE	O	UC	NN
+awards	O	O	NNS
+ceremony	O	O	NN
+-LRB-	AHA	UC	-LRB-
+thank	O	O	VB
+you	O	O	PRP
+Wen	O	UC	NNP
+&	AHA	UM	CC
+ONR	O	UC	NN
+!	O	UM	.
+-RRB-	AHA	UC	-RRB-
+which	O	O	WDT
+included	O	O	VBN
+a	O	O	DT
+wonderful	O	O	JJ
+speech	O	O	NN
+by	O	O	IN
+President	O	UC	NNP
+George	O	UC	NNP
+W.	PRD	UC	NNP
+Bush	O	UC	NNP
+.	PRD	UM	.
+
+
+The	O	UC	DT
+Alfred	O	UC	NNP
+P.	PRD	UC	NNP
+Sloan	O	UC	NNP
+Foundation	O	UC	NNP
+
+
+Sloan	O	UC	NNP
+Research	O	UC	NNP
+Fellowships	O	UC	NNS
+-	AHA	UM	:
+Currently	O	UC	RB
+a	O	O	DT
+total	O	O	NN
+of	O	O	IN
+116	O	UM	CD
+fellowships	O	O	NNS
+are	O	O	VBP
+awarded	O	O	VBN
+annually	O	O	RB
+in	O	O	IN
+seven	O	O	CD
+fields	O	O	NNS
+:	O	UM	:
+chemistry	O	O	NN
+,	O	UM	,
+computational	O	O	JJ
+and	O	O	CC
+evolutionary	O	O	JJ
+molecular	O	O	JJ
+biology	O	O	NN
+,	O	UM	,
+computer	O	O	NN
+science	O	O	NN
+,	O	UM	,
+economics	O	O	NNS
+,	O	UM	,
+mathematics	O	O	NNS
+,	O	UM	,
+neuroscience	O	O	NN
+,	O	UM	,
+and	O	O	CC
+physics	O	O	NN
+.	PRD	UM	.
+
+
+ACM	O	UC	NNP
+SIGGRAPH	O	UC	NNP
+
+
+ACM	O	UC	NNP
+SIGGRAPH	O	UC	NNP
+Awards	O	UC	NNS
+Program	O	UC	NN
+-	AHA	UM	:
+The	O	UC	DT
+ACM	O	UC	NNP
+SIGGRAPH	O	UC	NNP
+Awards	O	UC	NNS
+program	O	O	NN
+recognizes	O	O	VBZ
+individuals	O	O	NNS
+who	O	O	WP
+have	O	O	VB
+made	O	O	VBN
+a	O	O	DT
+significant	O	O	JJ
+contribution	O	O	NN
+to	O	O	TO
+the	O	O	DT
+computer	O	O	NN
+graphics	O	O	NNS
+community	O	O	NN
+through	O	O	IN
+their	O	O	PRP$
+research	O	O	NN
+,	O	UM	,
+teaching	O	O	NN
+,	O	UM	,
+service	O	O	NN
+,	O	UM	,
+or	O	O	CC
+writing	O	O	VBG
+.	PRD	UM	.
+
+
+The	O	UC	DT
+Okawa	O	UC	NNP
+Foundation	O	UC	NNP
+
+
+The	O	UC	DT
+Okawa	O	UC	NNP
+Foundation	O	UC	NNP
+Research	O	UC	NNP
+Grant	O	UC	NNP
+-	AHA	UM	:
+The	O	UC	DT
+Foundation	O	UC	NNP
+was	O	O	VBD
+established	O	O	VBN
+in	O	O	IN
+1986	O	UM	CD
+as	O	O	IN
+an	O	O	DT
+authorized	O	O	VBN
+non-profit	AHA	O	JJ
+organization	O	O	NN
+to	O	O	TO
+promote	O	O	VB
+the	O	O	DT
+growth	O	O	NN
+and	O	O	CC
+development	O	O	NN
+of	O	O	IN
+the	O	O	DT
+information	O	O	NN
+and	O	O	CC
+telecommunications	O	O	NNS
+fields	O	O	NNS
+,	O	UM	,
+through	O	O	IN
+donations	O	O	NNS
+from	O	O	IN
+the	O	O	DT
+late	O	O	RB
+Mr.	PRD	UC	NNP
+Isao	O	UC	NNP
+Okawa	O	UC	NNP
+.	PRD	UM	.
+
+
+Publications	O	UC	NNP
+
+
+Computational	O	UC	JJ
+Physics	O	UC	NN
+...	PRD	UM	:
+
+
+*	O	UM	SYM
+Selle	O	UC	NNP
+,	O	UM	,
+A.	PRD	UC	NN
+,	O	UM	,
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+Kim	O	UC	NNP
+,	O	UM	,
+B.-M	PRD	UC	NN
+.	PRD	UM	.
+,	O	UM	,
+Liu	O	UC	NNP
+,	O	UM	,
+Y.	PRD	UC	NNP
+and	O	O	CC
+Rossignac	O	UC	NNP
+,	O	UM	,
+J.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+An	O	UC	DT
+Unconditionally	O	UC	RB
+Stable	O	UC	JJ
+MacCormack	O	UC	NNP
+Method	O	UC	NN
+''	AHA	UM	''
+,	O	UM	,
+J.	PRD	UC	NNP
+Sci	O	UC	NNP
+.	PRD	UM	.
+Comput	O	UC	NNP
+.	PRD	UM	.
+,	O	UM	,
+-LRB-	AHA	UC	-LRB-
+in	O	O	IN
+press	O	O	NN
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Hong	O	UC	NNP
+,	O	UM	,
+J.-M	PRD	UC	NN
+.	PRD	UM	.
+,	O	UM	,
+Shinar	O	UC	NNP
+,	O	UM	,
+T.	PRD	UC	NNP
+,	O	UM	,
+Kang	O	UC	NNP
+,	O	UM	,
+M.	PRD	UC	NN
+and	O	O	CC
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+On	O	UC	IN
+Boundary	O	UC	NN
+Condition	O	UC	NN
+Capturing	O	UC	VBG
+for	O	O	IN
+Multiphase	O	UC	NN
+Interfaces	O	UC	NNS
+''	AHA	UM	''
+,	O	UM	,
+J.	PRD	UC	NNP
+Sci	O	UC	NNP
+.	PRD	UM	.
+Comput	O	UC	NNP
+.	PRD	UM	.
+31	O	UM	CD
+,	O	UM	,
+99-125	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+2007	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Losasso	O	UC	NNP
+,	O	UM	,
+F.	PRD	UC	NNP
+,	O	UM	,
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+and	O	O	CC
+Osher	O	UC	NNP
+,	O	UM	,
+``	O	UM	``
+Spatially	O	UC	RB
+Adaptive	O	UC	JJ
+Techniques	O	UC	NNS
+for	O	O	IN
+Level	O	UC	NN
+Set	O	UC	VB
+Methods	O	UC	NNS
+and	O	O	CC
+Incompressible	O	UC	JJ
+Flow	O	UC	NN
+''	AHA	UM	''
+,	O	UM	,
+Computers	O	UC	NNS
+and	O	O	CC
+Fluids	O	UC	NNS
+35	O	UM	CD
+,	O	UM	,
+995-1010	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+2006	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Bridson	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+Teran	O	UC	NNP
+,	O	UM	,
+J.	PRD	UC	NNP
+,	O	UM	,
+Molino	O	UC	NNP
+,	O	UM	,
+N.	PRD	UC	NNP
+and	O	O	CC
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+Adaptive	O	UC	JJ
+Physics	O	UC	NN
+Based	O	UC	VBN
+Tetrahedral	O	UC	JJ
+Mesh	O	UC	VB
+Generation	O	UC	NN
+Using	O	UC	VBG
+Level	O	UC	NN
+Sets	O	UC	NNS
+''	AHA	UM	''
+,	O	UM	,
+Engineering	O	UC	NNP
+with	O	O	IN
+Computers	O	UC	NNS
+21	O	UM	CD
+,	O	UM	,
+2-18	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+2005	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Enright	O	UC	NNP
+,	O	UM	,
+D.	PRD	UC	NNP
+,	O	UM	,
+Losasso	O	UC	NNP
+,	O	UM	,
+F.	PRD	UC	NNP
+and	O	O	CC
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+A	O	UC	DT
+Fast	O	UC	JJ
+and	O	O	CC
+Accurate	O	UC	JJ
+Semi-Lagrangian	AHA	UC	JJ
+Particle	O	UC	NN
+Level	O	UC	NN
+Set	O	UC	VB
+Method	O	UC	NN
+''	AHA	UM	''
+,	O	UM	,
+Computers	O	UC	NNS
+and	O	O	CC
+Structures	O	UC	NNS
+83	O	UM	CD
+,	O	UM	,
+479-490	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+2005	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+thesis	O	O	NN
+...	PRD	UM	:
+
+
+*	O	UM	SYM
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+A	O	UC	DT
+Survey	O	UC	NN
+of	O	O	IN
+Chemically	O	UC	RB
+Reacting	O	UC	VBG
+,	O	UM	,
+Compressible	O	UC	JJ
+Flow	O	UC	NN
+''	AHA	UM	''
+,	O	UM	,
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+Thesis	O	UC	NN
+,	O	UM	,
+UCLA	O	UC	NNP
+Mathematics	O	UC	NNS
+Department	O	UC	NNP
+,	O	UM	,
+June	O	UC	NNP
+1996	O	UM	CD
+.	PRD	UM	.
+
+
+Computer	O	UC	NN
+Graphics	O	UC	NNS
+,	O	UM	,
+Vision	O	UC	NNP
+&	AHA	UM	CC
+Biomechanics	O	UC	NNS
+...	PRD	UM	:
+
+
+*	O	UM	SYM
+Losasso	O	UC	NNP
+,	O	UM	,
+F.	PRD	UC	NNP
+,	O	UM	,
+Talton	O	UC	NNP
+,	O	UM	,
+J.	PRD	UC	NNP
+,	O	UM	,
+Kwatra	O	UC	NNP
+,	O	UM	,
+N.	PRD	UC	NNP
+and	O	O	CC
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+Two-way	AHA	UC	NN
+Coupled	O	UC	VBN
+SPH	O	UC	NN
+and	O	O	CC
+Particle	O	UC	NN
+Level	O	UC	NN
+Set	O	UC	VB
+Fluid	O	UC	NN
+Simulation	O	UC	NN
+''	AHA	UM	''
+,	O	UM	,
+IEEE	O	UC	NN
+TVCG	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+in	O	O	IN
+press	O	O	NN
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Sifakis	O	UC	NNP
+,	O	UM	,
+E.	PRD	UC	NNP
+,	O	UM	,
+Der	O	UC	NNP
+,	O	UM	,
+K.	PRD	UC	NNP
+and	O	O	CC
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+Arbitrary	O	UC	JJ
+Cutting	O	UC	VBG
+of	O	O	IN
+Deformable	O	UC	JJ
+Tetrahedralized	O	UC	VBN
+Objects	O	UC	NNS
+''	AHA	UM	''
+,	O	UM	,
+ACM	O	UC	NNP
+SIGGRAPH/Eurographics	O	UC	NNS
+Symposium	O	UC	NNP
+on	O	O	IN
+Computer	O	UC	NN
+Animation	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+SCA	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+edited	O	O	VBN
+by	O	O	IN
+D.	PRD	UC	NNP
+Metaxas	O	UC	NNP
+and	O	O	CC
+J.	PRD	UC	NNP
+Popovic	O	UC	NNP
+,	O	UM	,
+pp	O	O	NN
+.	PRD	UM	.
+73-80	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+2007	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Sifakis	O	UC	NNP
+,	O	UM	,
+E.	PRD	UC	NNP
+,	O	UM	,
+Shinar	O	UC	NNP
+,	O	UM	,
+T.	PRD	UC	NNP
+,	O	UM	,
+Irving	O	UC	NNP
+,	O	UM	,
+G.	PRD	UC	NNP
+and	O	O	CC
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+Hybrid	O	UC	NN
+Simulation	O	UC	NN
+of	O	O	IN
+Deformable	O	UC	JJ
+Solids	O	UC	NNS
+''	AHA	UM	''
+,	O	UM	,
+ACM	O	UC	NNP
+SIGGRAPH/Eurographics	O	UC	NNS
+Symposium	O	UC	NNP
+on	O	O	IN
+Computer	O	UC	NN
+Animation	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+SCA	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+edited	O	O	VBN
+by	O	O	IN
+D.	PRD	UC	NNP
+Metaxas	O	UC	NNP
+and	O	O	CC
+J.	PRD	UC	NNP
+Popovic	O	UC	NNP
+pp	O	O	NN
+.	PRD	UM	.
+81-90	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+2007	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Hong	O	UC	NNP
+,	O	UM	,
+J.-M	PRD	UC	NN
+.	PRD	UM	.
+,	O	UM	,
+Shinar	O	UC	NNP
+,	O	UM	,
+T.	PRD	UC	NNP
+and	O	O	CC
+Fedkiw	O	UC	NNP
+,	O	UM	,
+R.	PRD	UC	NNP
+,	O	UM	,
+``	O	UM	``
+Wrinkled	O	UC	JJ
+Flames	O	UC	NNS
+and	O	O	CC
+Cellular	O	UC	JJ
+Patterns	O	UC	NN
+''	AHA	UM	''
+,	O	UM	,
+SIGGRAPH	O	UC	NNP
+2007	O	UM	CD
+,	O	UM	,
+ACM	O	UC	NNP
+TOG	O	UC	NN
+26	O	UM	CD
+,	O	UM	,
+47.1-47	PRD	UM	CD
+.6	PRD	UM	CD
+-LRB-	AHA	UC	-LRB-
+2007	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+Students	O	UC	NNS
+
+
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+Students	O	UC	NNS
+
+
+*	O	UM	SYM
+Andrew	O	UC	NNP
+Selle	O	UC	NNP
+
+
+*	O	UM	SYM
+Tamar	O	UC	NNP
+Shinar	O	UC	NNP
+
+
+*	O	UM	SYM
+Avi	O	UC	NNP
+Robinson-Mosher	AHA	UC	NNP
+
+
+Stanford	O	UC	NNP
+Graduate	O	UC	NN
+Fellow	O	UC	NNP
+
+
+*	O	UM	SYM
+Jonathan	O	UC	NNP
+Su	O	UC	FW
+
+
+NSF	O	UC	NN
+Graduate	O	UC	NN
+Research	O	UC	NNP
+Fellow	O	UC	NNP
+
+
+*	O	UM	SYM
+Kevin	O	UC	NNP
+Der	O	UC	NNP
+
+
+NSF	O	UC	NN
+Graduate	O	UC	NN
+Research	O	UC	NNP
+Fellow	O	UC	NNP
+
+
+*	O	UM	SYM
+Nipun	O	UC	NN
+Kwatra	O	UC	NNP
+
+
+*	O	UM	SYM
+Craig	O	UC	NNP
+Schroeder	O	UC	NNP
+
+
+*	O	UM	SYM
+Jon	O	UC	NNP
+Gretarsson	O	UC	NNP
+
+
+*	O	UM	SYM
+Michael	O	UC	NNP
+Lentine	O	UC	NNP
+
+
+Former	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+Students	O	UC	NNS
+
+
+*	O	UM	SYM
+Douglas	O	UC	NNP
+Enright	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2002	O	UM	CD
+-	AHA	UM	:
+Aerospace	O	UC	NNP
+Corporation	O	UC	NNP
+
+
+*	O	UM	SYM
+Ian	O	UC	NNP
+Mitchell	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2002	O	UM	CD
+co-advisor	AHA	O	NN
+-LRB-	AHA	UC	-LRB-
+primary	O	O	JJ
+advisor	O	O	NN
+-	AHA	UM	:
+Claire	O	UC	NNP
+Tomlin	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+-	AHA	UM	:
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+at	O	O	IN
+the	O	O	DT
+University	O	UC	NNP
+of	O	O	IN
+British	O	UC	JJ
+Columbia	O	UC	NNP
+
+
+*	O	UM	SYM
+Robert	O	UC	NNP
+Bridson	O	UC	NN
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2003	O	UM	CD
+-	AHA	UM	:
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+at	O	O	IN
+the	O	O	DT
+University	O	UC	NNP
+of	O	O	IN
+British	O	UC	JJ
+Columbia	O	UC	NNP
+
+
+*	O	UM	SYM
+Neil	O	UC	NNP
+Molino	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2004	O	UM	CD
+-	AHA	UM	:
+Morgan	O	UC	NNP
+Stanley	O	UC	NNP
+
+
+*	O	UM	SYM
+Igor	O	UC	NNP
+Neverov	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2005	O	UM	CD
+-	AHA	UM	:
+Insomniac	O	UC	NNP
+Games	O	UC	NNPS
+
+
+*	O	UM	SYM
+Joseph	O	UC	NNP
+Teran	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2005	O	UM	CD
+-	AHA	UM	:
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+at	O	O	IN
+UCLA	O	UC	NNP
+
+
+*	O	UM	SYM
+Eran	O	UC	NN
+Guendelman	O	UC	NN
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2006	O	UM	CD
+-	AHA	UM	:
+Postdoctoral	O	UC	JJ
+Scholar	O	UC	NNP
+at	O	O	IN
+Stanford	O	UC	NNP
+in	O	O	IN
+Bioengineering	O	UC	VBG
+-LRB-	AHA	UC	-LRB-
+also	O	O	RB
+at	O	O	IN
+UCLA	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Zhaosheng	O	UC	NNP
+Bao	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2006	O	UM	CD
+-	AHA	UM	:
+Microsoft	O	UC	NNP
+Research	O	UC	NNP
+Asia	O	UC	NNP
+
+
+*	O	UM	SYM
+Rachel	O	UC	NNP
+Weinstein	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2007	O	UM	CD
+-	AHA	UM	:
+Industrial	O	UC	NNP
+Light	O	UC	NN
++	O	UM	CC
+Magic	O	UC	JJ
+
+
+*	O	UM	SYM
+Eftychios	O	UC	NNS
+Sifakis	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2007	O	UM	CD
+-	AHA	UM	:
+UCLA	O	UC	NNP
+
+
+*	O	UM	SYM
+Frank	O	UC	NNP
+Losasso	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2007	O	UM	CD
+-	AHA	UM	:
+Industrial	O	UC	NNP
+Light	O	UC	NN
++	O	UM	CC
+Magic	O	UC	JJ
+
+
+*	O	UM	SYM
+Geoffrey	O	UC	NNP
+Irving	O	UC	NNP
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+2007	O	UM	CD
+-	AHA	UM	:
+Pixar	O	UC	NNP
+Animation	O	UC	NN
+Studios	O	UC	NNP
+
+
+Former	O	UC	NNP
+Postdoctoral	O	UC	JJ
+Scholars	O	UC	NNS
+
+
+*	O	UM	SYM
+Duc	O	UC	NN
+Nguyen	O	UC	NNP
+2001-2004	AHA	UM	CD
+-	AHA	UM	:
+Lockheed	O	UC	NNP
+Martin	O	UC	NNP
+
+
+*	O	UM	SYM
+Frederic	O	UC	NNP
+Gibou	O	UC	NNP
+2001-2004	AHA	UM	CD
+-	AHA	UM	:
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+at	O	O	IN
+the	O	O	DT
+University	O	UC	NNP
+of	O	O	IN
+California	O	UC	NNP
+,	O	UM	,
+Santa	O	UC	NNP
+Barbara	O	UC	NNP
+
+
+*	O	UM	SYM
+Ian	O	UC	NNP
+Mitchell	O	UC	NNP
+2002-2003	AHA	UM	CD
+-	AHA	UM	:
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+at	O	O	IN
+the	O	O	DT
+University	O	UC	NNP
+of	O	O	IN
+British	O	UC	JJ
+Columbia	O	UC	NNP
+
+
+*	O	UM	SYM
+Jeong-Mo	AHA	UC	NN
+Hong	O	UC	NNP
+2005-2007	AHA	UM	CD
+-	AHA	UM	:
+Korea	O	UC	NNP
+University	O	UC	NNP
+
+
+*	O	UM	SYM
+Robert	O	UC	NNP
+Strzodka	O	UC	FW
+2005-2007	AHA	UM	CD
+-	AHA	UM	:
+Independent	O	UC	NNP
+Junior	O	UC	NN
+Research	O	UC	NNP
+Group	O	UC	NNP
+Leader	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+i.e.	PRD	O	FW
+Assistant	O	UC	NNP
+Professor	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+at	O	O	IN
+the	O	O	DT
+Max	O	UC	NNP
+Planck	O	UC	NNP
+Institute	O	UC	NNP
+
+
+G-number	AHA	UC	NN
+
+
+A	O	UC	DT
+-LRB-	AHA	UC	-LRB-
+G	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+raphics	O	O	NNS
+researcher	O	O	NN
+'s	AHA	O	POS
+G-number	AHA	UC	NN
+is	O	O	VBZ
+calculated	O	O	VBN
+as	O	O	IN
+the	O	O	DT
+number	O	O	NN
+of	O	O	IN
+papers/books/citations	O	O	NNS
+on	O	O	IN
+-LRB-	AHA	UC	-LRB-
+G	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+oogle	O	O	NN
+Scholar	O	UC	NNP
+that	O	O	IN
+contain	O	O	VB
+more	O	O	RBR
+than	O	O	IN
+200	O	UM	CD
+cites	O	O	VBZ
+.	PRD	UM	.
+Note	O	UC	VB
+that	O	O	IN
+the	O	O	DT
+best	O	O	RB
+way	O	O	NN
+to	O	O	TO
+search	O	O	NN
+Google	O	UC	NNP
+scholar	O	O	NN
+seems	O	O	VBZ
+to	O	O	TO
+be	O	O	VB
+by	O	O	IN
+using	O	O	VBG
+the	O	O	DT
+first	O	O	RB
+initial	O	O	JJ
+of	O	O	IN
+the	O	O	DT
+first	O	O	RB
+name	O	O	NN
+,	O	UM	,
+e.g.	PRD	O	FW
+''	AHA	UM	''
+r	O	O	NN
+fedkiw	O	O	NN
+''	AHA	UM	''
+.	PRD	UM	.
+-LRB-	AHA	UC	-LRB-
+G	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+eez	O	O	NN
+,	O	UM	,
+there	O	O	RB
+are	O	O	VBP
+so	O	O	RB
+many	O	O	JJ
+citation	O	O	NN
+indexes	O	O	NNS
+out	O	O	IN
+there	O	O	RB
+,	O	UM	,
+I	O	UC	PRP
+just	O	O	RB
+felt	O	O	VBD
+like	O	O	IN
+we	O	O	PRP
+needed	O	O	VBN
+another	O	O	DT
+one	O	O	CD
+.	PRD	UM	.
+Note	O	UC	VB
+that	O	O	IN
+G	O	UC	NN
+comes	O	O	VBZ
+before	O	O	IN
+H	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+as	O	O	IN
+in	O	O	IN
+h-humber	AHA	O	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+and	O	O	CC
+that	O	O	IN
+G	O	UC	NN
+also	O	O	RB
+stands	O	O	NNS
+Graphics	O	UC	NNS
+,	O	UM	,
+Google	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+even	O	O	RB
+Goober	O	UC	NNP
+.	PRD	UM	.
+This	O	UC	DT
+is	O	O	VBZ
+only	O	O	RB
+a	O	O	DT
+partial	O	O	JJ
+list	O	O	NN
+that	O	O	IN
+I	O	UC	PRP
+put	O	O	VBN
+together	O	O	RB
+when	O	O	WRB
+I	O	UC	PRP
+was	O	O	VBD
+bored	O	O	VBN
+one	O	O	CD
+day	O	O	NN
+.	PRD	UM	.
+No	O	UC	DT
+omissions	O	O	NNS
+or	O	O	CC
+errors	O	O	NNS
+are	O	O	VBP
+intentional	O	O	JJ
+,	O	UM	,
+but	O	O	CC
+rather	O	O	RB
+an	O	O	DT
+indication	O	O	NN
+of	O	O	IN
+my	O	O	PRP$
+competence	O	O	NN
+.	PRD	UM	.
+Please	O	UC	VB
+feel	O	O	VB
+free	O	O	JJ
+to	O	O	TO
+email	O	O	NN
+me	O	O	PRP
+corrections	O	O	NNS
+,	O	UM	,
+additions	O	O	NNS
+...	PRD	UM	:
+or	O	O	CC
+even	O	O	RB
+a	O	O	DT
+complete	O	O	JJ
+list	O	O	NN
+.	PRD	UM	.
+Since	O	UC	IN
+this	O	O	DT
+has	O	O	VBZ
+been	O	O	VBN
+posted	O	O	VBN
+,	O	UM	,
+I	O	UC	PRP
+have	O	O	VB
+received	O	O	VBN
+emails	O	O	NNS
+about	O	O	IN
+a	O	O	DT
+few	O	O	JJ
+people	O	O	NNS
+who	O	O	WP
+collaborate	O	O	VB
+with	O	O	IN
+graphics	O	O	NNS
+folks	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+applied	O	O	VBN
+math	O	O	NN
+,	O	UM	,
+computer	O	O	NN
+vision	O	O	NN
+and	O	O	CC
+robotics	O	O	NNS
+researchers	O	O	NNS
+-RRB-	AHA	UC	-RRB-
+and	O	O	CC
+have	O	O	VB
+added	O	O	VBN
+some	O	O	DT
+suggested	O	O	VBN
+names	O	O	NNS
+to	O	O	TO
+the	O	O	DT
+list	O	O	NN
+-	AHA	UM	:
+just	O	O	RB
+for	O	O	IN
+fun	O	O	NN
+...	PRD	UM	:
+NOTE	O	UC	VB
+:	O	UM	:
+I	O	UC	PRP
+will	O	O	MD
+periodically	O	O	RB
+update	O	O	VB
+the	O	O	DT
+names	O	O	NNS
+on	O	O	IN
+this	O	O	DT
+list	O	O	NN
+to	O	O	TO
+the	O	O	DT
+best	O	O	RB
+of	O	O	IN
+my	O	O	PRP$
+ability	O	O	NN
+,	O	UM	,
+but	O	O	CC
+finding	O	O	NN
+new	O	O	JJ
+names	O	O	NNS
+to	O	O	TO
+add	O	O	VB
+to	O	O	TO
+the	O	O	DT
+list	O	O	NN
+is	O	O	VBZ
+more	O	O	RBR
+difficult	O	O	JJ
+-	AHA	UM	:
+emails	O	O	NNS
+pertaining	O	O	VBG
+to	O	O	TO
+this	O	O	DT
+are	O	O	VBP
+greatly	O	O	RB
+appreciated	O	O	VBN
+!	O	UM	.
+
+
+#	O	UM	#
+Takeo	O	UC	NNP
+Kanade	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+27	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+
+
+#	O	UM	#
+David	O	UC	NNP
+Donoho	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+20	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+Stan	O	UC	NNP
+Osher	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+20	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+
+
+#	O	UM	#
+Pierre-Louis	AHA	UC	NNP
+Lions	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+18	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+Benoit	O	UC	NNP
+Mandelbrot	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+18	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+Sebastian	O	UC	NNP
+Thrun	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+18	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+
+
+#	O	UM	#
+Olivier	O	UC	NNP
+Faugeras	O	UC	FW
+-LRB-	AHA	UC	-LRB-
+17	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+Richard	O	UC	NNP
+Szeliski	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+17	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+Demetri	O	UC	NNP
+Terzopoulos	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+17	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+
+
+#	O	UM	#
+Wim	O	UC	NNP
+Sweldens	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+16	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+;	O	UM	:
+
+
+Teaching	O	UC	NN
+
+
+*	O	UM	SYM
+Spring	O	UC	NN
+quarter	O	O	NN
+2008	O	UM	CD
+-	AHA	UM	:
+CS	O	UC	NN
+205B	O	UM	NN
+-	AHA	UM	:
+Mathematical	O	UC	JJ
+Methods	O	UC	NNS
+for	O	O	IN
+Fluids	O	UC	NNS
+,	O	UM	,
+Solids	O	UC	NNS
+and	O	O	CC
+Interfaces	O	UC	NNS
+
+
+Overview	O	UC	NN
+of	O	O	IN
+numerical	O	O	JJ
+methods	O	O	NNS
+for	O	O	IN
+the	O	O	DT
+simulation	O	O	NN
+of	O	O	IN
+problems	O	O	NNS
+involving	O	O	VBG
+solid	O	O	JJ
+mechanics	O	O	NNS
+and	O	O	CC
+fluid	O	O	NN
+dynamics	O	O	NNS
+.	PRD	UM	.
+The	O	UC	DT
+focus	O	O	NN
+is	O	O	VBZ
+on	O	O	IN
+practical	O	O	JJ
+tools	O	O	NNS
+needed	O	O	VBN
+for	O	O	IN
+simulation	O	O	NN
+,	O	UM	,
+as	O	O	IN
+well	O	O	RB
+as	O	O	IN
+the	O	O	DT
+necessary	O	O	JJ
+continuous	O	O	JJ
+mathematics	O	O	NNS
+involving	O	O	VBG
+nonlinear	O	O	JJ
+hyperbolic	O	O	JJ
+partial	O	O	JJ
+differential	O	O	JJ
+equations	O	O	NNS
+.	PRD	UM	.
+Possible	O	UC	JJ
+topics	O	O	NNS
+:	O	UM	:
+finite	O	O	JJ
+element	O	O	NN
+method	O	O	NN
+,	O	UM	,
+highly	O	O	RB
+deformable	O	O	JJ
+elastic	O	O	JJ
+bodies	O	O	NNS
+,	O	UM	,
+plasticity	O	O	NN
+,	O	UM	,
+fracture	O	O	NN
+,	O	UM	,
+level	O	O	NN
+set	O	O	NN
+method	O	O	NN
+,	O	UM	,
+Burgers	O	UC	NNS
+'	AHA	UM	''
+equation	O	O	NN
+,	O	UM	,
+compressible	O	O	JJ
+and	O	O	CC
+incompressible	O	O	JJ
+Navier-Stokes	AHA	UC	NN
+equations	O	O	NNS
+,	O	UM	,
+smoke	O	O	NN
+,	O	UM	,
+water	O	O	NN
+,	O	UM	,
+fire	O	O	NN
+,	O	UM	,
+solid-fluid	AHA	O	NN
+coupling	O	O	NN
+.	PRD	UM	.
+Prerequisites	O	UC	NNS
+:	O	UM	:
+205A	O	UM	NN
+or	O	O	CC
+equivalents	O	O	NNS
+.	PRD	UM	.
+3	O	UM	CD
+units	O	O	NNS
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Fall	O	UC	NN
+quarter	O	O	NN
+2007	O	UM	CD
+-	AHA	UM	:
+CS	O	UC	NN
+205A	O	UM	NN
+-	AHA	UM	:
+Mathematical	O	UC	JJ
+Methods	O	UC	NNS
+for	O	O	IN
+Robotics	O	UC	NNS
+,	O	UM	,
+Vision	O	UC	NNP
+and	O	O	CC
+Graphics	O	UC	NNS
+
+
+Overview	O	UC	NN
+of	O	O	IN
+some	O	O	DT
+of	O	O	IN
+the	O	O	DT
+continuous	O	O	JJ
+mathematics	O	O	NNS
+background	O	O	NN
+necessary	O	O	JJ
+for	O	O	IN
+research	O	O	NN
+in	O	O	IN
+robotics	O	O	NNS
+,	O	UM	,
+vision	O	O	NN
+,	O	UM	,
+and	O	O	CC
+graphics	O	O	NNS
+.	PRD	UM	.
+Possible	O	UC	JJ
+topics	O	O	NNS
+:	O	UM	:
+linear	O	O	JJ
+algebra	O	O	NN
+;	O	UM	:
+the	O	O	DT
+conjugate	O	O	NN
+gradient	O	O	NN
+method	O	O	NN
+;	O	UM	:
+ordinary	O	O	JJ
+and	O	O	CC
+partial	O	O	JJ
+differential	O	O	JJ
+equations	O	O	NNS
+;	O	UM	:
+vector	O	O	NN
+and	O	O	CC
+tensor	O	O	NN
+calculus	O	O	NN
+;	O	UM	:
+calculus	O	O	NN
+of	O	O	IN
+variations	O	O	NNS
+.	PRD	UM	.
+Prerequisites	O	UC	NNS
+:	O	UM	:
+106B	O	UM	NN
+or	O	O	CC
+106X	O	UM	NN
+;	O	UM	:
+MATH	O	UC	NN
+51	O	UM	CD
+and	O	O	CC
+113	O	UM	CD
+;	O	UM	:
+or	O	O	CC
+equivalents	O	O	NNS
+.	PRD	UM	.
+3	O	UM	CD
+units	O	O	NNS
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Spring	O	UC	NN
+quarter	O	O	NN
+2007	O	UM	CD
+-	AHA	UM	:
+CS	O	UC	NN
+237C	O	UM	NN
+-	AHA	UM	:
+Numerical	O	UC	JJ
+Solution	O	UC	NN
+of	O	O	IN
+Partial	O	UC	JJ
+Differential	O	UC	JJ
+Equations	O	UC	NNS
+II	O	UC	NNP
+
+
+Hyperbolic	O	UC	JJ
+partial	O	O	JJ
+differential	O	O	JJ
+equations	O	O	NNS
+:	O	UM	:
+stability	O	O	NN
+,	O	UM	,
+convergence	O	O	NN
+and	O	O	CC
+qualitative	O	O	JJ
+properties	O	O	NNS
+.	PRD	UM	.
+Nonlinear	O	UC	JJ
+hyperbolic	O	O	JJ
+equations	O	O	NNS
+and	O	O	CC
+systems	O	O	NNS
+.	PRD	UM	.
+Combined	O	UC	VBN
+solution	O	O	NN
+methods	O	O	NNS
+from	O	O	IN
+elliptic	O	O	JJ
+,	O	UM	,
+parabolic	O	O	JJ
+,	O	UM	,
+and	O	O	CC
+hyperbolic	O	O	JJ
+problems	O	O	NNS
+.	PRD	UM	.
+Examples	O	UC	NNS
+include	O	O	VB
+:	O	UM	:
+Burgers	O	UC	NNS
+equation	O	O	NN
+,	O	UM	,
+Euler	O	UC	NNP
+equations	O	O	NNS
+for	O	O	IN
+compressible	O	O	JJ
+flow	O	O	NN
+,	O	UM	,
+Navier	O	UC	NN
+Stokes	O	UC	NNP
+equations	O	O	NNS
+for	O	O	IN
+incompressible	O	O	JJ
+flow	O	O	NN
+.	PRD	UM	.
+Prerequisites	O	UC	NNS
+:	O	UM	:
+205	O	UM	CD
+or	O	O	CC
+both	O	O	DT
+237A	O	UM	NN
+and	O	O	CC
+237B	O	UM	NN
+;	O	UM	:
+MATH	O	UC	NN
+130	O	UM	CD
+,	O	UM	,
+131	O	UM	CD
+;	O	UM	:
+or	O	O	CC
+equivalents	O	O	NNS
+.	PRD	UM	.
+3	O	UM	CD
+units	O	O	NNS
+.	PRD	UM	.
+
+
+Personal	O	UC	NNP
+Stuff	O	UC	NN
+
+
+*	O	UM	SYM
+Brittany	O	UC	NNP
+and	O	O	CC
+Briana	O	UC	NNP
+...	PRD	UM	:
+
+
+*	O	UM	SYM
+Some	O	UC	DT
+scuba	O	O	NN
+diving	O	O	NN
+photos	O	O	NNS
+...	PRD	UM	:
+octopus	O	O	NN
+,	O	UM	,
+octopus2	O	UM	NN
+,	O	UM	,
+turtle	O	O	NN
+
+
+*	O	UM	SYM
+I	O	UC	PRP
+used	O	O	VBN
+to	O	O	TO
+be	O	O	VB
+a	O	O	DT
+competitive	O	O	JJ
+weightlifter	O	O	NN
+with	O	O	IN
+a	O	O	DT
+personal	O	O	JJ
+best	O	O	RB
+squat	O	O	JJ
+of	O	O	IN
+800	O	UM	CD
+pounds	O	O	NNS
+,	O	UM	,
+bench	O	O	NN
+press	O	O	NN
+of	O	O	IN
+555	O	UM	CD
+pounds	O	O	NNS
+and	O	O	CC
+deadlift	O	O	NN
+of	O	O	IN
+735	O	UM	CD
+pounds	O	O	NNS
+,	O	UM	,
+all	O	O	DT
+in	O	O	IN
+the	O	O	DT
+198	O	UM	CD
+pound	O	O	NN
+weight	O	O	NN
+class	O	O	NN
+...	PRD	UM	:
+
+
+squatting	O	O	VBG
+775	O	UM	CD
+pounds	O	O	NNS
+,	O	UM	,
+incline	O	O	NN
+dumbell	O	O	NN
+press	O	O	NN
+with	O	O	IN
+170	O	UM	CD
+pound	O	O	NN
+dumbells	O	O	NNS
+,	O	UM	,
+deadlifting	O	O	VBG
+661	O	UM	CD
+pounds	O	O	NNS
+,	O	UM	,
+front	O	O	NN
+,	O	UM	,
+back	O	O	RB
+,	O	UM	,
+side	O	O	NN
+,	O	UM	,
+torso	O	O	NN
+,	O	UM	,
+arms	O	O	NNS
+
+
+Rajeev	O	UC	NNP
+Motwani	O	UC	NNP
+
+
+Professor	O	UC	NNP
+and	O	O	CC
+Director	O	UC	NN
+of	O	O	IN
+Graduate	O	UC	NN
+Studies	O	UC	NNS
+
+
+Database	O	UC	NN
+Group/InfoLab	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+Foundations	O	UC	NNS
+Group	O	UC	NNP
+
+
+Computer	O	UC	NN
+Science	O	UC	NN
+Department	O	UC	NNP
+
+
+Stanford	O	UC	NNP
+University	O	UC	NNP
+
+
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+1988	O	UM	CD
+-LRB-	AHA	UC	-LRB-
+Computer	O	UC	NN
+Science	O	UC	NN
+,	O	UM	,
+U.C.	PRD	UC	NNP
+Berkeley	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+B.Tech	PRD	UC	NNP
+.	PRD	UM	.
+1983	O	UM	CD
+-LRB-	AHA	UC	-LRB-
+-LSB-	AHA	UC	-LRB-
+MISC	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+-RSB-	AHA	UC	-RRB-
+,	O	UM	,
+IIT	O	UC	NNP
+Kanpur	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+-----	AHA	UM	CD
+
+
+Research	O	UC	NNP
+Interests	O	UC	NNS
+:	O	UM	:
+Databases	O	UC	NNS
+,	O	UM	,
+data	O	O	NNS
+mining	O	O	NN
+,	O	UM	,
+information	O	O	NN
+retrieval	O	O	NN
+,	O	UM	,
+and	O	O	CC
+web	O	O	NN
+searching	O	O	VBG
+.	PRD	UM	.
+Privacy	O	UC	NN
+and	O	O	CC
+security	O	O	NN
+,	O	UM	,
+particularly	O	O	RB
+in	O	O	IN
+the	O	O	DT
+context	O	O	NN
+of	O	O	IN
+databases	O	O	NNS
+and	O	O	CC
+information	O	O	NN
+retrieval	O	O	NN
+.	PRD	UM	.
+Optimization	O	UC	NN
+and	O	O	CC
+scheduling	O	O	NN
+problems	O	O	NNS
+,	O	UM	,
+particularly	O	O	RB
+for	O	O	IN
+applications	O	O	NNS
+in	O	O	IN
+computer	O	O	NN
+systems	O	O	NNS
+,	O	UM	,
+compilers	O	O	NNS
+,	O	UM	,
+and	O	O	CC
+databases	O	O	NNS
+.	PRD	UM	.
+Computational	O	UC	JJ
+and	O	O	CC
+combinatorial	O	O	JJ
+geometry	O	O	NN
+with	O	O	IN
+applications	O	O	NNS
+to	O	O	TO
+robotics	O	O	NNS
+and	O	O	CC
+vision	O	O	NN
+.	PRD	UM	.
+Computational	O	UC	JJ
+biology	O	O	NN
+and	O	O	CC
+automated	O	O	VBN
+drug	O	O	NN
+design	O	O	NN
+.	PRD	UM	.
+Design	O	UC	NN
+and	O	O	CC
+analysis	O	O	NN
+of	O	O	IN
+algorithms	O	O	NNS
+with	O	O	IN
+emphasis	O	O	NN
+on	O	O	IN
+approximations	O	O	NNS
+,	O	UM	,
+online	O	O	NN
+computations	O	O	NNS
+,	O	UM	,
+and	O	O	CC
+randomized	O	O	VBN
+algorithms	O	O	NNS
+,	O	UM	,
+as	O	O	IN
+well	O	O	RB
+as	O	O	IN
+related	O	O	JJ
+complexity	O	O	NN
+theory	O	O	NN
+.	PRD	UM	.
+
+
+Biographical	O	UC	NNP
+Information	O	UC	NN
+
+
+-----	AHA	UM	CD
+
+
+Table	O	UC	NNP
+of	O	O	IN
+Contents	O	UC	NNS
+:	O	UM	:
+
+
+*	O	UM	SYM
+Research	O	UC	NNP
+Projects	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+Algorithms	O	UC	NNS
+,	O	UM	,
+DataMining/Internet/Web	O	UC	NNP
+/	O	UM	:
+Search	O	UC	VB
+,	O	UM	,
+Databases/Streams	O	UC	NNS
+,	O	UM	,
+Privacy	O	UC	NN
+,	O	UM	,
+P2P	O	UC	NN
+,	O	UM	,
+Drug	O	UC	NN
+Design	O	UC	NN
+,	O	UM	,
+Robotics	O	UC	NNS
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Graduate	O	UC	NN
+Students	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+Current	O	UC	JJ
+and	O	O	CC
+``	O	UM	``
+Graduated	O	UC	VBD
+''	AHA	UM	''
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Publications	O	UC	NNP
+
+
+*	O	UM	SYM
+Books	O	UC	NNS
+&	AHA	UM	CC
+Book	O	UC	VB
+Chapters	O	UC	NNS
+
+
+*	O	UM	SYM
+Recent	O	UC	JJ
+and	O	O	CC
+Forthcoming	O	UC	JJ
+Talks	O	UC	NNS
+
+
+*	O	UM	SYM
+Teaching	O	UC	NN
+and	O	O	CC
+Courses	O	UC	NNS
+-LRB-	AHA	UC	-LRB-
+Spring	O	UC	NN
+07-08	AHA	UM	CD
+:	O	UM	:
+CS	O	UC	NN
+154	O	UM	CD
+-	AHA	UM	:
+Automata	O	UC	NN
+&	AHA	UM	CC
+Complexity	O	UC	NN
+Theory	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Selected	O	UC	VBN
+Awards	O	UC	NNS
+and	O	O	CC
+Honors	O	UC	NNS
+
+
+*	O	UM	SYM
+Professional	O	UC	NNP
+Activities	O	UC	NNS
+:	O	UM	:
+
+
+*	O	UM	SYM
+Journal	O	UC	NNP
+Editorial	O	UC	NN
+Boards	O	UC	NNS
+:	O	UM	:
+ACM	O	UC	NNP
+Transactions	O	UC	NNS
+on	O	O	IN
+Knowledge	O	UC	NN
+Discovery	O	UC	NNP
+from	O	O	IN
+Data	O	UC	NNS
+
+
+Journal	O	UC	NNP
+of	O	O	IN
+Computer	O	UC	NN
+and	O	O	CC
+System	O	UC	NNP
+Sciences	O	UC	NNPS
+
+
+SIAM	O	UC	NNP
+Journal	O	UC	NNP
+on	O	O	IN
+Computing	O	UC	NNP
+
+
+IEEE	O	UC	NN
+Transactions	O	UC	NNS
+on	O	O	IN
+Knowledge	O	UC	NN
+and	O	O	CC
+Data	O	UC	NNS
+Engineering	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+2002-2007	AHA	UM	CD
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Current	O	UC	JJ
+Program	O	UC	NN
+Committees	O	UC	NNS
+:	O	UM	:
+SODA	O	UC	NN
+2009	O	UM	CD
+,	O	UM	,
+WINE	O	UC	NN
+2008	O	UM	CD
+,	O	UM	,
+SIAM	O	UC	NNP
+Annual	O	UC	JJ
+Meeting	O	UC	VBG
+2008	O	UM	CD
+,	O	UM	,
+WSDM	O	UC	NNP
+2008	O	UM	CD
+,	O	UM	,
+KDD	O	UC	NNP
+2008	O	UM	CD
+,	O	UM	,
+SIGMOD	O	UC	NN
+2007	O	UM	CD
+,	O	UM	,
+ICDE	O	UC	NN
+2007	O	UM	CD
+,	O	UM	,
+
+
+*	O	UM	SYM
+Past	O	UC	JJ
+Conference	O	UC	NN
+Program	O	UC	NN
+Committees	O	UC	NNS
+
+
+*	O	UM	SYM
+Vice-Chair	AHA	UC	NNP
+,	O	UM	,
+Executive	O	UC	NNP
+Committee	O	UC	NNP
+,	O	UM	,
+ACM	O	UC	NNP
+SIGACT	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+2001-2005	AHA	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Want	O	UC	JJ
+to	O	O	TO
+contact	O	O	NN
+me	O	O	PRP
+or	O	O	CC
+my	O	O	PRP$
+admin	O	O	NN
+?	O	UM	.
+
+
+*	O	UM	SYM
+Other	O	UC	JJ
+Links	O	UC	NNP
+.	PRD	UM	.
+
+
+-----	AHA	UM	CD
+
+
+Recent	O	UC	JJ
+survey	O	O	NN
+talks	O	O	NNS
+on	O	O	IN
+Data	O	UC	NNS
+Streams	O	UC	NNS
+:	O	UM	:
+
+
+Randomization	O	UC	NN
+for	O	O	IN
+Massive	O	UC	JJ
+and	O	O	CC
+Streaming	O	UC	VBG
+Data	O	UC	NNS
+Sets	O	UC	NNS
+
+
+Stanford	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+Forum	O	UC	NNP
+-	AHA	UM	:
+Annual	O	UC	JJ
+Affiliates	O	UC	NNP
+Meeting	O	UC	VBG
+,	O	UM	,
+Stanford	O	UC	NNP
+,	O	UM	,
+May	O	UC	NNP
+2003	O	UM	CD
+.	PRD	UM	.
+
+
+Here	O	UC	RB
+are	O	O	VBP
+the	O	O	DT
+slides	O	O	NNS
+from	O	O	IN
+this	O	O	DT
+talk	O	O	NN
+.	PRD	UM	.
+
+
+Models	O	UC	NNS
+and	O	O	CC
+Issues	O	UC	NNS
+in	O	O	IN
+Data	O	UC	NNS
+Stream	O	UC	NNP
+Systems	O	UC	NNPS
+
+
+PODS	O	UC	NNS
+Plenary	O	UC	NNP
+Talk	O	UC	NN
+at	O	O	IN
+the	O	O	DT
+ACM	O	UC	NNP
+SIGMOD/PODS	O	UC	NN
+2002	O	UM	CD
+Conference	O	UC	NN
+,	O	UM	,
+June	O	UC	NNP
+2002	O	UM	CD
+.	PRD	UM	.
+
+
+Here	O	UC	RB
+are	O	O	VBP
+the	O	O	DT
+slides	O	O	NNS
+from	O	O	IN
+this	O	O	DT
+talk	O	O	NN
+.	PRD	UM	.
+
+
+If	O	UC	IN
+I	O	UC	PRP
+had	O	O	VBD
+more	O	O	RBR
+time	O	O	NN
+-LRB-	AHA	UC	-LRB-
+say	O	O	VB
+3	O	UM	CD
+hours	O	O	NNS
+:-RRB-	AHA	UC	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+here	O	O	RB
+are	O	O	VBP
+the	O	O	DT
+slides	O	O	NNS
+I	O	UC	PRP
+would	O	O	MD
+have	O	O	VB
+used	O	O	VBN
+.	PRD	UM	.
+
+
+-----	AHA	UM	CD
+
+
+Introduction	O	UC	NN
+to	O	O	TO
+Automata	O	UC	NN
+Theory	O	UC	NNP
+,	O	UM	,
+
+
+Languages	O	UC	NNS
+,	O	UM	,
+and	O	O	CC
+Computation	O	UC	NN
+
+
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Hopcroft	O	UC	NNP
+and	O	O	CC
+Ullman	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Addison-Wesley	AHA	UC	NN
+,	O	UM	,
+2000	O	UM	CD
+.	PRD	UM	.
+
+
+Jeff	O	UC	NNP
+Ullman	O	UC	NNP
+maintains	O	O	VBZ
+the	O	O	DT
+book	O	O	NN
+web	O	O	NN
+page	O	O	NN
+.	PRD	UM	.
+
+
+Randomized	O	UC	VBN
+Algorithms	O	UC	NNS
+
+
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Raghavan	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+
+
+Cambridge	O	UC	NNP
+University	O	UC	NNP
+Press	O	UC	NNP
+,	O	UM	,
+1995	O	UM	CD
+.	PRD	UM	.
+
+
+-----	AHA	UM	CD
+
+
+Rajeev	O	UC	NNP
+Motwani	O	UC	NNP
+
+
+Department	O	UC	NNP
+of	O	O	IN
+Computer	O	UC	NN
+Science	O	UC	NN
+
+
+Room	O	UC	NN
+474	O	UM	CD
+
+
+Gates	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+Building	O	UC	NN
+4B	O	UM	NN
+
+
+Stanford	O	UC	NNP
+University	O	UC	NNP
+
+
+Stanford	O	UC	NNP
+,	O	UM	,
+CA	O	UC	NNP
+94305-9045	AHA	UM	CD
+
+
+Phones	O	UC	NNS
+:	O	UM	:
+650-723-6045	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+office	O	O	NN
+-RRB-	AHA	UC	-RRB-
+
+
+650-725-4671	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+fax	O	O	NN
+-RRB-	AHA	UC	-RRB-
+
+
+``	O	UM	``
+first	O	O	RB
+name	O	O	NN
+''	AHA	UM	''
+AT	O	UC	IN
+cs.stanford.edu	PRD	O	NN
+
+
+Admin	O	UC	NNP
+:	O	UM	:
+Lynda	O	UC	NNP
+Harris	O	UC	NNP
+
+
+Department	O	UC	NNP
+of	O	O	IN
+Computer	O	UC	NN
+Science	O	UC	NN
+
+
+Room	O	UC	NN
+495	O	UM	CD
+
+
+Gates	O	UC	NNP
+Computer	O	UC	NN
+Science	O	UC	NN
+Building	O	UC	NN
+4B	O	UM	NN
+
+
+Stanford	O	UC	NNP
+University	O	UC	NNP
+
+
+Stanford	O	UC	NNP
+,	O	UM	,
+CA	O	UC	NNP
+94305-9045	AHA	UM	CD
+
+
+Phones	O	UC	NNS
+:	O	UM	:
+650-723-4377	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+office	O	O	NN
+-RRB-	AHA	UC	-RRB-
+
+
+650-725-4671	AHA	UM	CD
+-LRB-	AHA	UC	-LRB-
+fax	O	O	NN
+-RRB-	AHA	UC	-RRB-
+
+
+``	O	UM	``
+first	O	O	RB
+name	O	O	NN
+''	AHA	UM	''
+@cs	O	O	NNS
+.	PRD	UM	.
+
+
+Directions	O	UC	NNS
+to	O	O	TO
+Gates	O	UC	NNP
+Building	O	UC	NN
+
+
+-----	AHA	UM	CD
+
+
+Graeme	O	UC	NNP
+Bailey	O	UC	NNP
+
+
+Professor	O	UC	NNP
+
+
+bailey@cs.cornell.edu	PRD	O	NN
+
+
+Ph.D.	PRD	UC	NNP
+.	PRD	UM	.
+University	O	UC	NNP
+of	O	O	IN
+Birmingham	O	UC	NNP
+U.K.	PRD	UC	NNP
+,	O	UM	,
+1977	O	UM	CD
+
+
+Originally	O	UC	RB
+working	O	O	VBG
+in	O	O	IN
+low-dimensional	AHA	O	JJ
+topology	O	O	NN
+and	O	O	CC
+combinatorial	O	O	JJ
+group	O	O	NN
+theory	O	O	NN
+,	O	UM	,
+through	O	O	IN
+an	O	O	DT
+odd	O	O	JJ
+mixture	O	O	NN
+of	O	O	IN
+circumstances	O	O	NNS
+I	O	UC	PRP
+have	O	O	VB
+become	O	O	VB
+actively	O	O	RB
+involved	O	O	VBN
+in	O	O	IN
+research	O	O	NN
+in	O	O	IN
+mathematics	O	O	NNS
+and	O	O	CC
+medicine	O	O	NN
+.	PRD	UM	.
+One	O	UC	CD
+of	O	O	IN
+two	O	O	CD
+ongoing	O	O	JJ
+research	O	O	NN
+projects	O	O	NNS
+in	O	O	IN
+this	O	O	DT
+area	O	O	NN
+is	O	O	VBZ
+the	O	O	DT
+modeling	O	O	NN
+of	O	O	IN
+lung	O	O	NN
+inflation	O	O	NN
+,	O	UM	,
+together	O	O	RB
+with	O	O	IN
+a	O	O	DT
+research	O	O	NN
+group	O	O	NN
+at	O	O	IN
+the	O	O	DT
+Class	O	UC	NN
+One	O	UC	CD
+Trauma	O	UC	NN
+Center	O	UC	NNP
+at	O	O	IN
+Upstate	O	UC	JJ
+Medical	O	UC	NNP
+Univ.	PRD	UC	NNP
+.	PRD	UM	.
+,	O	UM	,
+Syracuse	O	UC	NNP
+,	O	UM	,
+NY	O	UC	NNP
+.	PRD	UM	.
+This	O	UC	DT
+is	O	O	VBZ
+in	O	O	IN
+the	O	O	DT
+early	O	O	RB
+stages	O	O	NNS
+of	O	O	IN
+a	O	O	DT
+program	O	O	NN
+to	O	O	TO
+extend	O	O	VB
+to	O	O	TO
+various	O	O	JJ
+pathologies	O	O	NNS
+affecting	O	O	VBG
+elasticity	O	O	NN
+and	O	O	CC
+aimed	O	O	VBN
+towards	O	O	IN
+effective	O	O	JJ
+clinical	O	O	JJ
+treatments	O	O	NNS
+.	PRD	UM	.
+The	O	UC	DT
+group	O	O	NN
+,	O	UM	,
+now	O	O	RB
+having	O	O	VBG
+made	O	O	VBN
+some	O	O	DT
+significant	O	O	JJ
+advances	O	O	NNS
+in	O	O	IN
+answering	O	O	VBG
+questions	O	O	NNS
+that	O	O	IN
+had	O	O	VBD
+remained	O	O	VBD
+unsolved	O	O	JJ
+for	O	O	IN
+over	O	O	IN
+30	O	UM	CD
+years	O	O	NNS
+,	O	UM	,
+is	O	O	VBZ
+now	O	O	RB
+in	O	O	IN
+the	O	O	DT
+process	O	O	NN
+of	O	O	IN
+trying	O	O	VBG
+to	O	O	TO
+obtain	O	O	VB
+reliable	O	O	JJ
+mathematical	O	O	JJ
+models	O	O	NNS
+.	PRD	UM	.
+This	O	UC	DT
+involves	O	O	VBZ
+building	O	O	NN
+computer	O	O	NN
+simulations	O	O	NNS
+of	O	O	IN
+dynamic	O	O	JJ
+packing	O	O	NN
+results	O	O	NNS
+under	O	O	IN
+constrained	O	O	VBN
+perturbations	O	O	NNS
+and	O	O	CC
+deformations	O	O	NNS
+.	PRD	UM	.
+The	O	UC	DT
+other	O	O	JJ
+project	O	O	NN
+is	O	O	VBZ
+in	O	O	IN
+understanding	O	O	VBG
+deformations	O	O	NNS
+of	O	O	IN
+trans	O	O	JJ
+membrane	O	O	NN
+proteins	O	O	NNS
+used	O	O	VBN
+in	O	O	IN
+cell-signaling	AHA	O	NN
+processes	O	O	NNS
+.	PRD	UM	.
+This	O	UC	DT
+is	O	O	VBZ
+a	O	O	DT
+carefully	O	O	RB
+constrained	O	O	VBN
+version	O	O	NN
+of	O	O	IN
+the	O	O	DT
+protein-folding	AHA	O	JJ
+problems	O	O	NNS
+that	O	O	IN
+have	O	O	VB
+been	O	O	VBN
+exciting	O	O	JJ
+the	O	O	DT
+mathematical	O	O	JJ
+biology	O	O	NN
+community	O	O	NN
+in	O	O	IN
+recent	O	O	JJ
+years	O	O	NNS
+;	O	UM	:
+the	O	O	DT
+application	O	O	NN
+of	O	O	IN
+a	O	O	DT
+topological	O	O	JJ
+viewpoint	O	O	NN
+in	O	O	IN
+collaborating	O	O	VBG
+with	O	O	IN
+molecular	O	O	JJ
+pharmacologists	O	O	NNS
+and	O	O	CC
+structural	O	O	JJ
+biologists	O	O	NNS
+has	O	O	VBZ
+already	O	O	RB
+yielded	O	O	VBD
+some	O	O	DT
+intriguing	O	O	JJ
+insights	O	O	NNS
+.	PRD	UM	.
+
+
+Honors/Awards	O	UC	NNS
+
+
+Kenneth	O	UC	NNP
+A.	PRD	UC	NN
+Goldman	O	UC	NNP
+'	AHA	UM	POS
+71	O	UM	CD
+Excellence	O	UC	NN
+in	O	O	IN
+Teaching	O	UC	NN
+Award	O	UC	NN
+,	O	UM	,
+2000	O	UM	CD
+.	PRD	UM	.
+
+
+University	O	UC	NNP
+Activities	O	UC	NNS
+
+
+Adjunct	O	UC	NN
+Professor	O	UC	NNP
+;	O	UM	:
+Mathematics	O	UC	NN
+.	PRD	UM	.
+
+
+Member	O	UC	NNP
+,	O	UM	,
+Fellowship	O	UC	NNP
+Selection	O	UC	NN
+Committees	O	UC	NNS
+:	O	UM	:
+Rhodes	O	UC	NNP
+,	O	UM	,
+Marshall	O	UC	NNP
+,	O	UM	,
+Churchill	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+Fulbright	O	UC	NNP
+.	PRD	UM	.
+
+
+Member	O	UC	NNP
+,	O	UM	,
+WCHI-Development	AHA	UC	NN
+and	O	O	CC
+Transition	O	UC	NN
+Committee	O	UC	NNP
+.	PRD	UM	.
+
+
+Member	O	UC	NNP
+,	O	UM	,
+Donlon	O	UC	NNP
+Fellows	O	UC	NNS
+Development	O	UC	NNP
+.	PRD	UM	.
+
+
+Member	O	UC	NNP
+,	O	UM	,
+Master	O	UC	NN
+of	O	O	IN
+Engineering	O	UC	NNP
+Committee	O	UC	NNP
+.	PRD	UM	.
+
+
+Member	O	UC	NNP
+,	O	UM	,
+Cornell	O	UC	NNP
+EMS	O	UC	NNP
+.	PRD	UM	.
+
+
+Faculty	O	UC	NN
+Advisor	O	UC	NNP
+,	O	UM	,
+Judo	O	UC	NN
+Club	O	UC	NNP
+.	PRD	UM	.
+
+
+Gerard	O	UC	NNP
+J.	PRD	UC	NNP
+Holzmann	O	UC	NNP
+
+
+gholzmann	O	O	NN
+-LRB-	AHA	UC	-LRB-
+insert	O	O	NN
+atsign	O	O	NN
+here	O	O	RB
+-RRB-	AHA	UC	-RRB-
+acm.org	PRD	O	NN
+
+
+NASA/JPL	O	UC	NN
+Laboratory	O	UC	NN
+for	O	O	IN
+Reliable	O	UC	JJ
+Software	O	UC	NNP
+,	O	UM	,
+
+
+and	O	O	CC
+Caltech	O	UC	NNP
+CS	O	UC	NN
+,	O	UM	,
+Pasadena	O	UC	NNP
+,	O	UM	,
+CA	O	UC	NNP
+.	PRD	UM	.
+
+
+interested	O	O	JJ
+in	O	O	IN
+:	O	UM	:
+software	O	O	NN
+reliability	O	O	NN
+,	O	UM	,
+software	O	O	NN
+analysis	O	O	NN
+methods	O	O	NNS
+,	O	UM	,
+formal	O	O	JJ
+verification	O	O	NN
+,	O	UM	,
+metrics	O	O	NNS
+,	O	UM	,
+logic	O	O	NN
+model	O	O	NN
+checking	O	O	VBG
+,	O	UM	,
+distributed	O	O	VBN
+systems	O	O	NNS
+design	O	O	NN
+,	O	UM	,
+analysis	O	O	NN
+of	O	O	IN
+multi-threaded	AHA	O	JJ
+software	O	O	NN
+,	O	UM	,
+testing	O	O	NN
+,	O	UM	,
+requirements	O	O	NNS
+capture	O	O	NN
+and	O	O	CC
+analysis	O	O	NN
+,	O	UM	,
+algorithms	O	O	NNS
+,	O	UM	,
+user	O	O	NN
+interface	O	O	NN
+design	O	O	NN
+,	O	UM	,
+graphic	O	O	JJ
+design	O	O	NN
+,	O	UM	,
+text	O	O	NN
+processing	O	O	NN
+,	O	UM	,
+image	O	O	NN
+processing	O	O	NN
+,	O	UM	,
+history	O	O	NN
+of	O	O	IN
+technology	O	O	NN
+,	O	UM	,
+technology	O	O	NN
+transfer	O	O	NN
+.	PRD	UM	.
+
+
+before	O	O	IN
+joining	O	O	VBG
+jpl	O	O	NN
+i	O	O	LS
+worked	O	O	VBD
+in	O	O	IN
+the	O	O	DT
+cs	O	O	NNS
+research	O	O	NN
+group	O	O	NN
+at	O	O	IN
+bell	O	O	NN
+labs	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+1980-1981	AHA	UM	CD
+and	O	O	CC
+1983-2003	AHA	UM	CD
+-RRB-	AHA	UC	-RRB-
+a	O	O	DT
+truly	O	O	RB
+remarkable	O	O	JJ
+group	O	O	NN
+that	O	O	IN
+was	O	O	VBD
+given	O	O	VBN
+virtually	O	O	RB
+complete	O	O	JJ
+freedom	O	O	NN
+to	O	O	TO
+pursue	O	O	VB
+research	O	O	NN
+goals	O	O	NNS
+,	O	UM	,
+with	O	O	IN
+no	O	O	DT
+perceptible	O	O	JJ
+management	O	O	NN
+oversight	O	O	NN
+.	PRD	UM	.
+i	O	O	LS
+made	O	O	VBN
+a	O	O	DT
+map	O	O	NN
+of	O	O	IN
+the	O	O	DT
+5th	O	UM	NN
+floor	O	O	NN
+at	O	O	IN
+stair	O	O	NN
+9	O	UM	CD
+in	O	O	IN
+building	O	O	NN
+2	O	UM	CD
+,	O	UM	,
+the	O	O	DT
+most	O	O	RBS
+desirable	O	O	JJ
+location	O	O	NN
+for	O	O	IN
+one	O	O	PRP
+'s	AHA	O	POS
+office	O	O	NN
+at	O	O	IN
+the	O	O	DT
+time	O	O	NN
+.	PRD	UM	.
+the	O	O	DT
+map	O	O	NN
+lists	O	O	NNS
+the	O	O	DT
+main	O	O	JJ
+occupants	O	O	NNS
+for	O	O	IN
+each	O	O	DT
+office	O	O	NN
+over	O	O	IN
+the	O	O	DT
+years	O	O	NNS
+,	O	UM	,
+with	O	O	IN
+the	O	O	DT
+person	O	O	NN
+that	O	O	IN
+occupied	O	O	VBN
+it	O	O	PRP
+the	O	O	DT
+longest	O	O	JJS
+in	O	O	IN
+red	O	O	JJ
+.	PRD	UM	.
+from	O	O	IN
+the	O	O	DT
+30-some	AHA	O	JJ
+people	O	O	NNS
+shown	O	O	VBN
+on	O	O	IN
+this	O	O	DT
+map	O	O	NN
+,	O	UM	,
+just	O	O	RB
+a	O	O	DT
+few	O	O	JJ
+remained	O	O	VBD
+to	O	O	TO
+witness	O	O	NN
+the	O	O	DT
+final	O	O	JJ
+disappearance	O	O	NN
+of	O	O	IN
+center	O	O	NN
+1127	O	UM	CD
+from	O	O	IN
+the	O	O	DT
+bell	O	O	NN
+labs	O	O	NNS
+org	O	O	NN
+charts	O	O	NNS
+in	O	O	IN
+august	O	O	NNP
+2005	O	UM	CD
+:	O	UM	:
+rae	O	O	NN
+mclellan	O	O	NN
+,	O	UM	,
+howard	O	O	NN
+trickey	O	O	NN
+-LRB-	AHA	UC	-LRB-
+since	O	O	IN
+moved	O	O	VBN
+to	O	O	TO
+google	O	O	NN
+-RRB-	AHA	UC	-RRB-
+and	O	O	CC
+dennis	O	O	NN
+ritchie	O	O	NN
+.	PRD	UM	.
+one	O	O	CD
+by	O	O	IN
+one	O	O	CD
+,	O	UM	,
+the	O	O	DT
+others	O	O	NNS
+all	O	O	DT
+found	O	O	VBN
+a	O	O	DT
+safe	O	O	JJ
+haven	O	O	NN
+elsewhere	O	O	RB
+.	PRD	UM	.
+
+
+remarkably	O	O	RB
+,	O	UM	,
+8	O	UM	CD
+of	O	O	IN
+the	O	O	DT
+30	O	UM	CD
+people	O	O	NNS
+whose	O	O	WP$
+name	O	O	NN
+is	O	O	VBZ
+shown	O	O	VBN
+on	O	O	IN
+this	O	O	DT
+map	O	O	NN
+-LRB-	AHA	UC	-LRB-
+and	O	O	CC
+about	O	O	IN
+18	O	UM	CD
+former	O	O	JJ
+members	O	O	NNS
+of	O	O	IN
+center	O	O	NN
+1127	O	UM	CD
+alltogether	O	O	NN
+-RRB-	AHA	UC	-RRB-
+now	O	O	RB
+work	O	O	NN
+at	O	O	IN
+google	O	O	NN
+.	PRD	UM	.
+
+
+Software	O	UC	NNP
+
+
+*	O	UM	SYM
+Spin	O	UC	VB
+an	O	O	DT
+efficient	O	O	JJ
+verification	O	O	NN
+system	O	O	NN
+for	O	O	IN
+distributed	O	O	VBN
+software	O	O	NN
+systems	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+a	O	O	DT
+logic	O	O	NN
+model	O	O	NN
+checker	O	O	NN
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Feaver	O	UC	NNP
+a	O	O	DT
+model	O	O	NN
+extraction	O	O	NN
+system	O	O	NN
+for	O	O	IN
+ANSI-C	AHA	UC	NN
+source	O	O	NN
+code	O	O	NN
+:	O	UM	:
+the	O	O	DT
+first	O	O	RB
+step	O	O	NN
+towards	O	O	IN
+the	O	O	DT
+development	O	O	NN
+of	O	O	IN
+a	O	O	DT
+general	O	O	JJ
+purpose	O	O	NN
+tool	O	O	NN
+for	O	O	IN
+the	O	O	DT
+verification	O	O	NN
+of	O	O	IN
+distributed	O	O	VBN
+systems	O	O	NNS
+applications	O	O	NNS
+directly	O	O	RB
+from	O	O	IN
+program	O	O	NN
+source	O	O	NN
+text	O	O	NN
+.	PRD	UM	.
+the	O	O	DT
+system	O	O	NN
+was	O	O	VBD
+used	O	O	VBN
+at	O	O	IN
+Bell	O	UC	NNP
+Labs	O	UC	NNPS
+between	O	O	IN
+1998	O	UM	CD
+and	O	O	CC
+2000	O	UM	CD
+to	O	O	TO
+exhaustively	O	O	RB
+verify	O	O	VB
+the	O	O	DT
+call-processing	AHA	O	NN
+software	O	O	NN
+of	O	O	IN
+Lucent	O	UC	NNP
+'s	AHA	O	POS
+PathStar	O	UC	NN
+access	O	O	NN
+server	O	O	NN
+.	PRD	UM	.
+The	O	UC	DT
+source	O	O	NN
+code	O	O	NN
+is	O	O	VBZ
+available	O	O	JJ
+,	O	UM	,
+see	O	O	VB
+the	O	O	DT
+Modex	O	UC	NNP
+distribution	O	O	NN
+page	O	O	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Uno	O	UC	NNP
+A	O	UC	DT
+simple	O	O	JJ
+static	O	O	JJ
+analysis	O	O	NN
+tool	O	O	NN
+for	O	O	IN
+ANSI	O	UC	NN
+C	O	UC	NN
+programs	O	O	NNS
+,	O	UM	,
+based	O	O	VBN
+on	O	O	IN
+Ctree	O	UC	NNP
+0.14	PRD	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Ubet	O	UC	NNP
+a	O	O	DT
+requirements	O	O	NNS
+capture	O	O	NN
+and	O	O	CC
+analysis	O	O	NN
+toolset	O	O	NN
+from	O	O	IN
+around	O	O	IN
+1995	O	UM	CD
+,	O	UM	,
+originally	O	O	RB
+called	O	O	VBN
+msc/poga	O	O	NN
+,	O	UM	,
+later	O	O	RB
+productized	O	O	VBN
+and	O	O	CC
+distributed	O	O	VBN
+within	O	O	IN
+Lucent	O	UC	NNP
+as	O	O	IN
+the	O	O	DT
+uBET	O	UM	NN
+tool	O	O	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Sdlvalid	O	UC	NN
+,	O	UM	,
+an	O	O	DT
+early	O	O	RB
+verifier	O	O	NN
+for	O	O	IN
+SDL	O	UC	NN
+.	PRD	UM	.
+the	O	O	DT
+tool	O	O	NN
+was	O	O	VBD
+written	O	O	VBN
+in	O	O	IN
+1987/1988	O	UM	CD
+,	O	UM	,
+and	O	O	CC
+was	O	O	VBD
+used	O	O	VBN
+internally	O	O	RB
+for	O	O	IN
+about	O	O	IN
+five	O	O	CD
+years	O	O	NNS
+.	PRD	UM	.
+it	O	O	PRP
+was	O	O	VBD
+never	O	O	RB
+approved	O	O	VBN
+for	O	O	IN
+public	O	O	NN
+release	O	O	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+microtrace	O	O	NN
+a	O	O	DT
+demo	O	O	NN
+awk-script	AHA	O	JJ
+for	O	O	IN
+FSM	O	UC	SYM
+verification	O	O	NN
+-LRB-	AHA	UC	-LRB-
+written	O	O	VBN
+1987	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Pico/Popi	O	UC	NNP
+digital	O	O	JJ
+darkroom	O	O	NN
+software	O	O	NN
+-LRB-	AHA	UC	-LRB-
+written	O	O	VBN
+1984	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+For	O	UC	IN
+the	O	O	DT
+curious	O	O	JJ
+,	O	UM	,
+here	O	O	RB
+is	O	O	VBZ
+also	O	O	RB
+a	O	O	DT
+tar	O	O	NN
+archive	O	O	NN
+pico.tar	PRD	O	NN
+with	O	O	IN
+the	O	O	DT
+pre-ansi	AHA	O	JJ
+c	O	O	NN
+source	O	O	NN
+code	O	O	NN
+that	O	O	IN
+includes	O	O	VBZ
+the	O	O	DT
+little	O	O	RB
+on-the-fly	AHA	O	JJ
+compiler	O	O	NN
+that	O	O	IN
+Ken	O	UC	NNP
+Thompson	O	UC	NNP
+and	O	O	CC
+Rob	O	UC	NNP
+Pike	O	UC	NNP
+wrote	O	O	VBD
+.	PRD	UM	.
+The	O	UC	DT
+compiler	O	O	NN
+in	O	O	IN
+gen.c	PRD	O	NN
+-LRB-	AHA	UC	-LRB-
+also	O	O	RB
+written	O	O	VBN
+in	O	O	IN
+1984	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+generated	O	O	VBN
+machine	O	O	NN
+code	O	O	NN
+for	O	O	IN
+a	O	O	DT
+VAX	O	UC	NNP
+.	PRD	UM	.
+Of	O	UC	IN
+course	O	O	NN
+,	O	UM	,
+this	O	O	DT
+code	O	O	NN
+will	O	O	MD
+not	O	O	RB
+compile	O	O	VB
+or	O	O	CC
+run	O	O	NN
+on	O	O	IN
+any	O	O	DT
+modern	O	O	JJ
+machine	O	O	NN
+.	PRD	UM	.
+See	O	UC	VB
+also	O	O	RB
+Pico	O	UC	NNP
+'s	AHA	O	POS
+website	O	O	NN
+.	PRD	UM	.
+
+
+Books	O	UC	NNS
+
+
+*	O	UM	SYM
+The	O	UC	DT
+Spin	O	UC	VB
+Model	O	UC	NNP
+Checker	O	UC	NN
+-	AHA	UM	:
+Primer	O	UC	NN
+and	O	O	CC
+Reference	O	UC	NNP
+Manual	O	UC	NNP
+.	PRD	UM	.
+The	O	UC	DT
+new	O	O	JJ
+book	O	O	NN
+,	O	UM	,
+describing	O	O	VBG
+the	O	O	DT
+most	O	O	RBS
+recent	O	O	JJ
+version	O	O	NN
+of	O	O	IN
+Spin	O	UC	VB
+,	O	UM	,
+608	O	UM	CD
+pgs	O	O	NNS
+.	PRD	UM	.
+Addison-Wesley	AHA	UC	NN
+Publ.	PRD	UC	NNP
+,	O	UM	,
+ISBN	O	UC	NNP
+0-321-22862-6	AHA	UM	CD
+,	O	UM	,
+available	O	O	JJ
+September	O	UC	NNP
+2003	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Design	O	UC	NN
+and	O	O	CC
+Validation	O	UC	NN
+of	O	O	IN
+Computer	O	UC	NN
+Protocols	O	UC	NNS
+,	O	UM	,
+Prentice	O	UC	NNP
+Hall	O	UC	NN
+,	O	UM	,
+1991	O	UM	CD
+.	PRD	UM	.
+The	O	UC	DT
+first	O	O	RB
+Spin	O	UC	VB
+book	O	O	NN
+.	PRD	UM	.
+Spin	O	UC	VB
+was	O	O	VBD
+written	O	O	VBN
+for	O	O	IN
+this	O	O	DT
+book	O	O	NN
+in	O	O	IN
+1989	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+The	O	UC	DT
+Early	O	UC	RB
+History	O	UC	NN
+of	O	O	IN
+Data	O	UC	NNS
+Networks	O	UC	NNP
+,	O	UM	,
+IEEE	O	UC	NN
+Computer	O	UC	NN
+Society	O	UC	NNP
+Press	O	UC	NNP
+,	O	UM	,
+1995	O	UM	CD
+.	PRD	UM	.
+-LRB-	AHA	UC	-LRB-
+inspired	O	O	VBN
+by	O	O	IN
+the	O	O	DT
+first	O	O	RB
+chapter	O	O	NN
+in	O	O	IN
+the	O	O	DT
+Design	O	UC	NN
+and	O	O	CC
+Validation	O	UC	NN
+book	O	O	NN
+.	PRD	UM	.
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+Beyond	O	UC	IN
+Photography	O	UC	NNP
+--	AHA	UM	:
+The	O	UC	DT
+Digital	O	UC	NNP
+Darkroom	O	UC	NN
+,	O	UM	,
+Prentice	O	UC	NNP
+Hall	O	UC	NN
+,	O	UM	,
+1988	O	UM	CD
+.	PRD	UM	.
+The	O	UC	DT
+first	O	O	RB
+book	O	O	NN
+to	O	O	TO
+coin	O	O	NN
+the	O	O	DT
+term	O	O	NN
+digital	O	O	JJ
+darkroom	O	O	NN
+;	O	UM	:
+it	O	O	PRP
+predicted	O	O	VBN
+that	O	O	IN
+the	O	O	DT
+days	O	O	NNS
+of	O	O	IN
+conventional	O	O	JJ
+photograph	O	O	NN
+would	O	O	MD
+be	O	O	VB
+numbered	O	O	VBD
+.	PRD	UM	.
+The	O	UC	DT
+book	O	O	NN
+,	O	UM	,
+and	O	O	CC
+lots	O	O	NNS
+of	O	O	IN
+background	O	O	NN
+information	O	O	NN
+,	O	UM	,
+is	O	O	VBZ
+today	O	O	NN
+accessible	O	O	JJ
+online	O	O	NN
+via	O	O	IN
+the	O	O	DT
+link	O	O	NN
+above	O	O	RB
+.	PRD	UM	.
+
+
+Papers	O	UC	NNP
+etc.	PRD	O	FW
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+publications	O	O	NNS
+,	O	UM	,
+with	O	O	IN
+PDF	O	UC	NN
+for	O	O	IN
+most	O	O	RBS
+papers	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+new	O	O	JJ
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+abstracts	O	O	NNS
+for	O	O	IN
+selected	O	O	VBN
+papers	O	O	NNS
+
+
+Little	O	UC	JJ
+Movies	O	UC	NNS
+
+
+*	O	UM	SYM
+pixelface	O	O	NN
+,	O	UM	,
+1988	O	UM	CD
+,	O	UM	,
+a	O	O	DT
+five	O	O	CD
+minute	O	O	NN
+demo	O	O	NN
+of	O	O	IN
+Pico/Popi	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Mpeg	O	UC	NNP
+40Mb	O	UM	NN
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+A	O	UC	DT
+portion	O	O	NN
+of	O	O	IN
+the	O	O	DT
+video	O	O	NN
+was	O	O	VBD
+shown	O	O	VBN
+on	O	O	IN
+CNN	O	UC	NNP
+Science	O	UC	NN
+&	AHA	UM	CC
+Technology	O	UC	NN
+report	O	O	NN
+in	O	O	IN
+1989	O	UM	CD
+:	O	UM	:
+see	O	O	VB
+clip	O	O	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+walkman	O	O	NN
+,	O	UM	,
+1984	O	UM	CD
+,	O	UM	,
+a	O	O	DT
+40	O	UM	CD
+second	O	O	JJ
+try	O	O	VB
+to	O	O	TO
+make	O	O	VB
+a	O	O	DT
+little	O	O	RB
+movie	O	O	NN
+,	O	UM	,
+with	O	O	IN
+Rob	O	UC	NNP
+Pike	O	UC	NNP
+,	O	UM	,
+Don	O	UC	NNP
+Mitchell	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+Lillian	O	UC	NNP
+Schwartz	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+Mpeg	O	UC	NNP
+7	O	UM	CD
+Mb	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+A	O	UC	DT
+frame	O	O	NN
+from	O	O	IN
+the	O	O	DT
+movie	O	O	NN
+was	O	O	VBD
+used	O	O	VBN
+for	O	O	IN
+the	O	O	DT
+cover	O	O	NN
+of	O	O	IN
+IEEE	O	UC	NN
+Spectrum	O	UC	NN
+,	O	UM	,
+June	O	UC	NNP
+1984	O	UM	CD
+.	PRD	UM	.
+
+
+Covers	O	UC	NNP
+,	O	UM	,
+Logos	O	UC	NNS
+etc.	PRD	O	FW
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+The	O	UC	DT
+first	O	O	RB
+Inferno	O	UC	NN
+logo	O	O	NN
+,	O	UM	,
+1996	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+CS	O	UC	NN
+Research	O	UC	NNP
+Center	O	UC	NNP
+logo	O	O	NN
+,	O	UM	,
+1997	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Spin	O	UC	VB
+logo	O	O	NN
+,	O	UM	,
+2000	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+NASA/JPL	O	UC	NN
+Lars	O	UC	NNP
+logo	O	O	NN
+,	O	UM	,
+2004	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+CD	O	UC	NNP
+,	O	UM	,
+floppies	O	O	NNS
+,	O	UM	,
+and	O	O	CC
+manual	O	O	NN
+covers	O	O	NNS
+,	O	UM	,
+Plan-9	AHA	UC	NN
+,	O	UM	,
+2nd	O	UM	JJ
+Edition	O	UC	NN
+,	O	UM	,
+
+
+Pub	O	UC	NN
+.	PRD	UM	.
+Harcourt	O	UC	NNP
+Brace	O	UC	NNP
+&	AHA	UM	CC
+Company	O	UC	NN
+,	O	UM	,
+Orlando	O	UC	NNP
+,	O	UM	,
+Fl	O	UC	NN
+.	PRD	UM	.
+,	O	UM	,
+1995	O	UM	CD
+.	PRD	UM	.
+
+
+-LRB-	AHA	UC	-LRB-
+Illustrations	O	UC	NNS
+from	O	O	IN
+Louis	O	UC	NNP
+Figuier	O	UC	NN
+,	O	UM	,
+Les	O	UC	NNP
+Merveilles	O	UC	NNP
+de	O	O	IN
+la	O	O	DT
+Science	O	UC	NN
+,	O	UM	,
+Paris	O	UC	NNP
+1867	O	UM	CD
+.	PRD	UM	.
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+CD	O	UC	NNP
+,	O	UM	,
+Plan-9	AHA	UC	NN
+from	O	O	IN
+Bell	O	UC	NNP
+Labs	O	UC	NNPS
+,	O	UM	,
+1st	O	UM	JJ
+Edition	O	UC	NN
+,	O	UM	,
+1992	O	UM	CD
+.	PRD	UM	.
+
+
+-LRB-	AHA	UC	-LRB-
+Three	O	UC	CD
+actors	O	O	NNS
+from	O	O	IN
+Plan-9	AHA	UC	NN
+,	O	UM	,
+the	O	O	DT
+movie	O	O	NN
+by	O	O	IN
+Ed	O	UC	NNP
+Wood	O	UC	NNP
+.	PRD	UM	.
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+CD	O	UC	NNP
+,	O	UM	,
+Chess	O	UC	NN
+Endgames	O	UC	NNS
+,	O	UM	,
+Vols	O	UC	NNS
+1-4	AHA	UM	CD
+,	O	UM	,
+-LRB-	AHA	UC	-LRB-
+issued	O	O	VBN
+by	O	O	IN
+Ken	O	UC	NNP
+Thompson	O	UC	NNP
+,	O	UM	,
+1991	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+
+
+-LRB-	AHA	UC	-LRB-
+Chess-piece	AHA	UC	NN
+and	O	O	CC
+a	O	O	DT
+small	O	O	JJ
+part	O	O	NN
+of	O	O	IN
+Leonardo	O	UC	NNP
+da	O	O	NN
+Vinci	O	UC	NNP
+'s	AHA	O	POS
+Creation	O	UC	NN
+.	PRD	UM	.
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+AT&T	AHA	UC	NNP
+Technical	O	UC	NNP
+Journal	O	UC	NNP
+,	O	UM	,
+March/April	O	UC	NNP
+1987	O	UM	CD
+,	O	UM	,
+Vol	O	UC	NNP
+66	O	UM	CD
+,	O	UM	,
+Issue	O	UC	NN
+2	O	UM	LS
+.	PRD	UM	.
+
+
+-LRB-	AHA	UC	-LRB-
+Cover	O	UC	NNP
+with	O	O	IN
+a	O	O	DT
+transformed	O	O	VBN
+Pico/Popi	O	UC	NNP
+Image	O	UC	NN
+of	O	O	IN
+Peter	O	UC	NNP
+Weinberger	O	UC	NNP
+'s	AHA	O	POS
+portrait	O	O	NN
+.	PRD	UM	.
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+AT&T	AHA	UC	NNP
+Bell	O	UC	NNP
+Laboratories	O	UC	NNPS
+Technical	O	UC	NNP
+Journal	O	UC	NNP
+,	O	UM	,
+October	O	UC	NNP
+1984	O	UM	CD
+,	O	UM	,
+Vol	O	UC	NNP
+63	O	UM	CD
+,	O	UM	,
+No	O	UC	DT
+.	PRD	UM	.
+8	O	UM	CD
+,	O	UM	,
+Part	O	UC	NN
+2	O	UM	LS
+.	PRD	UM	.
+Special	O	UC	JJ
+Issue	O	UC	NN
+on	O	O	IN
+Unix	O	UC	NNP
+-LRB-	AHA	UC	-LRB-
+cover	O	O	NN
+with	O	O	IN
+computer	O	O	NN
+generated	O	O	VBN
+graphics	O	O	NNS
+.	PRD	UM	.
+-RRB-	AHA	UC	-RRB-
+
+
+Photos	O	UC	NNS
+
+
+*	O	UM	SYM
+Portraits	O	UC	NNS
+,	O	UM	,
+a	O	O	DT
+small	O	O	JJ
+selection	O	O	NN
+of	O	O	IN
+the	O	O	DT
+portraits	O	O	NNS
+I	O	UC	PRP
+`	O	UM	``
+ve	O	O	FW
+taken	O	O	VBN
+in	O	O	IN
+the	O	O	DT
+last	O	O	JJ
+25	O	UM	CD
+years	O	O	NNS
+or	O	O	CC
+so	O	O	RB
+,	O	UM	,
+mostly	O	O	RB
+with	O	O	IN
+a	O	O	DT
+large	O	O	JJ
+studio	O	O	NN
+view	O	O	NN
+camera	O	O	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Masks	O	UC	NNS
+and	O	O	CC
+Statues	O	UC	NNS
+from	O	O	IN
+the	O	O	DT
+collection	O	O	NN
+of	O	O	IN
+Norbert	O	UC	NNP
+Elias	O	UC	NNP
+,	O	UM	,
+taken	O	O	VBN
+between	O	O	IN
+1983	O	UM	CD
+and	O	O	CC
+1987	O	UM	CD
+in	O	O	IN
+Amsterdam	O	UC	NNP
+
+
+*	O	UM	SYM
+Pictures	O	UC	NNS
+of	O	O	IN
+Tessa	O	UC	NNP
+,	O	UM	,
+the	O	O	DT
+start	O	O	NN
+of	O	O	IN
+a	O	O	DT
+well-documented	AHA	O	JJ
+life	O	O	NN
+...	PRD	UM	:
+
+
+Press	O	UC	NNP
+
+
+*	O	UM	SYM
+Story	O	UC	NNP
+in	O	O	IN
+IEEE	O	UC	NN
+Computer	O	UC	NN
+,	O	UM	,
+Jan.	PRD	UC	NNP
+.	PRD	UM	.
+2004	O	UM	CD
+
+
+*	O	UM	SYM
+Interview	O	UC	NN
+with	O	O	IN
+FTP	O	UC	NN
+online	O	O	NN
+,	O	UM	,
+Oct.	PRD	UC	NNP
+.	PRD	UM	.
+2003	O	UM	CD
+
+
+*	O	UM	SYM
+Interview	O	UC	NN
+with	O	O	IN
+objectmonkey.com	PRD	O	NNP
+,	O	UM	,
+Oct.	PRD	UC	NNP
+.	PRD	UM	.
+2003	O	UM	CD
+
+
+*	O	UM	SYM
+MIT	O	UC	NNP
+Technology	O	UC	NN
+Review	O	UC	NN
+,	O	UM	,
+February	O	UC	NNP
+2003	O	UM	CD
+,	O	UM	,
+brief	O	O	NN
+mention	O	O	NN
+in	O	O	IN
+the	O	O	DT
+category	O	O	NN
+of	O	O	IN
+Software	O	UC	NNP
+Assurance	O	UC	NNP
+,	O	UM	,
+in	O	O	IN
+article	O	O	NN
+on	O	O	IN
+``	O	UM	``
+10	O	UM	CD
+Emerging	O	UC	VBG
+Technologies	O	UC	NNPS
+That	O	UC	DT
+Will	O	UC	MD
+Change	O	UC	NNP
+the	O	O	DT
+World	O	UC	NNP
+.	PRD	UM	.
+''	AHA	UM	''
+
+
+*	O	UM	SYM
+Interview	O	UC	NN
+with	O	O	IN
+Software	O	UC	NNP
+Development	O	UC	NNP
+Magazine	O	UC	NN
+-LRB-	AHA	UC	-LRB-
+SD	O	UC	NN
+Magazine	O	UC	NN
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+on	O	O	IN
+software	O	O	NN
+verification	O	O	NN
+,	O	UM	,
+September	O	UC	NNP
+2002	O	UM	CD
+,	O	UM	,
+p.	PRD	O	NN
+15	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+NJN	O	UC	NN
+New	O	UC	NNP
+Jersey	O	UC	NNP
+Network	O	UC	NNP
+News	O	UC	NNP
+,	O	UM	,
+an	O	O	DT
+interview	O	O	NN
+on	O	O	IN
+software	O	O	NN
+quality	O	O	NN
+aired	O	O	VBN
+in	O	O	IN
+the	O	O	DT
+science	O	O	NN
+and	O	O	CC
+technology	O	O	NN
+segment	O	O	NN
+on	O	O	IN
+March	O	UC	NNP
+6	O	UM	CD
+,	O	UM	,
+2002	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Two	O	UC	CD
+Dutch	O	UC	NNP
+journals	O	O	NNS
+,	O	UM	,
+Technisch	O	UC	NNP
+Weekblad	O	UC	NNP
+,	O	UM	,
+No	O	UC	DT
+.	PRD	UM	.
+17	O	UM	CD
+,	O	UM	,
+and	O	O	CC
+Embedded	O	UC	VBN
+Systems	O	UC	NNPS
+,	O	UM	,
+published	O	O	VBN
+interviews	O	O	NNS
+-LRB-	AHA	UC	-LRB-
+in	O	O	IN
+Dutch	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Infoworld	O	UC	NNP
+,	O	UM	,
+October	O	UC	NNP
+26	O	UM	CD
+,	O	UM	,
+2001	O	UM	CD
+Short	O	UC	JJ
+feature	O	O	NN
+on	O	O	IN
+code	O	O	NN
+debugging	O	O	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+CIO	O	UC	NNP
+magazine	O	O	NN
+,	O	UM	,
+August	O	UC	NNP
+1	O	UM	CD
+,	O	UM	,
+2001	O	UM	CD
+.	PRD	UM	.
+Brief	O	UC	JJ
+mention	O	O	NN
+of	O	O	IN
+software	O	O	NN
+verification	O	O	NN
+project	O	O	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+New	O	UC	NNP
+Scientist	O	UC	NN
+,	O	UM	,
+18	O	UM	CD
+November	O	UC	NNP
+,	O	UM	,
+2000	O	UM	CD
+
+
+*	O	UM	SYM
+Future	O	UC	JJ
+of	O	O	IN
+Software	O	UC	NNP
+Column	O	UC	NN
+published	O	O	VBN
+in	O	O	IN
+FTP	O	UC	NN
+magazine	O	O	NN
+in	O	O	IN
+2000	O	UM	CD
+,	O	UM	,
+Fawcette	O	UC	NNP
+Publ	O	UC	NN
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+A	O	UC	DT
+series	O	O	NN
+of	O	O	IN
+columns	O	O	NNS
+on	O	O	IN
+Smart	O	UC	NNP
+Machines	O	UC	NNS
+,	O	UM	,
+published	O	O	VBN
+in	O	O	IN
+Inc.	PRD	UC	NNP
+.	PRD	UM	.
+Technology	O	UC	NN
+
+
+Other	O	UC	JJ
+
+
+*	O	UM	SYM
+JPL	O	UC	NNP
+Fellow	O	UC	NNP
+,	O	UM	,
+May	O	UC	NNP
+2007	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Caltech	O	UC	NNP
+CS	O	UC	NNP
+,	O	UM	,
+Faculty	O	UC	NN
+Associate	O	UC	NNP
+,	O	UM	,
+May	O	UC	NNP
+2007	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Honorary	O	UC	JJ
+doctorate	O	O	NN
+,	O	UM	,
+Twente	O	UC	NNP
+University	O	UC	NNP
+,	O	UM	,
+The	O	UC	DT
+Netherlands	O	UC	NNP
+,	O	UM	,
+December	O	UC	NNP
+2006	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+ACM	O	UC	NNP
+Kanellakis	O	UC	NNPS
+Theory	O	UC	NNP
+and	O	O	CC
+Practice	O	UC	NN
+Award	O	UC	NN
+,	O	UM	,
+May	O	UC	NNP
+2006	O	UM	CD
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Vardi	O	UC	NNP
+,	O	UM	,
+Wolper	O	UC	NNP
+,	O	UM	,
+and	O	O	CC
+Kurshan	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+.	PRD	UM	.
+-LRB-	AHA	UC	-LRB-
+press	O	O	NN
+release	O	O	NN
+March	O	UC	NNP
+2006	O	UM	CD
+-RRB-	AHA	UC	-RRB-
+
+
+*	O	UM	SYM
+US	O	UC	NNP
+National	O	UC	NNP
+Academy	O	UC	NNP
+of	O	O	IN
+Engineering	O	UC	NNP
+,	O	UM	,
+elected	O	O	VBN
+member	O	O	NN
+2005	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+Thomas	O	UC	NNP
+Alva	O	UC	NNP
+Edison	O	UC	NNP
+Patent	O	UC	NN
+Award	O	UC	NN
+,	O	UM	,
+2003	O	UM	CD
+,	O	UM	,
+in	O	O	IN
+the	O	O	DT
+Information	O	UC	NN
+Technology	O	UC	NN
+Category	O	UC	NN
+,	O	UM	,
+for	O	O	IN
+a	O	O	DT
+patent	O	O	NN
+on	O	O	IN
+software	O	O	NN
+verification	O	O	NN
+with	O	O	IN
+FeaVer	O	UC	NNP
+and	O	O	CC
+Spin	O	UC	VB
+-LRB-	AHA	UC	-LRB-
+with	O	O	IN
+Ken	O	UC	NNP
+Thompson	O	UC	NNP
+and	O	O	CC
+Phil	O	UC	NNP
+Winterbottom	O	UC	NNP
+-RRB-	AHA	UC	-RRB-
+,	O	UM	,
+July	O	UC	NNP
+2003	O	UM	CD
+.	PRD	UM	.
+
+
+*	O	UM	SYM
+ACM	O	UC	NNP
+SigSoft	O	UC	NNP
+Outstanding	O	UC	JJ
+Research	O	UC	NNP
+award	O	O	NN
+,	O	UM	,
+2002	O	UM	CD
+
+
+*	O	UM	SYM
+ACM	O	UC	NNP
+System	O	UC	NNP
+Software	O	UC	NNP
+Award	O	UC	NN
+
+

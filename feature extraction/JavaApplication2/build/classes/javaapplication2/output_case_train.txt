@@ -1,0 +1,8370 @@
+Karl	UC	NNP	B-PER
+Crary	UC	NNP	I-PER
+
+
+8127	UM	CD	B-LOC
+Wean	UC	VB	I-LOC
+Hall	UC	NN	I-LOC
+
+
+School	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Computer	UC	NN	I-ORG
+Science	UC	NN	I-ORG
+Carnegie	UC	NNP	I-ORG
+Mellon	UC	NNP	I-ORG
+University	UC	NNP	I-ORG
+
+
+5000	UM	CD	B-LOC
+Forbes	UC	NNP	I-LOC
+Avenue	UC	NNP	I-LOC
+Pittsburgh	UC	NNP	I-LOC
+,	UM	,	O
+PA	UC	NN	I-LOC
+15213	UM	CD	I-LOC
+
+
+Phone	UC	NN	O
+:	UM	:	O
+-LRB-	UC	-LRB-	O
+412	UM	CD	O
+-RRB-	UC	-RRB-	O
+268-7687	UM	CD	O
+Fax	UC	NN	O
+:	UM	:	O
+-LRB-	UC	-LRB-	O
+412	UM	CD	O
+-RRB-	UC	-RRB-	O
+268-5576	UM	CD	O
+crary@cs.cmu.edu	O	NN	O
+
+
+Research	UC	NNP	O
+Interests	UC	NNS	O
+
+
+My	UC	PRP$	O
+research	O	NN	O
+interests	O	NNS	O
+are	O	VBP	O
+in	O	IN	O
+applying	O	VBG	O
+programming	O	NN	O
+language	O	NN	O
+technology	O	NN	O
+to	O	TO	O
+improve	O	VB	O
+the	O	DT	O
+
+
+development	O	NN	O
+,	UM	,	O
+maintenance	O	NN	O
+,	UM	,	O
+and	O	CC	O
+performance	O	NN	O
+of	O	IN	O
+software	O	NN	O
+systems	O	NNS	O
+.	UM	.	O
+I	UC	PRP	O
+am	O	RB	O
+particularly	O	RB	O
+
+
+interested	O	JJ	O
+in	O	IN	O
+mechanization	O	NN	O
+of	O	IN	O
+the	O	DT	O
+metatheory	O	NN	O
+of	O	IN	O
+programming	O	NN	O
+languages	O	NNS	O
+,	UM	,	O
+type-oriented	O	JJ	O
+
+
+compilation	O	NN	O
+strategies	O	NNS	O
+,	UM	,	O
+in	O	IN	O
+type-based	O	JJ	O
+certification	O	NN	O
+of	O	IN	O
+machine	O	NN	O
+code	O	NN	O
+,	UM	,	O
+and	O	CC	O
+in	O	IN	O
+the	O	DT	O
+design	O	NN	O
+
+
+of	O	IN	O
+practical	O	JJ	O
+,	UM	,	O
+high	O	JJ	O
+-	UM	:	O
+or	O	CC	O
+low-level	O	JJ	O
+programming	O	NN	O
+languages	O	NNS	O
+.	UM	.	O
+
+
+Publications	UC	NNP	O
+
+
+Most	UC	JJS	O
+of	O	IN	O
+my	O	PRP$	O
+publications	O	NNS	O
+are	O	VBP	O
+available	O	JJ	O
+online	O	NN	O
+.	UM	.	O
+
+
+Teaching	UC	NN	O
+
+
+*	UM	SYM	O
+This	UC	DT	O
+Spring	UC	NN	O
+,	UM	,	O
+I	UC	PRP	O
+am	O	RB	O
+teaching	O	NN	O
+HOT	UC	JJ	B-MISC
+Compilation	UC	NN	I-MISC
+-LRB-	UC	-LRB-	O
+15-501	UM	CD	O
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+an	O	DT	O
+
+
+undergraduate	O	JJ	O
+course	O	NN	O
+on	O	IN	O
+the	O	DT	O
+implementation	O	NN	O
+of	O	IN	O
+compilers	O	NNS	O
+for	O	IN	O
+higher-order	O	JJ	O
+,	UM	,	O
+typed	O	VBN	O
+languages	O	NNS	O
+.	UM	.	O
+
+
+Current	UC	JJ	O
+Students	UC	NNS	O
+
+
+*	UM	SYM	O
+Aleksey	UC	NNP	B-PER
+Kliger	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Daniel	UC	NNP	B-PER
+Lee	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Susmit	UC	NNP	B-PER
+Sarkar	UC	NNP	I-PER
+
+
+Former	UC	NNP	O
+Students	UC	NNS	O
+
+
+*	UM	SYM	O
+Derek	UC	NNP	B-PER
+Dreyer	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Tom	UC	NNP	B-PER
+Murphy	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Leaf	UC	NN	B-PER
+Petersen	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Joe	UC	NNP	B-PER
+Vanderwaart	UC	NNP	I-PER
+
+
+Current	UC	JJ	O
+Events	UC	NNS	O
+
+
+``	UM	``	O
+Of	UC	IN	O
+all	O	DT	O
+the	O	DT	O
+commandments	O	NNS	O
+,	UM	,	O
+which	O	WDT	O
+is	O	VBZ	O
+the	O	DT	O
+most	O	RBS	O
+important	O	JJ	O
+?	UM	.	O
+''	UM	''	O
+
+
+``	UM	``	O
+The	UC	DT	O
+most	O	RBS	O
+important	O	JJ	O
+one	O	CD	O
+,	UM	,	O
+''	UM	''	O
+answered	O	VBN	O
+Jesus	UC	NNP	B-PER
+,	UM	,	O
+``	UM	``	O
+is	O	VBZ	O
+this	O	DT	O
+:	UM	:	O
+`	UM	``	O
+Hear	UC	VBP	O
+,	UM	,	O
+O	UC	NN	O
+
+
+Israel	UC	NNP	B-MISC
+,	UM	,	O
+the	O	DT	O
+Lord	UC	NNP	B-MISC
+our	O	PRP$	O
+God	UC	NNP	O
+,	UM	,	O
+the	O	DT	O
+Lord	UC	NNP	B-MISC
+is	O	VBZ	O
+one	O	CD	O
+.	UM	.	O
+Love	UC	NN	O
+the	O	DT	O
+
+
+Lord	UC	NNP	B-MISC
+your	O	PRP$	O
+God	UC	NNP	O
+with	O	IN	O
+all	O	DT	O
+your	O	PRP$	O
+heart	O	NN	O
+and	O	CC	O
+with	O	IN	O
+all	O	DT	O
+your	O	PRP$	O
+soul	O	NN	O
+and	O	CC	O
+with	O	IN	O
+
+
+all	O	DT	O
+your	O	PRP$	O
+mind	O	NN	O
+and	O	CC	O
+with	O	IN	O
+all	O	DT	O
+your	O	PRP$	O
+strength	O	NN	O
+.	UM	.	O
+'	UM	''	O
+The	UC	DT	O
+second	O	JJ	O
+is	O	VBZ	O
+this	O	DT	O
+:	UM	:	O
+
+
+`	UM	``	O
+Love	UC	NN	O
+your	O	PRP$	O
+neighbor	O	NN	O
+as	O	IN	O
+yourself	O	PRP	O
+.	UM	.	O
+'	UM	''	O
+There	UC	EX	O
+is	O	VBZ	O
+no	O	DT	O
+commandment	O	NN	O
+greater	O	JJR	O
+than	O	IN	O
+these	O	DT	O
+.	UM	.	O
+''	UM	''	O
+
+
+--	UM	:	O
+Mark	UC	NNP	B-MISC
+12:29	UM	CD	I-MISC
+-31	UM	CD	O
+
+
+Erik	UC	NNP	B-PER
+Winfree	UC	NNP	I-PER
+
+
+Associate	UC	JJ	O
+Professor	UC	NNP	O
+of	O	IN	O
+Computer	UC	NN	B-MISC
+Science	UC	NN	I-MISC
+,	UM	,	O
+Computation	UC	NN	B-MISC
+and	O	CC	I-MISC
+Neural	UC	JJ	I-MISC
+Systems	UC	NNPS	I-MISC
+,	UM	,	O
+and	O	CC	O
+Bioengineering	UC	VBG	B-MISC
+
+
+B.S.	UC	NNP	O
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Chicago	UC	NNP	I-ORG
+,	UM	,	O
+1991	UM	CD	O
+;	UM	:	O
+Ph.D.	UC	NNP	O
+,	UM	,	O
+Caltech	UC	NNP	B-ORG
+,	UM	,	O
+1998	UM	CD	O
+
+
+California	UC	NNP	B-ORG
+Institute	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Technology	UC	NN	I-ORG
+
+
+Computer	UC	NN	O
+Science	UC	NN	O
+
+
+1200	UM	CD	B-LOC
+E.	UC	NNP	O
+California	UC	NNP	I-LOC
+Boulevard	UC	NNP	I-LOC
+
+
+MC	UC	NNP	B-LOC
+136-93	UM	CD	O
+
+
+Pasadena	UC	NNP	B-LOC
+,	UM	,	O
+CA	UC	NNP	I-LOC
+91125	UM	CD	I-LOC
+
+
+Office	UC	NNP	O
+Location	UC	NNP	O
+:	UM	:	O
+204	UM	CD	B-LOC
+Moore	UC	NNP	I-LOC
+
+
+Phone	UC	NN	O
+:	UM	:	O
+-LRB-	UC	-LRB-	O
+626	UM	CD	O
+-RRB-	UC	-RRB-	O
+395-6246	UM	CD	O
+
+
+email	O	NN	O
+|	UM	SYM	O
+personal	O	JJ	O
+page	O	NN	O
+
+
+Research	UC	NNP	O
+
+
+Biomolecular	UC	JJ	O
+computation	O	NN	O
+,	UM	,	O
+DNA	UC	NN	O
+based	O	VBN	O
+computation	O	NN	O
+,	UM	,	O
+algorithmic	O	JJ	O
+self-assembly	O	RB	O
+,	UM	,	O
+in	O	IN	O
+vitro	O	NN	O
+biochemical	O	JJ	O
+circuits	O	NNS	O
+,	UM	,	O
+noise	O	NN	O
+and	O	CC	O
+fault-tolerance	O	NN	O
+,	UM	,	O
+DNA	UC	NN	O
+and	O	CC	O
+RNA	UC	NN	O
+folding	O	JJ	O
+,	UM	,	O
+evolution	O	NN	O
+.	UM	.	O
+
+
+Peter	UC	NNP	B-PER
+'s	O	POS	O
+Homepage	UC	NN	O
+
+
+The	UC	DT	O
+place	O	NN	O
+to	O	TO	O
+be	O	VB	O
+if	O	IN	O
+you	O	PRP	O
+like	O	IN	O
+Parrots	UC	NNP	O
+,	UM	,	O
+Old	UC	NNP	O
+Cameras	UC	NNS	O
+,	UM	,	O
+Motorbikes	UC	NNS	O
+,	UM	,	O
+Diving	UC	JJ	O
+,	UM	,	O
+Travels	UC	NNS	O
+and	O	CC	O
+other	O	JJ	O
+stuff	O	NN	O
+
+
+2/01/04	UM	CD	O
+
+
+Please	UC	VB	O
+wait	O	NN	O
+patiently	O	RB	O
+while	O	IN	O
+the	O	DT	O
+graphics	O	NNS	O
+animations	O	NNS	O
+and	O	CC	O
+Music	UC	NN	O
+load	O	NN	O
+-	UM	:	O
+it	O	PRP	O
+'s	O	VBZ	O
+worth	O	JJ	O
+it	O	PRP	O
+
+
+This	UC	DT	O
+site	O	NN	O
+is	O	VBZ	O
+optimised	O	VBN	O
+for	O	IN	O
+Frames	UC	NNS	O
+with	O	IN	O
+Internet	UC	NN	O
+Explorer	UC	NNP	O
+5	UM	CD	O
+with	O	IN	O
+1152x864	UM	NN	O
+graphics	O	NNS	O
+if	O	IN	O
+you	O	PRP	O
+only	O	RB	O
+have	O	VB	O
+800x600	UM	NN	O
+click	O	VB	O
+here	O	RB	O
+for	O	IN	O
+the	O	DT	O
+no	O	DT	O
+frames	O	NNS	O
+version	O	NN	O
+
+
+You	UC	PRP	O
+may	O	MD	O
+get	O	VB	O
+a	O	DT	O
+Coolfreepages	UC	NNS	B-ORG
+banner	O	NN	O
+screen	O	NN	O
+popping	O	VBG	O
+up	O	RB	O
+at	O	IN	O
+some	O	DT	O
+point	O	NN	O
+-	UM	:	O
+if	O	IN	O
+so	O	RB	O
+remove	O	VB	O
+it	O	PRP	O
+by	O	IN	O
+clicking	O	VBG	O
+the	O	DT	O
+X	UC	NN	O
+box	O	NN	O
+at	O	IN	O
+the	O	DT	O
+top	O	NN	O
+right	O	RB	O
+of	O	IN	O
+the	O	DT	O
+window	O	NN	O
+and	O	CC	O
+you	O	PRP	O
+will	O	MD	O
+be	O	VB	O
+back	O	RB	O
+to	O	TO	O
+Peter	UC	NNP	B-PER
+'s	O	POS	O
+Homepage	UC	NNP	O
+.	UM	.	O
+Other	UC	JJ	O
+errors	O	NNS	O
+are	O	VBP	O
+probably	O	RB	O
+because	O	IN	O
+your	O	PRP$	O
+browser	O	NN	O
+is	O	VBZ	O
+out	O	IN	O
+of	O	IN	O
+date	O	NN	O
+-	UM	:	O
+so	O	RB	O
+why	O	WRB	O
+do	O	VBP	O
+n't	O	RB	O
+you	O	PRP	O
+download	O	NN	O
+the	O	DT	O
+latest	O	JJS	O
+Explorer	UC	NNP	O
+or	O	CC	O
+Navigator	UC	NN	O
+versions	O	NNS	O
+from	O	IN	O
+the	O	DT	O
+Microsoft	UC	NNP	O
+or	O	CC	O
+Netscape	UC	NNP	O
+websites	O	NNS	O
+?	UM	.	O
+-	UM	:	O
+they	O	PRP	O
+`	UM	``	O
+re	O	VB	O
+free	O	JJ	O
+!	UM	.	O
+
+
+What	UC	WP	O
+'s	O	VBZ	O
+New	UC	NNP	O
+?	UM	.	O
+:	UM	:	O
+Well	UC	RB	O
+there	O	EX	O
+'s	O	VBZ	O
+a	O	DT	O
+whole	O	JJ	O
+new	O	JJ	O
+layout	O	NN	O
+and	O	CC	O
+some	O	DT	O
+more	O	RBR	O
+music	O	NN	O
+,	UM	,	O
+a	O	DT	O
+history	O	NN	O
+of	O	IN	O
+my	O	PRP$	O
+motorcycles	O	NNS	O
+In	UC	IN	O
+search	O	NN	O
+of	O	IN	O
+Don	UC	NNP	B-PER
+Quixote	UC	NNP	I-PER
+in	O	IN	O
+Spain	UC	NNP	B-LOC
+,	UM	,	O
+photos	O	NNS	O
+from	O	IN	O
+Florence	UC	NNP	B-LOC
+,	UM	,	O
+Rock-n-Roll	UC	NNP	O
+Archeology	UC	NNP	I-ORG
+in	O	IN	O
+Manassas	UC	NNP	B-LOC
+.	UM	.	O
+Three	UC	CD	O
+diving	O	NN	O
+travel	O	NN	O
+features	O	NNS	O
+on	O	IN	O
+the	O	DT	O
+Sudan	UC	NNP	B-LOC
+,	UM	,	O
+the	O	DT	O
+Saintes	UC	NNS	B-LOC
+and	O	CC	O
+Mauritius	UC	NNP	B-LOC
+.	UM	.	O
+More	UC	RBR	O
+pics	O	NNS	O
+of	O	IN	O
+the	O	DT	O
+Darmah	UC	NNP	O
+and	O	CC	O
+VFR	UC	NNP	O
+,	UM	,	O
+and	O	CC	O
+CBR1000	UC	NN	O
+for	O	IN	O
+those	O	DT	O
+of	O	IN	O
+you	O	PRP	O
+who	O	WP	O
+like	O	IN	O
+Bikes	UC	NNS	O
+.	UM	.	O
+Photos	UC	NNS	O
+of	O	IN	O
+the	O	DT	O
+radio	O	NN	O
+controlled	O	VBN	O
+duck	O	NN	O
+taken	O	VBN	O
+with	O	IN	O
+Six-20	UC	NN	O
+Junior	UC	NN	O
+,	UM	,	O
+A	UC	DT	O
+new	O	JJ	O
+page	O	NN	O
+on	O	IN	O
+Accessories	UC	NNS	O
+in	O	IN	O
+the	O	DT	O
+Camera	UC	NN	O
+collection	O	NN	O
+.	UM	.	O
+There	UC	EX	O
+are	O	VBP	O
+Photos	UC	NNS	O
+with	O	IN	O
+Kodaks	UC	NNPS	B-ORG
+from	O	IN	O
+1897	UM	CD	O
+and	O	CC	O
+1908	UM	CD	O
+plus	O	CC	O
+some	O	DT	O
+music	O	NN	O
+,	UM	,	O
+animation	O	NN	O
+and	O	CC	O
+The	UC	DT	B-ORG
+Gurls	UC	NNS	I-ORG
+guide	O	NN	O
+to	O	TO	O
+using	O	VBG	O
+120	UM	CD	O
+film	O	NN	O
+in	O	IN	O
+a	O	DT	O
+620	UM	CD	O
+camera	O	NN	O
+.	UM	.	O
+Also	UC	RB	O
+check	O	NN	O
+out	O	IN	O
+The	UC	DT	O
+original	O	JJ	O
+Radio	UC	NN	B-ORG
+Controlled	UC	VBN	I-ORG
+Duck	UC	NN	I-ORG
+,	UM	,	O
+a	O	DT	O
+special	O	JJ	O
+guest	O	NN	O
+appearance	O	NN	O
+from	O	IN	O
+Harry	UC	NNP	B-PER
+Fiske	UC	NNP	I-PER
+'s	O	POS	O
+Mk	UC	NN	O
+.2	UM	NN	O
+Duck	UC	NN	O
+and	O	CC	O
+Peter	UC	NNP	B-PER
+'s	O	POS	O
+latest	O	JJS	O
+Mk	UC	NN	O
+.	UM	.	O
+2	UM	CD	O
+RC	UC	NN	O
+Duck	UC	NN	O
+
+
+Larry	UC	NNP	B-PER
+Cuba	UC	NNP	I-PER
+is	O	VBZ	O
+widely	O	RB	O
+recognized	O	VBN	O
+as	O	IN	O
+a	O	DT	O
+pioneer	O	NN	O
+in	O	IN	O
+the	O	DT	O
+use	O	NN	O
+of	O	IN	O
+computers	O	NNS	O
+in	O	IN	O
+animation	O	NN	O
+art	O	NN	O
+.	UM	.	O
+Producing	UC	NNP	O
+his	O	PRP$	O
+first	O	RB	O
+computer	O	NN	O
+animation	O	NN	O
+in	O	IN	O
+1974	UM	CD	O
+,	UM	,	O
+Cuba	UC	NNP	B-PER
+was	O	VBD	O
+at	O	IN	O
+the	O	DT	O
+forefront	O	NN	O
+of	O	IN	O
+the	O	DT	O
+computer-animation	O	NN	O
+artists	O	NNS	O
+considered	O	VBN	O
+the	O	DT	O
+``	UM	``	O
+second	O	JJ	O
+generation	O	NN	O
+''	UM	''	O
+--	UM	:	O
+those	O	DT	O
+who	O	WP	O
+directly	O	RB	O
+followed	O	VBN	O
+the	O	DT	O
+visionaries	O	NNS	O
+of	O	IN	O
+the	O	DT	O
+sixties	O	NNS	O
+:	UM	:	O
+John	UC	NNP	B-PER
+Whitney	UC	NNP	I-PER
+,	UM	,	O
+Sr.	UC	NNP	O
+.	UM	.	O
+,	UM	,	O
+Stan	UC	NNP	B-PER
+Vanderbeek	UC	NNP	I-PER
+and	O	CC	O
+Lillian	UC	NNP	B-PER
+Schwartz	UC	NNP	I-PER
+.	UM	.	O
+
+
+While	UC	IN	O
+still	O	RB	O
+a	O	DT	O
+graduate	O	NN	O
+student	O	NN	O
+at	O	IN	O
+The	UC	DT	B-ORG
+California	UC	NNP	I-ORG
+Institute	UC	NNP	I-ORG
+of	O	IN	I-ORG
+the	O	DT	I-ORG
+Arts	UC	NNS	I-ORG
+,	UM	,	O
+he	O	PRP	O
+was	O	VBD	O
+convinced	O	JJ	O
+of	O	IN	O
+the	O	DT	O
+artistic	O	JJ	O
+potential	O	NN	O
+of	O	IN	O
+computer	O	NN	O
+graphics	O	NNS	O
+,	UM	,	O
+but	O	CC	O
+this	O	DT	O
+was	O	VBD	O
+years	O	NNS	O
+before	O	IN	O
+art	O	NN	O
+schools	O	NNS	O
+began	O	VBD	O
+teaching	O	NN	O
+the	O	DT	O
+subject	O	NN	O
+.	UM	.	O
+Cuba	UC	NNP	B-PER
+'s	O	POS	O
+solution	O	NN	O
+was	O	VBD	O
+to	O	TO	O
+solicit	O	VB	O
+access	O	NN	O
+to	O	TO	O
+the	O	DT	O
+mainframe	O	NN	O
+computers	O	NNS	O
+at	O	IN	O
+NASA	UC	NNP	B-ORG
+'s	O	POS	O
+Jet	UC	NNP	B-ORG
+Propulsion	UC	NN	I-ORG
+Lab	UC	NN	I-ORG
+and	O	CC	O
+teach	O	VB	O
+himself	O	PRP	O
+computer	O	NN	O
+animation	O	NN	O
+by	O	IN	O
+producing	O	VBG	O
+his	O	PRP$	O
+first	O	RB	O
+film	O	NN	O
+,	UM	,	O
+First	UC	NNP	O
+Fig	UC	NN	O
+.	UM	.	O
+
+
+In	UC	IN	O
+1975	UM	CD	O
+,	UM	,	O
+John	UC	NNP	B-PER
+Whitney	UC	NNP	I-PER
+,	UM	,	O
+Sr.	UC	NNP	O
+.	UM	.	O
+invited	O	VBN	O
+Cuba	UC	NNP	B-PER
+to	O	TO	O
+be	O	VB	O
+the	O	DT	O
+programmer	O	NN	O
+on	O	IN	O
+one	O	CD	O
+of	O	IN	O
+his	O	PRP$	O
+films	O	NNS	O
+.	UM	.	O
+The	UC	DT	O
+result	O	NN	O
+of	O	IN	O
+this	O	DT	O
+collaboration	O	NN	O
+was	O	VBD	O
+Arabesque	UC	NNP	O
+.	UM	.	O
+
+
+Subsequently	UC	RB	O
+,	UM	,	O
+Cuba	UC	NNP	B-PER
+produced	O	VBN	O
+three	O	CD	O
+more	O	RBR	O
+computer-animated	O	JJ	O
+films	O	NNS	O
+:	UM	:	O
+3/78	UM	CD	O
+-LRB-	UC	-LRB-	O
+Objects	UC	NNS	O
+and	O	CC	O
+Transformations	UC	NNS	O
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+Two	UC	CD	O
+Space	UC	NN	O
+,	UM	,	O
+and	O	CC	O
+Calculated	UC	VBN	O
+Movements	UC	NNS	O
+.	UM	.	O
+These	UC	DT	O
+works	O	NNS	O
+were	O	VBD	O
+shown	O	VBN	O
+at	O	IN	O
+film	O	NN	O
+festivals	O	NNS	O
+throughout	O	IN	O
+the	O	DT	O
+world	O	NN	O
+--	UM	:	O
+including	O	VBG	O
+Los	UC	NNP	B-LOC
+Angeles	UC	NNP	I-LOC
+,	UM	,	O
+Hiroshima	UC	NNP	B-LOC
+,	UM	,	O
+Zagreb	UC	NNP	B-LOC
+and	O	CC	O
+Bangkok	UC	NNP	B-LOC
+--	UM	:	O
+and	O	CC	O
+have	O	VB	O
+won	O	VBN	O
+numerous	O	JJ	O
+awards	O	NNS	O
+.	UM	.	O
+Cuba	UC	NNP	B-PER
+'s	O	POS	O
+been	O	VBN	O
+invited	O	VBN	O
+to	O	TO	O
+present	O	JJ	O
+his	O	PRP$	O
+work	O	NN	O
+at	O	IN	O
+various	O	JJ	O
+conferences	O	NNS	O
+such	O	JJ	O
+as	O	IN	O
+Siggraph	UC	NNP	B-ORG
+,	UM	,	O
+ISEA	UC	NN	B-ORG
+,	UM	,	O
+Ars	UC	NNS	B-ORG
+Electronica	UC	NN	I-ORG
+,	UM	,	O
+and	O	CC	O
+Art	UC	NNP	B-ORG
+and	O	CC	I-ORG
+Math	UC	NNP	I-ORG
+Moscow	UC	NNP	I-ORG
+and	O	CC	O
+his	O	PRP$	O
+films	O	NNS	O
+have	O	VB	O
+been	O	VBN	O
+included	O	VBN	O
+in	O	IN	O
+screenings	O	NNS	O
+at	O	IN	O
+New	UC	NNP	B-LOC
+York	UC	NNP	I-LOC
+'s	O	POS	O
+Museum	UC	NN	I-LOC
+of	O	IN	I-LOC
+Modern	UC	NNP	I-LOC
+Art	UC	NNP	I-LOC
+,	UM	,	O
+The	UC	DT	B-LOC
+Hirshhorn	UC	NNP	I-LOC
+Museum	UC	NN	I-LOC
+,	UM	,	O
+The	UC	DT	B-LOC
+San	UC	NNP	I-LOC
+Francisco	UC	NNP	I-LOC
+Museum	UC	NN	I-LOC
+of	O	IN	I-LOC
+Modern	UC	NNP	I-LOC
+Art	UC	NNP	I-LOC
+,	UM	,	O
+The	UC	DT	B-LOC
+Art	UC	NNP	I-LOC
+Institute	UC	NNP	I-LOC
+of	O	IN	I-LOC
+Chicago	UC	NNP	I-LOC
+,	UM	,	O
+The	UC	DT	B-LOC
+Amsterdam	UC	NNP	I-LOC
+Filmmuseum	UC	NN	I-LOC
+and	O	CC	O
+the	O	DT	O
+Isetan	UC	NNP	B-LOC
+Museum	UC	NN	I-LOC
+of	O	IN	I-LOC
+Art	UC	NNP	I-LOC
+,	UM	,	O
+Tokyo	UC	NNP	I-LOC
+.	UM	.	O
+
+
+Cuba	UC	NNP	B-PER
+received	O	VBN	O
+grants	O	NNS	O
+for	O	IN	O
+his	O	PRP$	O
+work	O	NN	O
+from	O	IN	O
+the	O	DT	O
+American	UC	NNP	B-ORG
+Film	UC	NNP	I-ORG
+Institute	UC	NNP	I-ORG
+and	O	CC	O
+The	UC	DT	B-ORG
+National	UC	NNP	I-ORG
+Endowment	UC	NN	I-ORG
+for	O	IN	I-ORG
+the	O	DT	I-ORG
+Arts	UC	NNS	I-ORG
+and	O	CC	O
+was	O	VBD	O
+awarded	O	VBN	O
+a	O	DT	O
+residency	O	NN	O
+at	O	IN	O
+the	O	DT	O
+Center	UC	NNP	B-ORG
+for	O	IN	I-ORG
+Art	UC	NNP	I-ORG
+and	O	CC	I-ORG
+Media	UC	NNP	I-ORG
+Technology	UC	NN	I-ORG
+Karlsruhe	UC	NNP	I-ORG
+-LRB-	UC	-LRB-	O
+ZKM	UC	NN	I-ORG
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+He	UC	PRP	O
+has	O	VBZ	O
+served	O	VBD	O
+on	O	IN	O
+the	O	DT	O
+juries	O	NNS	O
+for	O	IN	O
+the	O	DT	O
+Siggraph	UC	NNP	B-ORG
+Electronic	UC	JJ	I-ORG
+Theater	UC	NNP	I-ORG
+,	UM	,	O
+the	O	DT	O
+Montpellier	UC	NNP	B-ORG
+Festival	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Abstract	UC	JJ	I-ORG
+Film	UC	NNP	I-ORG
+,	UM	,	O
+The	UC	DT	O
+Ann	UC	NNP	B-ORG
+Arbor	UC	NNP	I-ORG
+Film	UC	NNP	I-ORG
+Festival	UC	NNP	I-ORG
+and	O	CC	O
+Ars	UC	NNS	B-ORG
+Electronica	UC	NN	I-ORG
+.	UM	.	O
+
+
+In	UC	IN	O
+the	O	DT	O
+pure	O	JJ	O
+form	O	NN	O
+of	O	IN	O
+abstraction	O	NN	O
+that	O	IN	O
+Cuba	UC	NNP	B-PER
+pursues	O	VBZ	O
+,	UM	,	O
+visual	O	JJ	O
+perception	O	NN	O
+is	O	VBZ	O
+paramount	O	JJ	O
+.	UM	.	O
+But	UC	CC	O
+because	O	IN	O
+the	O	DT	O
+images	O	NNS	O
+are	O	VBP	O
+generated	O	VBN	O
+via	O	IN	O
+algorithms	O	NNS	O
+written	O	VBN	O
+in	O	IN	O
+computer	O	NN	O
+language	O	NN	O
+,	UM	,	O
+there	O	RB	O
+is	O	VBZ	O
+a	O	DT	O
+paradox	O	NN	O
+in	O	IN	O
+trying	O	VBG	O
+to	O	TO	O
+use	O	NN	O
+words	O	NNS	O
+to	O	TO	O
+describe	O	VBP	O
+images	O	NNS	O
+for	O	IN	O
+which	O	WDT	O
+words	O	NNS	O
+do	O	VB	O
+not	O	RB	O
+exist	O	VB	O
+.	UM	.	O
+
+
+As	UC	IN	O
+Raphael	UC	NNP	B-PER
+Bassan	UC	NNP	I-PER
+wrote	O	VBD	O
+in	O	IN	O
+a	O	DT	O
+1981	UM	CD	O
+issue	O	NN	O
+of	O	IN	O
+La	UC	NNP	B-PER
+Revue	UC	NN	I-PER
+du	O	NNP	I-PER
+Cinema	UC	NNP	I-PER
+,	UM	,	O
+``	UM	``	O
+The	UC	DT	O
+computer	O	NN	O
+animation	O	NN	O
+establishes	O	VBZ	O
+a	O	DT	O
+parallel	O	NN	O
+between	O	IN	O
+visual	O	JJ	O
+perception	O	NN	O
+and	O	CC	O
+a	O	DT	O
+structure	O	NN	O
+of	O	IN	O
+linguistic	O	JJ	O
+or	O	CC	O
+mathematical	O	JJ	O
+order	O	NN	O
+:	UM	:	O
+it	O	PRP	O
+is	O	VBZ	O
+concerned	O	JJ	O
+with	O	IN	O
+establishing	O	VBG	O
+a	O	DT	O
+new	O	JJ	O
+organizational	O	JJ	O
+field	O	NN	O
+for	O	IN	O
+the	O	DT	O
+aesthetic	O	JJ	O
+material	O	NN	O
+.	UM	.	O
+In	UC	IN	O
+the	O	DT	O
+sphere	O	NN	O
+of	O	IN	O
+abstract	O	JJ	O
+cinema	O	NN	O
+-LRB-	UC	-LRB-	O
+lacking	O	VBG	O
+a	O	DT	O
+better	O	RB	O
+term	O	NN	O
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+Larry	UC	NNP	B-PER
+Cuba	UC	NNP	I-PER
+'s	O	POS	O
+research	O	NN	O
+is	O	VBZ	O
+,	UM	,	O
+in	O	IN	O
+fact	O	NN	O
+,	UM	,	O
+at	O	IN	O
+the	O	DT	O
+origin	O	NN	O
+of	O	IN	O
+a	O	DT	O
+new	O	JJ	O
+direction	O	NN	O
+which	O	WDT	O
+does	O	VBZ	O
+not	O	RB	O
+yet	O	RB	O
+have	O	VB	O
+a	O	DT	O
+name	O	NN	O
+''	UM	''	O
+
+
+For	UC	IN	O
+more	O	RBR	O
+information	O	NN	O
+,	UM	,	O
+see	O	VB	O
+the	O	DT	O
+articles	O	NNS	O
+by	O	IN	O
+Gene	UC	NN	B-PER
+Youngblood	UC	NNP	I-PER
+and	O	CC	O
+Bill	UC	NNP	B-PER
+Moritz	UC	NNP	I-PER
+.	UM	.	O
+
+
+Filmography	UC	NN	O
+
+
+First	UC	NNP	O
+Fig	UC	NN	O
+
+
+-LRB-	UC	-LRB-	O
+1974	UM	CD	O
+-RRB-	UC	-RRB-	O
+6	UM	CD	O
+minute	O	NN	O
+16mm	UM	NN	O
+,	UM	,	O
+Color	UC	NN	O
+
+
+3/78	UM	CD	O
+-LRB-	UC	-LRB-	O
+Objects	UC	NNS	O
+and	O	CC	O
+Transformations	UC	NNS	O
+-RRB-	UC	-RRB-	O
+
+
+-LRB-	UC	-LRB-	O
+1978	UM	CD	O
+-RRB-	UC	-RRB-	O
+6	UM	CD	O
+minutes	O	NNS	O
+16mm	UM	NN	O
+,	UM	,	O
+B/W	UC	NN	O
+
+
+Two	UC	CD	O
+Space	UC	NN	O
+
+
+-LRB-	UC	-LRB-	O
+1979	UM	CD	O
+-RRB-	UC	-RRB-	O
+8	UM	CD	O
+minutes	O	NNS	O
+16mm	UM	NN	O
+,	UM	,	O
+B/W	UC	NN	O
+
+
+Calculated	UC	VBN	O
+Movements	UC	NNS	O
+
+
+-LRB-	UC	-LRB-	O
+1985	UM	CD	O
+-RRB-	UC	-RRB-	O
+6	UM	CD	O
+minutes	O	NNS	O
+16mm	UM	NN	O
+,	UM	,	O
+B/W	UC	NN	O
+
+
+Bibliography	UC	NN	O
+
+
+Moritz	UC	NNP	B-PER
+,	UM	,	O
+William	UC	NNP	I-PER
+.	UM	.	O
+Visuelle	UC	NNP	O
+Musik	UC	NNP	O
+,	UM	,	O
+Mediagramm	UC	NNP	O
+,	UM	,	O
+Zentrum	UC	NNP	O
+fur	O	NN	O
+Kunst	UC	IN	O
+und	O	NN	O
+Medientechnologie	UC	NN	O
+Karlsruhe	UC	NNP	O
+,	UM	,	O
+Juli	UC	NN	O
+1996	UM	CD	O
+
+
+Bendazzi	UC	NNP	B-PER
+,	UM	,	O
+Giannalberto	UC	NNP	I-PER
+.	UM	.	O
+Cartoons	UC	NNS	O
+:	UM	:	O
+One	UC	CD	O
+Hundred	UC	NNP	O
+Years	UC	NNS	O
+of	O	IN	O
+Cinema	UC	NNP	O
+Animation	UC	NN	O
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Indiana	UC	NNP	I-ORG
+Press	UC	NNP	I-ORG
+,	UM	,	O
+1994	UM	CD	O
+
+
+Gehr	UC	NNP	B-PER
+,	UM	,	O
+Herbert	UC	NNP	I-PER
+.	UM	.	O
+Sound	UC	NN	O
+&	UM	CC	O
+Vision	UC	NNP	O
+,	UM	,	O
+Musikvideo	UC	NNP	O
+und	O	NN	O
+Filmkunst	UC	NNP	O
+,	UM	,	O
+Deutsches	UC	NNS	B-ORG
+Filmmuseum	UC	NN	I-ORG
+,	UM	,	O
+Frankfurt	UC	NNP	B-LOC
+,	UM	,	O
+1993	UM	CD	O
+
+
+Binkley	UC	NNP	B-PER
+,	UM	,	O
+Timothy	UC	NNP	I-PER
+.	UM	.	O
+Refiguring	UC	VBG	O
+Culture	UC	NN	O
+,	UM	,	O
+Future	UC	JJ	O
+Visions	UC	NNS	O
+:	UM	:	O
+New	UC	NNP	O
+Technologies	UC	NNPS	O
+of	O	IN	O
+the	O	DT	O
+Screen	UC	NN	O
+,	UM	,	O
+1993	UM	CD	O
+
+
+Kawahara	UC	NNP	B-PER
+,	UM	,	O
+Toshifumi	UC	NNP	I-PER
+.	UM	.	O
+World	UC	NNP	O
+Graphic	UC	NNP	O
+Design	UC	NN	O
+Now	UC	RB	O
+#	UM	#	O
+6	UM	CD	O
+,	UM	,	O
+Kodansha	UC	NNP	B-LOC
+,	UM	,	O
+1989	UM	CD	O
+
+
+Binkley	UC	NNP	B-PER
+,	UM	,	O
+Timothy	UC	NNP	I-PER
+.	UM	.	O
+Computed	UC	VBN	O
+Visions	UC	NNS	O
+of	O	IN	O
+Virtual	UC	JJ	O
+Realities	UC	NNS	O
+,	UM	,	O
+Millennium	UC	NN	O
+Film	UC	NNP	O
+Journal	UC	NNP	O
+,	UM	,	O
+Fall	UC	NN	O
+'	UM	POS	O
+89	UM	CD	O
+
+
+Russet	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+&	UM	CC	O
+Starr	UC	NNP	I-PER
+,	UM	,	O
+C.	UC	NNP	O
+Experimental	UC	JJ	O
+Animation	UC	NN	O
+:	UM	:	O
+Origins	UC	NNS	O
+of	O	IN	O
+a	O	DT	O
+New	UC	NNP	O
+Art	UC	NNP	O
+,	UM	,	O
+Revised	UC	VBN	O
+1988	UM	CD	O
+
+
+Goodman	UC	NNP	B-PER
+,	UM	,	O
+Cynthia	UC	NNP	I-PER
+.	UM	.	O
+Digital	UC	NNP	O
+Visions	UC	NNS	O
+:	UM	:	O
+Computers	UC	NNS	O
+and	O	CC	O
+Art	UC	NNP	O
+,	UM	,	O
+1987	UM	CD	O
+
+
+Youngblood	UC	NNP	B-PER
+,	UM	,	O
+Gene	UC	NN	I-PER
+.	UM	.	O
+Calculated	UC	VBN	O
+Movements	UC	NNS	O
+,	UM	,	O
+Video	UC	NNP	O
+and	O	CC	O
+the	O	DT	O
+Arts	UC	NNS	O
+,	UM	,	O
+Winter	UC	NNP	O
+,	UM	,	O
+1986	UM	CD	O
+
+
+Giloth	UC	NNP	B-PER
+,	UM	,	O
+C.	UC	NNP	O
+&	UM	CC	O
+Veeder	UC	NNP	I-PER
+,	UM	,	O
+J.	UC	NNP	O
+The	UC	DT	O
+Paint	UC	VB	O
+Problem	UC	NNP	O
+,	UM	,	O
+Computer	UC	NN	O
+Graphics	UC	NNS	O
+and	O	CC	O
+Applications	UC	NNS	O
+,	UM	,	O
+July	UC	NNP	O
+1985	UM	CD	O
+
+
+Abbado	UC	NNP	B-PER
+,	UM	,	O
+Adriano	UC	NNP	I-PER
+.	UM	.	O
+Immagini	UC	NNP	O
+con	O	RB	O
+il	O	NN	O
+Computer	UC	NN	O
+,	UM	,	O
+1985	UM	CD	O
+
+
+Cook	UC	NNP	B-PER
+,	UM	,	O
+Rob	UC	NNP	I-PER
+.	UM	.	O
+Siggraph	UC	NNP	O
+'	UM	''	O
+85	UM	CD	O
+:	UM	:	O
+The	UC	DT	O
+Film/Video	UC	NN	O
+Show	UC	NN	O
+,	UM	,	O
+Computer	UC	NN	O
+Graphics	UC	NNS	O
+World	UC	NNP	O
+,	UM	,	O
+July	UC	NNP	O
+,	UM	,	O
+1985	UM	CD	O
+
+
+Edgar	UC	NNP	B-PER
+,	UM	,	O
+Robert	UC	NNP	I-PER
+.	UM	.	O
+Art	UC	NNP	O
+and	O	CC	O
+Technology	UC	NN	O
+,	UM	,	O
+Art	UC	NNP	O
+Papers	UC	NNP	O
+,	UM	,	O
+Sep/Oct	UC	NN	O
+1985	UM	CD	O
+
+
+Solomon	UC	NNP	B-PER
+,	UM	,	O
+Charles	UC	NNP	I-PER
+.	UM	.	O
+Enchanted	UC	JJ	O
+Drawings	UC	NNS	O
+,	UM	,	O
+The	UC	DT	O
+History	UC	NN	O
+of	O	IN	O
+Animation	UC	NN	O
+,	UM	,	O
+Knopf	UC	NNP	B-LOC
+,	UM	,	O
+1989	UM	CD	O
+
+
+Thompson	UC	NNP	B-PER
+,	UM	,	O
+Frank	UC	NNP	I-PER
+.	UM	.	O
+Atlanta	UC	NNP	O
+'s	O	POS	O
+Computer	UC	NN	O
+Animator	UC	NNP	O
+,	UM	,	O
+Atlanta	UC	NNP	B-ORG
+Magazine	UC	NN	I-ORG
+,	UM	,	O
+March	UC	NNP	O
+,	UM	,	O
+1984	UM	CD	O
+
+
+Allan	UC	NNP	B-PER
+,	UM	,	O
+Robb	UC	NNP	I-PER
+A.	UC	NN	O
+Creative	UC	JJ	O
+Computers	UC	NNS	O
+,	UM	,	O
+Newsweek	UC	NNP	B-ORG
+,	UM	,	O
+July	UC	NNP	O
+5	UM	CD	O
+,	UM	,	O
+1982	UM	CD	O
+
+
+Bassan	UC	NNP	B-PER
+,	UM	,	O
+Raphael	UC	NNP	I-PER
+.	UM	.	O
+Cinema	UC	NNP	O
+Abstrait	UC	NN	O
+et	O	FW	O
+Experimental	UC	JJ	O
+,	UM	,	O
+La	UC	NNP	O
+Revue	UC	NN	O
+Du	UC	NNP	O
+Cinema	UC	NNP	O
+,	UM	,	O
+March	UC	NNP	O
+1981	UM	CD	O
+
+
+Perlman	UC	NNP	B-PER
+,	UM	,	O
+Marty	UC	NNP	I-PER
+.	UM	.	O
+The	UC	DT	O
+Artist	UC	NNP	O
+and	O	CC	O
+the	O	DT	O
+Computer	UC	NN	O
+,	UM	,	O
+Santa	UC	NNP	B-ORG
+Barbara	UC	NNP	I-ORG
+News	UC	NNP	I-ORG
+and	O	CC	I-ORG
+Review	UC	NN	I-ORG
+,	UM	,	O
+10/9/80	UM	CD	O
+
+
+Moritz	UC	NNP	B-PER
+,	UM	,	O
+William	UC	NNP	I-PER
+.	UM	.	O
+Non-Objective	UC	JJ	O
+Film	UC	NNP	O
+:	UM	:	O
+The	UC	DT	O
+Second	UC	JJ	O
+Generation	UC	NN	O
+,	UM	,	O
+
+
+Film	UC	NNP	O
+as	O	IN	O
+Film	UC	NNP	O
+:	UM	:	O
+Formal	UC	JJ	O
+Experiments	UC	NNS	O
+in	O	IN	O
+Film	UC	NNP	O
+1910-1975	UM	CD	O
+,	UM	,	O
+1979	UM	CD	O
+
+
+Glabicki	UC	NNP	B-PER
+,	UM	,	O
+Paul	UC	NNP	I-PER
+.	UM	.	O
+Animation	UC	NN	O
+Art	UC	NNP	O
+,	UM	,	O
+Field	UC	NN	O
+of	O	IN	O
+Vision	UC	NNP	O
+,	UM	,	O
+Fall	UC	NN	O
+,	UM	,	O
+1979	UM	CD	O
+
+
+Welcome	UC	VB	O
+
+
+Welcome	UC	VB	O
+to	O	TO	O
+the	O	DT	O
+webpage	O	NN	O
+for	O	IN	O
+North	UC	NNP	B-ORG
+American	UC	NNP	I-ORG
+Chapter	UC	NN	I-ORG
+of	O	IN	I-ORG
+the	O	DT	I-ORG
+Association	UC	NNP	I-ORG
+for	O	IN	I-ORG
+Computational	UC	JJ	I-ORG
+Linguistics	UC	NNS	I-ORG
+-	UM	:	O
+Human	UC	JJ	B-ORG
+Language	UC	NN	I-ORG
+Technologies	UC	NNPS	I-ORG
+-LRB-	UC	-LRB-	O
+NAACL	UC	NN	I-ORG
+HLT	UC	NN	I-ORG
+-RRB-	UC	-RRB-	O
+2009	UM	CD	O
+conference	O	NN	O
+.	UM	.	O
+
+
+Announcements	UC	NNS	O
+
+
+The	UC	DT	O
+submission	O	NN	O
+deadline	O	NN	O
+for	O	IN	O
+full	O	JJ	O
+papers	O	NNS	O
+is	O	VBZ	O
+11.59	UM	CD	O
+pm	O	NN	O
+,	UM	,	O
+PST	UC	NNP	O
+,	UM	,	O
+December	UC	NNP	O
+1st	UM	JJ	O
+2008	UM	CD	O
+.	UM	.	O
+Papers	UC	NNP	O
+should	O	MD	O
+be	O	VB	O
+submitted	O	VBN	O
+at	O	IN	O
+https://www.softconf.com/naacl-hlt09/papers	O	NNS	O
+
+
+Events	UC	NNS	O
+
+
+Tutorials	UC	NNS	O
+,	UM	,	O
+May	UC	NNP	O
+31	UM	CD	O
+
+
+Main	UC	NNP	O
+Conference	UC	NN	O
+,	UM	,	O
+June	UC	NNP	O
+1-3	UM	CD	O
+
+
+Workshops	UC	NNS	O
+,	UM	,	O
+June	UC	NNP	O
+4-5	UM	CD	O
+
+
+Conference	UC	NN	O
+Committee	UC	NNP	O
+
+
+General	UC	NNP	O
+Conference	UC	NN	O
+Chair	UC	NN	O
+
+
+*	UM	SYM	O
+Mari	UC	NNP	B-PER
+Ostendorf	UC	NNP	I-PER
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Washington	UC	NNP	I-ORG
+
+
+Program	UC	NN	O
+Committee	UC	NNP	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Michael	UC	NNP	B-PER
+Collins	UC	NNP	I-PER
+,	UM	,	O
+Massachusetts	UC	NNP	B-ORG
+Institute	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Technology	UC	NN	I-ORG
+-LRB-	UC	-LRB-	O
+NLP	UC	NN	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Lucy	UC	NNP	B-PER
+Vanderwende	UC	NNP	I-PER
+,	UM	,	O
+Microsoft	UC	NNP	B-ORG
+-LRB-	UC	-LRB-	O
+NLP	UC	NN	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Doug	UC	NNP	B-PER
+Oard	UC	NN	I-PER
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Maryland	UC	NNP	I-ORG
+-LRB-	UC	-LRB-	O
+IR	UC	NN	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Shri	UC	NNP	B-PER
+Narayanan	UC	NNP	I-PER
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Southern	UC	NNP	I-ORG
+California	UC	NNP	I-ORG
+-LRB-	UC	-LRB-	O
+Speech	UC	NN	O
+-RRB-	UC	-RRB-	O
+
+
+Local	UC	JJ	O
+Arrangement	UC	NN	O
+Co-Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+James	UC	NNP	B-PER
+Martin	UC	NNP	I-PER
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Colorado	UC	NNP	I-ORG
+at	O	IN	I-ORG
+Boulder	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+-LSB-	UC	-LRB-	O
+Martha	UC	NNP	O
+Palmer	UC	NNP	O
+-RSB-	UC	-RRB-	O
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Colorado	UC	NNP	I-ORG
+at	O	IN	I-ORG
+Boulder	UC	NNP	I-ORG
+
+
+Publicitiy	UC	NN	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Matthew	UC	NNP	B-PER
+Stone	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+Rutgers	UC	NNP	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Gokhan	UC	NNP	B-PER
+Tur	UC	NN	I-PER
+-LRB-	UC	-LRB-	O
+SRI	UC	NN	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Diana	UC	NNP	B-PER
+Inkpen	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+U	UC	NNP	B-ORG
+Ottawa	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+Publications	UC	NNP	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Christy	UC	NNP	B-PER
+Doran	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+MITRE	UC	NN	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Eric	UC	NNP	B-PER
+Ringger	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+BYU	UC	NNP	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+Tutorials	UC	NNS	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Ciprian	UC	NNP	B-PER
+Chelba	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+Google	UC	NNP	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Paul	UC	NNP	B-PER
+Kantor	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+Rutgers	UC	NNP	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Brian	UC	NNP	B-PER
+Roark	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+OHSU	UC	NN	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+Workshops	UC	NNS	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Mark	UC	NNP	B-PER
+Hasegawa-Johnson	UC	NN	O
+-LRB-	UC	-LRB-	O
+UIUC	UC	NN	B-ORG
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+
+
+*	UM	SYM	O
+Nizar	UC	NNP	B-PER
+Habash	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+Columbia	UC	NNP	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+Student	UC	NN	O
+research	O	NN	O
+conference	O	NN	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Anoop	UC	NNP	B-PER
+Sarkar	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+Simon	UC	NNP	B-ORG
+Fraser	UC	NNP	I-ORG
+U	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Carolyn	UC	NNP	B-PER
+Rose	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+CMU	UC	NNP	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+Student	UC	NN	O
+Doctoral	UC	JJ	O
+Consortium	UC	NNP	O
+Co-Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Svetlana	UC	NNP	B-PER
+Stenchikova	UC	NN	I-PER
+-LRB-	UC	-LRB-	O
+Stony	UC	NNP	B-ORG
+Brook	UC	NNP	I-ORG
+University	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+-	UM	:	O
+Speech	UC	NN	O
+
+
+*	UM	SYM	O
+Ulrich	UC	NNP	B-PER
+Germann	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Toronto	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+-	UM	:	O
+NLP	UC	NN	O
+
+
+*	UM	SYM	O
+Chirag	UC	NNP	B-PER
+Shah	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+North	UC	NNP	I-ORG
+Carolina	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+-	UM	:	O
+Information	UC	NN	O
+Retrieval	UC	NN	O
+
+
+Demo	UC	NNP	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Fred	UC	NNP	B-PER
+Popowich	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+U	UC	NNP	B-ORG
+Alberta	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Michael	UC	NNP	B-PER
+Johnston	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+AT&T	UC	NNP	O
+-RRB-	UC	-RRB-	O
+
+
+Sponsorship	UC	NN	O
+Chairs	UC	NNS	O
+
+
+*	UM	SYM	O
+Nicolas	UC	NNP	B-PER
+Nicolov	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+JD	UC	NN	B-ORG
+Powers	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Hitoshi	UC	NNP	B-PER
+Isahara	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+NICT	UC	NN	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Philipp	UC	NNP	B-PER
+Koehn	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+U	UC	NNP	B-ORG
+Edinburgh	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Josef	UC	NNP	B-PER
+van	O	NN	I-PER
+Genabith	UC	NN	I-PER
+-LRB-	UC	-LRB-	O
+Dublin	UC	NNP	B-ORG
+City	UC	NNP	I-ORG
+U	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+Venue	UC	NN	O
+
+
+Conference	UC	NN	O
+
+
+The	UC	DT	O
+conference	O	NN	O
+will	O	MD	O
+be	O	VB	O
+held	O	VBN	O
+at	O	IN	O
+the	O	DT	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Colorado	UC	NNP	I-ORG
+at	O	IN	I-ORG
+Boulder	UC	NNP	I-ORG
+
+
+Accomodations	UC	NNS	O
+
+
+Millennium	UC	NN	O
+Harvest	UC	NN	O
+House	UC	NNP	O
+
+
+Reserve	UC	NNP	O
+prior	O	RB	O
+to	O	TO	O
+May	UC	NNP	O
+2nd	UM	JJ	O
+
+
+Rate	UC	NN	O
+:	UM	:	O
+TBD	UC	NN	O
+
+
+1-800-545-6285	UM	NN	O
+
+
+http://millenniumhotels.com/millenniumboulder/	O	NN	O
+
+
+Reservation	UC	NN	O
+Links	UC	NNP	O
+
+
+*	UM	SYM	O
+Government	UC	NN	O
+Block	UC	NNP	O
+
+
+*	UM	SYM	O
+Non-Government	UC	NNP	O
+Block	UC	NNP	O
+
+
+Contact	UC	NN	O
+Us	UC	NNP	O
+
+
+For	UC	IN	O
+additional	O	JJ	O
+information	O	NN	O
+contact	O	NN	O
+us	O	PRP	O
+at	O	IN	O
+naaclhlt2009@gmail.com	O	NN	O
+.	UM	.	O
+
+
+For	UC	IN	O
+questions	O	NNS	O
+related	O	JJ	O
+to	O	TO	O
+paper	O	NN	O
+submissions	O	NNS	O
+,	UM	,	O
+contact	O	NN	O
+:	UM	:	O
+naacl-hlt09@csail.mit.edu	O	NN	O
+
+
+Anant	UC	NNP	B-PER
+Agarwal	UC	NNP	I-PER
+
+
+Position	UC	NN	O
+:	UM	:	O
+Faculty	UC	NN	O
+
+
+Office	UC	NNP	B-LOC
+:	UM	:	B-LOC
+32-G782	UC	NN	O
+
+
+Phone	UC	NN	O
+:253	UM	CD	O
+-1448	UM	CD	O
+
+
+E-mail	UC	NN	O
+:	UM	:	O
+agarwal@csail.mit.edu	O	NN	O
+
+
+Research	UC	NNP	O
+Directorate	UC	NNP	O
+-LRB-	UC	-LRB-	O
+s	O	NNS	O
+-RRB-	UC	-RRB-	O
+:	UM	:	O
+Systems	UC	NNPS	B-MISC
+
+
+URL	UC	NN	O
+:	UM	:	O
+http://cag.csail.mit.edu/~agarwal/	O	NN	O
+
+
+Biography	UC	NN	O
+:	UM	:	O
+
+
+Anant	UC	NNP	B-PER
+Agarwal	UC	NNP	I-PER
+holds	O	VBZ	O
+a	O	DT	O
+Ph.D.	UC	NNP	O
+.	UM	.	O
+-LRB-	UC	-LRB-	O
+1987	UM	CD	O
+-RRB-	UC	-RRB-	O
+and	O	CC	O
+an	O	DT	O
+MS	UC	NN	O
+in	O	IN	O
+Electrical	UC	JJ	B-MISC
+Engineering	UC	NNP	I-MISC
+from	O	IN	O
+Stanford	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+.	UM	.	O
+He	UC	PRP	O
+got	O	VBD	O
+his	O	PRP$	O
+bachelor	O	NN	O
+'s	O	POS	O
+degree	O	NN	O
+in	O	IN	O
+Electrical	UC	JJ	B-MISC
+Engineering	UC	NNP	I-MISC
+from	O	IN	O
+IIT	UC	NNP	B-ORG
+Madras	UC	NNP	I-ORG
+-LRB-	UC	-LRB-	O
+1982	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+He	UC	PRP	O
+is	O	VBZ	O
+currently	O	RB	O
+a	O	DT	O
+professor	O	NN	O
+of	O	IN	O
+Electrical	UC	JJ	B-MISC
+Engineering	UC	NNP	I-MISC
+and	O	CC	I-MISC
+Computer	UC	NN	I-MISC
+Science	UC	NN	I-MISC
+at	O	IN	O
+MIT	UC	NNP	B-ORG
+,	UM	,	O
+where	O	WRB	O
+his	O	PRP$	O
+teaching	O	NN	O
+and	O	CC	O
+research	O	NN	O
+interests	O	NNS	O
+include	O	VB	O
+VLSI	UC	NNP	O
+,	UM	,	O
+computer	O	NN	O
+architecture	O	NN	O
+,	UM	,	O
+compilation	O	NN	O
+,	UM	,	O
+and	O	CC	O
+software	O	NN	O
+systems	O	NNS	O
+.	UM	.	O
+He	UC	PRP	O
+led	O	VBN	O
+a	O	DT	O
+group	O	NN	O
+that	O	IN	O
+developed	O	VBN	O
+the	O	DT	O
+MIT	UC	NNP	B-MISC
+Alewife	UC	NNP	I-MISC
+,	UM	,	O
+a	O	DT	O
+scalable	O	JJ	O
+shared-memory	O	NN	O
+multiprocessor	O	NN	O
+.	UM	.	O
+He	UC	PRP	O
+also	O	RB	O
+led	O	VBN	O
+the	O	DT	O
+VirtualWires	UC	NNS	B-MISC
+project	O	NN	O
+at	O	IN	O
+MIT	UC	NNP	B-ORG
+and	O	CC	O
+was	O	VBD	O
+founder	O	NN	O
+of	O	IN	O
+Virtual	UC	JJ	B-ORG
+Machine	UC	NN	I-ORG
+Works	UC	NNP	I-ORG
+,	UM	,	O
+Inc.	UC	NNP	O
+.	UM	.	O
+,	UM	,	O
+which	O	WDT	O
+took	O	VBD	O
+the	O	DT	O
+VirtualWires	UC	NNS	B-MISC
+logic	O	NN	O
+emulation	O	NN	O
+technology	O	NN	O
+to	O	TO	O
+market	O	NN	O
+.	UM	.	O
+He	UC	PRP	O
+currently	O	RB	O
+leads	O	NNS	O
+the	O	DT	O
+Raw	UC	NN	B-MISC
+project	O	NN	O
+in	O	IN	O
+the	O	DT	O
+Computer	UC	NN	B-ORG
+Science	UC	NN	I-ORG
+and	O	CC	I-ORG
+Artificial	UC	JJ	I-ORG
+Intelligence	UC	NNP	I-ORG
+Laboratory	UC	NN	I-ORG
+.	UM	.	O
+He	UC	PRP	O
+is	O	VBZ	O
+also	O	RB	O
+founder	O	NN	O
+of	O	IN	O
+InCert	UC	NNP	B-ORG
+Software	UC	NNP	I-ORG
+Corporation	UC	NNP	I-ORG
+,	UM	,	O
+which	O	WDT	O
+is	O	VBZ	O
+applying	O	VBG	O
+a	O	DT	O
+software	O	NN	O
+agent	O	NN	O
+technology	O	NN	O
+to	O	TO	O
+enterprise	O	NN	O
+applications	O	NNS	O
+management	O	NN	O
+.	UM	.	O
+
+
+Recent	UC	JJ	O
+and/or	O	CC	O
+Significant	UC	JJ	O
+Publications	UC	NNPS	O
+:	UM	:	O
+
+
+A.	UC	NN	O
+Agarwal	UC	NNP	I-PER
+,	UM	,	O
+M.	UC	NN	O
+Horowitz	UC	NNP	I-PER
+,	UM	,	O
+and	O	CC	I-PER
+John	UC	NNP	I-PER
+Hennessy	UC	NNP	I-PER
+.	UM	.	O
+``	UM	``	B-MISC
+An	UC	DT	B-MISC
+Analytical	UC	NNP	I-MISC
+Cache	UC	NN	I-MISC
+Model	UC	NNP	I-MISC
+.	UM	.	O
+''	UM	''	O
+ACM	UC	NNP	B-MISC
+Transactions	UC	NNS	I-MISC
+on	O	IN	I-MISC
+Computer	UC	NN	I-MISC
+Systems	UC	NNPS	I-MISC
+,	UM	,	O
+7:2	UM	CD	O
+,	UM	,	O
+May	UC	NNP	O
+1989	UM	CD	O
+,	UM	,	O
+pp	O	NN	O
+.	UM	.	O
+184-215	UM	CD	O
+.	UM	.	O
+
+
+A.	UC	NN	O
+Agarwal	UC	NNP	I-PER
+,	UM	,	O
+J.	UC	NNP	O
+Babb	UC	NNP	I-PER
+,	UM	,	O
+D.	UC	NNP	O
+Chaiken	UC	NNP	I-PER
+,	UM	,	O
+G.D.	UC	NNP	O
+Souza	UC	NNP	I-PER
+,	UM	,	O
+K.	UC	NNP	O
+Johnson	UC	NNP	I-PER
+,	UM	,	O
+D.	UC	NNP	O
+Kranz	UC	NNP	I-PER
+,	UM	,	O
+J.	UC	NNP	O
+Kubiatowicz	UC	NNP	I-PER
+,	UM	,	O
+B.H.	UC	NNP	O
+Lim	UC	NNP	I-PER
+,	UM	,	O
+G.	UC	NNP	O
+Maa	UC	NN	I-PER
+,	UM	,	O
+K.	UC	NNP	O
+MacKenzie	UC	NNP	I-PER
+,	UM	,	O
+D.	UC	NNP	O
+Nussbaum	UC	NNP	I-PER
+,	UM	,	O
+M.	UC	NN	O
+Parkin	UC	NNP	I-PER
+,	UM	,	O
+and	O	CC	I-PER
+D.	UC	NNP	O
+Yeung	UC	NNP	I-PER
+.	UM	.	O
+``	UM	``	B-MISC
+Sparcle	UC	NNP	B-MISC
+:	UM	:	B-MISC
+Today	UC	NN	I-MISC
+'s	O	POS	O
+micro	O	JJ	I-MISC
+for	O	IN	I-MISC
+Tomorrow	UC	NN	I-MISC
+'s	O	POS	O
+Multiprocessor	UC	NNP	I-MISC
+.	UM	.	O
+''	UM	''	O
+In	UC	IN	O
+proceedings	O	NNS	O
+of	O	IN	O
+the	O	DT	O
+HOTCHIPS	UC	NNS	B-MISC
+Conference	UC	NN	I-MISC
+,	UM	,	O
+August	UC	NNP	O
+1992	UM	CD	O
+,	UM	,	O
+and	O	CC	O
+also	O	RB	O
+in	O	IN	O
+IEEE	UC	NN	B-MISC
+Micro	UC	NNP	I-MISC
+13:3	UM	CD	I-MISC
+,	UM	,	O
+June	UC	NNP	O
+1993	UM	CD	O
+,	UM	,	O
+PP.48-61	UC	NN	O
+.	UM	.	O
+
+
+J.	UC	NNP	O
+Babb	UC	NNP	I-PER
+,	UM	,	O
+R.	UC	NNP	O
+Tessier	UC	NNP	I-PER
+,	UM	,	O
+and	O	CC	I-PER
+A.	UC	NN	O
+Agarwal	UC	NNP	I-PER
+.	UM	.	O
+``	UM	``	B-MISC
+Virtual	UC	JJ	B-MISC
+Wires	UC	NNS	I-MISC
+:	UM	:	I-MISC
+Overcoming	UC	VBG	I-MISC
+Pin	UC	NN	I-MISC
+Limitations	UC	NNPS	I-MISC
+in	O	IN	I-MISC
+FPGA-Based	UC	JJ	O
+Logic	UC	NN	I-MISC
+Emulators	UC	NNS	I-MISC
+.	UM	.	O
+''	UM	''	O
+In	UC	IN	O
+proceedings	O	NNS	O
+of	O	IN	O
+the	O	DT	O
+First	UC	NNP	B-MISC
+IEEE	UC	NN	I-MISC
+Workshop	UC	NNP	I-MISC
+on	O	IN	I-MISC
+FPGAs	UC	NNS	I-MISC
+for	O	IN	I-MISC
+Custom	UC	NNP	I-MISC
+Computing	UC	NNP	I-MISC
+Machines	UC	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+FCCM	UC	NN	I-MISC
+``	UM	``	I-MISC
+93	UM	CD	I-MISC
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+April	UC	NNP	O
+1993	UM	CD	O
+,	UM	,	O
+pp	O	NN	O
+142-151	UM	CD	O
+.	UM	.	O
+
+
+A.	UC	NN	O
+Agarwal	UC	NNP	I-PER
+,	UM	,	O
+R.	UC	NNP	O
+Bianchini	UC	NNP	I-PER
+,	UM	,	O
+D.	UC	NNP	O
+Chaiken	UC	NNP	I-PER
+,	UM	,	O
+K.	UC	NNP	O
+Johnson	UC	NNP	I-PER
+,	UM	,	O
+D.	UC	NNP	O
+Kranz	UC	NNP	I-PER
+,	UM	,	O
+J.	UC	NNP	O
+Kubiatowicz	UC	NNP	I-PER
+,	UM	,	O
+B.	UC	NNP	O
+H.	UC	NNP	O
+LIm	UC	NNP	I-PER
+,	UM	,	O
+K.	UC	NNP	O
+MacKenzie	UC	NNP	I-PER
+,	UM	,	O
+and	O	CC	I-PER
+D.	UC	NNP	O
+Yeung	UC	NNP	I-PER
+.	UM	.	O
+''	UM	''	O
+The	UC	DT	I-MISC
+MIT	UC	NNP	I-MISC
+Alewife	UC	NNP	I-MISC
+Machine	UC	NN	I-MISC
+:	UM	:	I-MISC
+Architecture	UC	NNP	I-MISC
+and	O	CC	I-MISC
+Performance	UC	NNP	I-MISC
+.	UM	.	O
+''	UM	''	O
+In	UC	IN	O
+proceedings	O	NNS	O
+of	O	IN	O
+the	O	DT	O
+22nd	UM	JJ	B-MISC
+Annual	UC	JJ	I-MISC
+Internationsl	UC	NN	I-MISC
+Symposium	UC	NNP	I-MISC
+on	O	IN	I-MISC
+Computer	UC	NN	I-MISC
+Architecture	UC	NNP	I-MISC
+-LRB-	UC	-LRB-	O
+ISCA	UC	NN	I-MISC
+1995	UM	CD	I-MISC
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+June	UC	NNP	O
+1995	UM	CD	O
+,	UM	,	O
+pp	O	NN	O
+2-13	UM	CD	O
+.	UM	.	O
+
+
+MIT	UC	NNP	B-ORG
+Computer	UC	NN	I-ORG
+Science	UC	NN	I-ORG
+and	O	CC	I-ORG
+Artificial	UC	JJ	I-ORG
+Intelligence	UC	NNP	I-ORG
+Laboratory	UC	NN	I-ORG
+
+
+The	UC	DT	B-LOC
+Stata	UC	NNP	I-LOC
+Center	UC	NNP	I-LOC
+,	UM	,	O
+Building	UC	NN	I-LOC
+32	UM	CD	I-LOC
+-	UM	:	O
+32	UM	CD	I-LOC
+Vassar	UC	NNP	I-LOC
+Street	UC	NNP	I-LOC
+-	UM	:	O
+Cambridge	UC	NNP	I-LOC
+,	UM	,	O
+MA	UC	NNP	I-LOC
+02139	UM	CD	I-LOC
+-	UM	:	O
+USA	UC	NNP	I-LOC
+
+
+tel	O	NN	O
+:	UM	:	O
++1	UM	CD	O
+-617	UM	CD	O
+-253	UM	CD	O
+-5851	UM	CD	O
+-	UM	:	O
+webmaster@csail.mit.edu	O	NN	O
+
+
+Here	UC	RB	O
+is	O	VBZ	O
+a	O	DT	O
+little	O	RB	O
+about	O	IN	O
+me	O	PRP	O
+:	UM	:	O
+-RRB-	UC	-RRB-	O
+
+
+I	UC	PRP	O
+-LRB-	UC	-LRB-	O
+Known	UC	VBN	O
+as	O	IN	O
+''	UM	''	O
+Kannan	UC	NNP	B-PER
+''	UM	''	O
+to	O	TO	O
+family	O	NN	O
+and	O	CC	O
+friends	O	NNS	O
+-RRB-	UC	-RRB-	O
+am	O	RB	O
+the	O	DT	O
+eldest	O	IN	O
+of	O	IN	O
+the	O	DT	O
+three	O	CD	O
+children	O	NNS	O
+of	O	IN	O
+T.S.Balakrishnan	UC	NNP	O
+-LCB-	UC	-LRB-	O
+Retired	UC	VBN	O
+from	O	IN	O
+Shaw	UC	NNP	B-ORG
+Wallace	UC	NNP	I-ORG
+,	UM	,	O
+India	UC	NNP	B-ORG
+Pvt.	UC	NNP	O
+Ltd.	UC	NNP	O
+.	UM	.	O
+and	O	CC	O
+now	O	RB	O
+settled	O	VBN	O
+in	O	IN	O
+Madras	UC	NNP	B-LOC
+-RCB-	UC	-RRB-	O
+and	O	CC	O
+-LSB-	UC	-LRB-	O
+Raji	UC	NN	O
+-RSB-	UC	-RRB-	O
+-LCB-	UC	-LRB-	O
+home	O	NN	O
+maker	O	NN	O
+-RCB-	UC	-RRB-	O
+.	UM	.	O
+Born	UC	VBN	O
+on	O	IN	O
+the	O	DT	O
+13th	UM	JJ	O
+of	O	IN	O
+June	UC	NNP	O
+1968	UM	CD	O
+,	UM	,	O
+I	UC	PRP	O
+spent	O	VBN	O
+my	O	PRP$	O
+childhood	O	NN	O
+in	O	IN	O
+Madras	UC	NNP	B-LOC
+.	UM	.	O
+
+
+I	UC	PRP	O
+had	O	VBD	O
+my	O	PRP$	O
+early	O	RB	O
+schooling	O	NN	O
+at	O	IN	O
+``	UM	``	O
+Chinmaya	UC	NNP	O
+Vidyalaya	UC	NNP	O
+''	UM	''	O
+in	O	IN	O
+Madras	UC	NNP	B-LOC
+,	UM	,	O
+in	O	IN	O
+the	O	DT	O
+state	O	NN	O
+of	O	IN	O
+Tamil	UC	NNP	B-LOC
+Nadu	UC	NNP	I-LOC
+.	UM	.	O
+I	UC	PRP	O
+graduated	O	VBN	O
+from	O	IN	O
+the	O	DT	O
+Sri	UC	NNP	B-ORG
+Venkateswara	UC	NNP	I-ORG
+College	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Engineering	UC	NNP	I-ORG
+with	O	IN	O
+a	O	DT	O
+Bachelors	UC	NNS	O
+in	O	IN	O
+Electrical	UC	JJ	O
+and	O	CC	O
+Electronics	UC	NNP	O
+.	UM	.	O
+I	UC	PRP	O
+then	O	RB	O
+completed	O	VBN	O
+a	O	DT	O
+Masters	UC	NN	O
+in	O	IN	O
+``	UM	``	O
+Electrical	UC	JJ	O
+and	O	CC	O
+Computer	UC	NN	O
+Engineering	UC	NNP	O
+''	UM	''	O
+and	O	CC	O
+obtained	O	VBN	O
+my	O	PRP$	O
+second	O	JJ	O
+Masters	UC	NN	O
+in	O	IN	O
+``	UM	``	O
+System	UC	NNP	O
+Science	UC	NN	O
+''	UM	''	O
+from	O	IN	O
+the	O	DT	O
+Louisiana	UC	NNP	B-ORG
+State	UC	NN	I-ORG
+University	UC	NNP	I-ORG
+,	UM	,	O
+Baton	UC	NNP	B-LOC
+Rouge	UC	NNP	I-LOC
+,	UM	,	O
+La.	UC	NNP	O
+,	UM	,	O
+USA	UC	NNP	I-LOC
+.	UM	.	O
+
+
+I	UC	PRP	O
+wasworking	O	VBG	O
+as	O	IN	O
+a	O	DT	O
+``	UM	``	O
+Computer	UC	NN	O
+Analyst	UC	NN	O
+''	UM	''	O
+in	O	IN	O
+the	O	DT	O
+College	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Education	UC	NN	I-ORG
+,	UM	,	O
+at	O	IN	O
+the	O	DT	O
+Louisiana	UC	NNP	B-ORG
+State	UC	NN	I-ORG
+Universtiy	UC	NNP	I-ORG
+.	UM	.	O
+I	UC	PRP	O
+have	O	VB	O
+since	O	IN	O
+moved	O	VBN	O
+to	O	TO	O
+Tulsa	UC	NNP	B-LOC
+in	O	IN	O
+the	O	DT	O
+Native	UC	JJ	O
+American	UC	NNP	O
+State	UC	NN	O
+of	O	IN	O
+Oklahoma	UC	NNP	B-LOC
+.	UM	.	O
+I	UC	PRP	O
+now	O	RB	O
+work	O	NN	O
+for	O	IN	O
+SPR	UC	NN	B-ORG
+Inc	UC	NNP	I-ORG
+in	O	IN	I-ORG
+Tulsa	UC	NNP	I-ORG
+as	O	IN	O
+an	O	DT	O
+Information	UC	NN	O
+Systems	UC	NNPS	O
+Consultant	UC	NN	O
+.	UM	.	O
+
+
+My	UC	PRP$	O
+sister	O	NN	O
+,	UM	,	O
+Shobha	UC	NNP	B-PER
+married	O	VBN	O
+R.Sriram	UC	NN	O
+on	O	IN	O
+Feb	UC	NNP	O
+2	UM	CD	O
+,	UM	,	O
+1995	UM	CD	O
+,	UM	,	O
+and	O	CC	O
+is	O	VBZ	O
+now	O	RB	O
+settled	O	VBN	O
+in	O	IN	O
+Madras	UC	NNP	B-LOC
+.	UM	.	O
+They	UC	PRP	O
+share	O	NN	O
+a	O	DT	O
+little	O	RB	O
+bundle	O	NN	O
+of	O	IN	O
+joy	O	NN	O
+in	O	IN	O
+their	O	PRP$	O
+daughter	O	NN	O
+,	UM	,	O
+Sanjana	UC	NNP	B-PER
+.	UM	.	O
+
+
+My	UC	PRP$	O
+brother	O	NN	O
+Vinod	UC	NNP	B-PER
+is	O	VBZ	O
+pursuing	O	VBG	O
+his	O	PRP$	O
+MBA	UC	NNP	O
+from	O	IN	O
+Xavier	UC	NNP	B-ORG
+Institute	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Management	UC	NN	I-ORG
+,	UM	,	O
+Bhuvaneshwar	UC	NNP	B-LOC
+-LCB-	UC	-LRB-	O
+-LSB-	UC	-LRB-	O
+LOC	UC	NN	O
+Orissa	UC	NNP	O
+-RSB-	UC	-RRB-	O
+-RCB-	UC	-RRB-	O
+,	UM	,	O
+besides	O	IN	O
+working	O	VBG	O
+in	O	IN	O
+Johnson	UC	NNP	B-ORG
+&	UM	CC	O
+Johnson	UC	NNP	I-ORG
+,	UM	,	O
+Madras	UC	NNP	B-LOC
+.	UM	.	O
+
+
+I	UC	PRP	O
+married	O	VBN	O
+Priya	UC	NNP	B-PER
+on	O	IN	O
+January	UC	NNP	O
+26	UM	CD	O
+,	UM	,	O
+1996	UM	CD	O
+at	O	IN	O
+Bangalore	UC	NNP	B-LOC
+,	UM	,	O
+India	UC	NNP	I-LOC
+.	UM	.	O
+
+
+My	UC	PRP$	O
+hobbies	O	NNS	O
+include	O	VB	O
+traveling	O	VBG	O
+,	UM	,	O
+music	O	NN	O
+,	UM	,	O
+movies	O	NNS	O
+,	UM	,	O
+sports	O	NNS	O
+and	O	CC	O
+good	O	JJ	O
+food	O	NN	O
+!!!!!!!	UM	CD	O
+
+
+People	UC	NNS	O
+>	UM	JJR	O
+Donald	UC	NNP	B-PER
+E.	UC	NNP	O
+Troxel	UC	NNP	I-PER
+>	UM	JJR	O
+Biographical	UC	NNP	O
+Background	UC	NN	O
+
+
+Donald	UC	NNP	B-PER
+E.	UC	NNP	O
+Troxel	UC	NNP	I-PER
+
+
+Donald	UC	NNP	B-PER
+E.	UC	NNP	O
+Troxel	UC	NNP	I-PER
+
+
+Professor	UC	NNP	O
+of	O	IN	O
+Electrical	UC	JJ	B-MISC
+Engineering	UC	NNP	I-MISC
+
+
+Biographical	UC	NNP	O
+Background	UC	NN	O
+
+
+Professor	UC	NNP	O
+Donald	UC	NNP	B-PER
+E.	UC	NNP	O
+Troxel	UC	NNP	I-PER
+is	O	VBZ	O
+a	O	DT	O
+principal	O	NN	O
+investigator	O	NN	O
+in	O	IN	O
+the	O	DT	O
+Research	UC	NNP	B-ORG
+Laboratory	UC	NN	I-ORG
+of	O	IN	I-ORG
+Electronics	UC	NNP	I-ORG
+-LRB-	UC	-LRB-	O
+RLE	UC	NN	I-ORG
+-RRB-	UC	-RRB-	O
+at	O	IN	O
+the	O	DT	O
+Massachusetts	UC	NNP	B-ORG
+Institute	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Technology	UC	NN	I-ORG
+-LRB-	UC	-LRB-	O
+MIT	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+He	UC	PRP	O
+received	O	VBN	O
+the	O	DT	O
+B.S.	UC	NNP	O
+degree	O	NN	I-MISC
+in	O	IN	O
+electrical	O	JJ	B-MISC
+engineering	O	NN	I-MISC
+from	O	IN	O
+Rutgers	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+in	O	IN	O
+1956	UM	CD	O
+.	UM	.	O
+He	UC	PRP	O
+received	O	VBN	O
+the	O	DT	O
+S.M.	UC	NNP	O
+and	O	CC	I-MISC
+Ph.D.	UC	NNP	O
+.	UM	.	O
+degrees	O	NNS	I-MISC
+in	O	IN	O
+electrical	O	JJ	B-MISC
+engineering	O	NN	I-MISC
+from	O	IN	O
+the	O	DT	O
+Massachusetts	UC	NNP	B-ORG
+Institute	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Technology	UC	NN	I-ORG
+in	O	IN	O
+1960	UM	CD	O
+and	O	CC	O
+1962	UM	CD	O
+.	UM	.	O
+He	UC	PRP	O
+has	O	VBZ	O
+been	O	VBN	O
+at	O	IN	O
+MIT	UC	NNP	B-ORG
+since	O	IN	O
+1962	UM	CD	O
+,	UM	,	O
+first	O	RB	O
+as	O	IN	O
+a	O	DT	O
+Ford	UC	NNP	B-MISC
+Foundation	UC	NNP	I-MISC
+Post-doctoral	UC	JJ	O
+Fellow	UC	NNP	I-MISC
+,	UM	,	O
+Assistant	UC	NNP	B-MISC
+Professor	UC	NNP	I-MISC
+,	UM	,	O
+Associate	UC	JJ	B-MISC
+Professor	UC	NNP	I-MISC
+,	UM	,	O
+and	O	CC	O
+now	O	RB	O
+as	O	IN	O
+Professor	UC	NNP	B-MISC
+of	O	IN	I-MISC
+Electrical	UC	JJ	I-MISC
+Engineering	UC	NNP	I-MISC
+.	UM	.	O
+
+
+His	UC	PRP$	O
+teaching	O	NN	O
+activities	O	NNS	O
+have	O	VB	O
+centered	O	JJ	O
+around	O	IN	O
+undergraduate	O	JJ	O
+electronics	O	NNS	O
+and	O	CC	O
+digital	O	JJ	O
+systems	O	NNS	O
+laboratories	O	NNS	O
+.	UM	.	O
+Professor	UC	NNP	B-PER
+Troxel	UC	NNP	I-PER
+'s	O	POS	O
+principal	O	NN	O
+research	O	NN	O
+interests	O	NNS	O
+include	O	VB	O
+digital	O	JJ	O
+systems	O	NNS	O
+design	O	NN	O
+and	O	CC	O
+computer	O	NN	O
+aided	O	VBN	O
+fabrication	O	NN	O
+of	O	IN	O
+integrated	O	VBN	O
+circuits	O	NNS	O
+.	UM	.	O
+Early	UC	RB	O
+research	O	NN	O
+interests	O	NNS	O
+were	O	VBD	O
+concerned	O	JJ	O
+with	O	IN	O
+tactile	O	JJ	O
+communication	O	NN	O
+,	UM	,	O
+sensory	O	JJ	O
+aids	O	NNS	O
+for	O	IN	O
+the	O	DT	O
+blind	O	JJ	O
+,	UM	,	O
+optical	O	JJ	O
+character	O	NN	O
+recognition	O	NN	O
+,	UM	,	O
+picture	O	NN	O
+processing	O	NN	O
+,	UM	,	O
+image	O	NN	O
+bandwidth	O	NN	O
+compression	O	NN	O
+,	UM	,	O
+and	O	CC	O
+graphic	O	JJ	O
+arts	O	NNS	O
+applications	O	NNS	O
+.	UM	.	O
+
+
+Coye	UC	NNP	B-PER
+Cheshire	UC	NNP	I-PER
+
+
+Assistant	UC	NNP	O
+Professor	UC	NNP	O
+
+
+Current	UC	JJ	O
+Research	UC	NNP	O
+
+
+I	UC	PRP	O
+am	O	RB	O
+interested	O	JJ	O
+in	O	IN	O
+the	O	DT	O
+social	O	JJ	O
+aspects	O	NNS	O
+of	O	IN	O
+computer	O	NN	O
+networks	O	NNS	O
+and	O	CC	O
+exchange	O	NN	O
+systems	O	NNS	O
+.	UM	.	O
+My	UC	PRP$	O
+current	O	JJ	O
+research	O	NN	O
+topics	O	NNS	O
+include	O	VB	O
+the	O	DT	O
+role	O	NN	O
+of	O	IN	O
+information	O	NN	O
+as	O	IN	O
+the	O	DT	O
+object	O	NN	O
+of	O	IN	O
+exchange	O	NN	O
+in	O	IN	O
+social	O	JJ	O
+exchange	O	NN	O
+environments	O	NNS	O
+and	O	CC	O
+the	O	DT	O
+production	O	NN	O
+of	O	IN	O
+collective	O	JJ	O
+goods	O	NNS	O
+in	O	IN	O
+computer-mediated	O	JJ	O
+exchange	O	NN	O
+networks	O	NNS	O
+.	UM	.	O
+My	UC	PRP$	O
+current	O	JJ	O
+collaborative	O	JJ	O
+work	O	NN	O
+on	O	IN	O
+focuses	O	VBZ	O
+on	O	IN	O
+the	O	DT	O
+relationship	O	NN	O
+between	O	IN	O
+exchange	O	NN	O
+structures	O	NNS	O
+and	O	CC	O
+risk	O	NN	O
+,	UM	,	O
+uncertainty	O	NN	O
+,	UM	,	O
+trust	O	NN	O
+,	UM	,	O
+and	O	CC	O
+cooperation	O	NN	O
+-LRB-	UC	-LRB-	O
+in	O	IN	O
+the	O	DT	O
+U.S.	UC	NNP	O
+and	O	CC	O
+across	O	IN	O
+societies	O	NNS	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+Education	UC	NN	O
+
+
+B.A.	UC	NNP	O
+,	UM	,	O
+Sociology	UC	NN	B-MISC
+,	UM	,	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+North	UC	NNP	I-ORG
+Carolina	UC	NNP	I-ORG
+at	O	IN	I-ORG
+Chapel	UC	NN	I-ORG
+Hill	UC	NNP	I-ORG
+,	UM	,	O
+1997	UM	CD	O
+
+
+M.A.	UC	NNP	O
+,	UM	,	O
+Sociology	UC	NN	B-MISC
+,	UM	,	O
+Stanford	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+,	UM	,	O
+1998	UM	CD	O
+
+
+Ph.D.	UC	NNP	O
+,	UM	,	O
+Sociology	UC	NN	B-MISC
+,	UM	,	O
+Stanford	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+,	UM	,	O
+2005	UM	CD	O
+
+
+What	UC	WDT	O
+is	O	VBZ	O
+the	O	DT	O
+best	O	RB	O
+thing	O	NN	O
+about	O	IN	O
+working	O	VBG	O
+at	O	IN	O
+the	O	DT	O
+iSchool	UM	NN	B-ORG
+?	UM	.	O
+
+
+One	UC	CD	O
+of	O	IN	O
+the	O	DT	O
+most	O	RBS	O
+exciting	O	JJ	O
+and	O	CC	O
+rewarding	O	VBG	O
+things	O	NNS	O
+about	O	IN	O
+our	O	PRP$	O
+program	O	NN	O
+is	O	VBZ	O
+its	O	PRP$	O
+multi-disciplinary	O	JJ	O
+nature	O	NN	O
+.	UM	.	O
+I	UC	PRP	O
+love	O	NN	O
+the	O	DT	O
+fact	O	NN	O
+that	O	IN	O
+faculty	O	NN	O
+and	O	CC	O
+students	O	NNS	O
+are	O	VBP	O
+continually	O	RB	O
+exposed	O	VBN	O
+to	O	TO	O
+new	O	JJ	O
+,	UM	,	O
+cutting-edge	O	NN	O
+research	O	NN	O
+that	O	IN	O
+spans	O	NNS	O
+the	O	DT	O
+social	O	JJ	O
+,	UM	,	O
+technical	O	JJ	O
+,	UM	,	O
+theoretical	O	JJ	O
+,	UM	,	O
+and	O	CC	O
+practical	O	JJ	O
+dimensions	O	NNS	O
+of	O	IN	O
+information	O	NN	O
+and	O	CC	O
+information	O	NN	O
+technology	O	NN	O
+.	UM	.	O
+
+
+Something	UC	NN	O
+few	O	JJ	O
+people	O	NNS	O
+know	O	VB	O
+about	O	IN	O
+me	O	PRP	O
+
+
+I	UC	PRP	O
+know	O	VB	O
+little	O	RB	O
+to	O	TO	O
+nothing	O	NN	O
+about	O	IN	O
+sports	O	NNS	O
+.	UM	.	O
+Despite	UC	IN	O
+my	O	PRP$	O
+best	O	RB	O
+efforts	O	NNS	O
+to	O	TO	O
+hide	O	VB	O
+this	O	DT	O
+fact	O	NN	O
+,	UM	,	O
+my	O	PRP$	O
+cover	O	NN	O
+was	O	VBD	O
+once	O	RB	O
+blown	O	VBN	O
+when	O	WRB	O
+I	UC	PRP	O
+sincerely	O	RB	O
+congratulated	O	VBN	O
+my	O	PRP$	O
+graduate	O	NN	O
+school	O	NN	O
+advisor	O	NN	O
+s	O	NNS	O
+son	O	NN	O
+for	O	IN	O
+throwing	O	VBG	O
+several	O	JJ	O
+successful	O	JJ	O
+interceptions	O	NNS	O
+during	O	IN	O
+a	O	DT	O
+high	O	JJ	O
+school	O	NN	O
+football	O	NN	O
+game	O	NN	O
+.	UM	.	O
+
+
+How	UC	WRB	O
+to	O	TO	O
+Reach	UC	VB	O
+Me	UC	PRP	O
+
+
+Office	UC	NNP	B-LOC
+:	UM	:	B-LOC
+305A	UM	CD	I-LOC
+South	UC	NNP	I-LOC
+Hall	UC	NN	I-LOC
+
+
+Office	UC	NNP	O
+Hours	UC	NNS	O
+:	UM	:	O
+Tue	UC	NN	O
+&	UM	CC	O
+Thu	UC	NN	O
+4-5	UM	CD	O
+pm	O	NN	O
+
+
+Personal	UC	NNP	O
+Website	UC	NN	O
+:	UM	:	O
+http://www.sims.berkeley.edu/~coye/	O	NN	O
+
+
+Email	UC	VB	O
+:	UM	:	O
+coye@ischool	O	NN	O
+Voice	UC	NNP	O
+:	UM	:	O
+-LRB-	UC	-LRB-	O
+510	UM	CD	O
+-RRB-	UC	-RRB-	O
+643-6388	UM	CD	O
+
+
+Paul	UC	NNP	B-PER
+Duguid	UC	NNP	I-PER
+
+
+Adjunct	UC	NN	O
+Professor	UC	NNP	O
+
+
+Current	UC	JJ	O
+Research	UC	NNP	O
+
+
+Knowledge	UC	NN	O
+in	O	IN	O
+organizations	O	NNS	O
+.	UM	.	O
+The	UC	DT	O
+role	O	NN	O
+of	O	IN	O
+branding	O	VBG	O
+in	O	IN	O
+asserting	O	VBG	O
+the	O	DT	O
+quality	O	NN	O
+and	O	CC	O
+authenticity	O	NN	O
+of	O	IN	O
+information	O	NN	O
+.	UM	.	O
+The	UC	DT	O
+history	O	NN	O
+of	O	IN	O
+brands	O	NNS	O
+.	UM	.	O
+The	UC	DT	O
+role	O	NN	O
+of	O	IN	O
+brands	O	NNS	O
+in	O	IN	O
+vertical	O	JJ	O
+competition	O	NN	O
+within	O	IN	O
+supply	O	NN	O
+chains	O	NNS	O
+.	UM	.	O
+
+
+Other	UC	JJ	O
+Activities	UC	NNS	O
+
+
+Professorial	UC	JJ	O
+Research	UC	NNP	O
+Fellow	UC	NNP	O
+,	UM	,	O
+Queen	UC	NNP	B-ORG
+Mary	UC	NNP	I-ORG
+,	UM	,	O
+University	UC	NNP	I-ORG
+of	O	IN	I-ORG
+London	UC	NNP	I-ORG
+
+
+Visiting	UC	VBG	O
+Fellow	UC	NNP	O
+,	UM	,	O
+Lancaster	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+Management	UC	NN	I-ORG
+School	UC	NNP	I-ORG
+
+
+Education	UC	NN	O
+
+
+BA	UC	NN	O
+,	UM	,	O
+English	UC	NNP	B-MISC
+&	UM	CC	O
+Philosophy	UC	NN	I-MISC
+,	UM	,	O
+Bristol	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+,	UM	,	O
+UK	UC	NNP	B-LOC
+,	UM	,	O
+1976	UM	CD	O
+
+
+MA	UC	NNP	O
+,	UM	,	O
+English	UC	NNP	B-MISC
+Literature	UC	NN	I-MISC
+,	UM	,	O
+Washington	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+,	UM	,	O
+St.	UC	NNP	O
+Louis	UC	NNP	I-LOC
+,	UM	,	O
+1980	UM	CD	O
+
+
+What	UC	WDT	O
+is	O	VBZ	O
+the	O	DT	O
+best	O	RB	O
+thing	O	NN	O
+about	O	IN	O
+working	O	VBG	O
+at	O	IN	O
+the	O	DT	O
+I	UC	PRP	B-ORG
+School	UC	NNP	I-ORG
+?	UM	.	O
+
+
+Multidisciplinary	UC	JJ	O
+faculty	O	NN	O
+and	O	CC	O
+students	O	NNS	O
+.	UM	.	O
+
+
+What	UC	WDT	O
+Information	UC	NN	O
+issues	O	NNS	O
+interests	O	NNS	O
+you	O	PRP	O
+most	O	RBS	O
+?	UM	.	O
+
+
+Questions	UC	NNS	O
+of	O	IN	O
+quality	O	NN	O
+and	O	CC	O
+information	O	NN	O
+.	UM	.	O
+
+
+How	UC	WRB	O
+to	O	TO	O
+Reach	UC	VB	O
+Me	UC	PRP	O
+
+
+Office	UC	NNP	B-LOC
+:	UM	:	B-LOC
+203A	UM	NN	I-LOC
+South	UC	NNP	I-LOC
+Hall	UC	NN	I-LOC
+
+
+Personal	UC	NNP	O
+Website	UC	NN	O
+:	UM	:	O
+http://www.ischool.berkeley.edu/~duguid/	O	NN	O
+
+
+Email	UC	VB	O
+:	UM	:	O
+duguid@ischool	O	NN	O
+Voice	UC	NNP	O
+:	UM	:	O
+-LRB-	UC	-LRB-	O
+510	UM	CD	O
+-RRB-	UC	-RRB-	O
+643-3894	UM	CD	O
+
+
+Ron	UC	NNP	B-PER
+Fedkiw	UC	NNP	I-PER
+
+
+Associate	UC	JJ	O
+Professor	UC	NNP	O
+
+
+Stanford	UC	NNP	B-MISC
+Computer	UC	NN	I-MISC
+Science	UC	NN	I-MISC
+
+
+Ph.D.	UC	NNP	O
+.	UM	.	O
+Applied	UC	NNP	B-MISC
+Mathematics	UC	NNS	I-MISC
+,	UM	,	O
+UCLA	UC	NNP	B-ORG
+
+
+Computer	UC	NN	B-MISC
+Science	UC	NN	I-MISC
+Department	UC	NNP	I-MISC
+
+
+Stanford	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+
+
+Gates	UC	NNP	B-LOC
+Computer	UC	NN	I-LOC
+Science	UC	NN	I-LOC
+Bldg.	UC	NNP	O
+,	UM	,	O
+Room	UC	NN	I-LOC
+207	UM	CD	I-LOC
+
+
+Stanford	UC	NNP	B-LOC
+,	UM	,	O
+CA	UC	NNP	I-LOC
+94305-9020	UM	CD	O
+
+
+fedkiw@cs.stanford.edu	O	NN	O
+
+
+Phone	UC	NN	O
+:	UM	:	O
+-LRB-	UC	-LRB-	O
+650	UM	CD	O
+-RRB-	UC	-RRB-	O
+xxx-xxxx	O	NN	O
+
+
+directions	O	NNS	O
+to	O	TO	O
+Stanford	UC	NNP	B-LOC
+
+
+directions	O	NNS	O
+to	O	TO	O
+the	O	DT	O
+Gates	UC	NNP	B-LOC
+building	O	NN	I-LOC
+
+
+CS	UC	NN	O
+Broad	UC	NNP	O
+Area	UC	NN	O
+Colloquium	UC	NN	O
+
+
+Institute	UC	NNP	B-MISC
+for	O	IN	I-MISC
+Computational	UC	JJ	I-MISC
+and	O	CC	I-MISC
+Mathematical	UC	JJ	I-MISC
+Engineering	UC	NNP	I-MISC
+
+
+Brief	UC	JJ	O
+Bio	UC	NN	O
+
+
+Fedkiw	UC	NNP	B-PER
+received	O	VBN	O
+his	O	PRP$	O
+Ph.D.	UC	NNP	O
+.	UM	.	O
+in	O	IN	O
+Mathematics	UC	NNS	B-MISC
+from	O	IN	O
+UCLA	UC	NNP	B-ORG
+in	O	IN	O
+1996	UM	CD	O
+and	O	CC	O
+did	O	VBD	O
+postdoctoral	O	JJ	O
+studies	O	NNS	O
+both	O	DT	O
+at	O	IN	O
+UCLA	UC	NNP	B-ORG
+in	O	IN	O
+Mathematics	UC	NNS	B-MISC
+and	O	CC	O
+at	O	IN	O
+Caltech	UC	NNP	B-ORG
+in	O	IN	O
+Aeronautics	UC	NNP	B-MISC
+before	O	IN	O
+joining	O	VBG	O
+the	O	DT	O
+Stanford	UC	NNP	B-ORG
+Computer	UC	NN	I-ORG
+Science	UC	NN	I-ORG
+Department	UC	NNP	I-ORG
+.	UM	.	O
+He	UC	PRP	O
+was	O	VBD	O
+awarded	O	VBN	O
+an	O	DT	O
+Academy	UC	NNP	B-MISC
+Award	UC	NN	I-MISC
+from	O	IN	O
+The	UC	DT	B-ORG
+Academy	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Motion	UC	NNP	I-ORG
+Picture	UC	NNP	I-ORG
+Arts	UC	NNS	I-ORG
+and	O	CC	I-ORG
+Sciences	UC	NNPS	I-ORG
+,	UM	,	O
+the	O	DT	O
+National	UC	NNP	B-ORG
+Academy	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Science	UC	NN	I-ORG
+Award	UC	NN	I-ORG
+for	O	IN	I-ORG
+Initiatives	UC	NNS	I-ORG
+in	O	IN	I-ORG
+Research	UC	NNP	I-ORG
+,	UM	,	O
+a	O	DT	O
+Packard	UC	NNP	B-MISC
+Foundation	UC	NNP	I-MISC
+Fellowship	UC	NNP	I-MISC
+,	UM	,	O
+a	O	DT	O
+Presidential	UC	JJ	B-MISC
+Early	UC	RB	I-MISC
+Career	UC	NNP	I-MISC
+Award	UC	NN	I-MISC
+for	O	IN	I-MISC
+Scientists	UC	NNS	I-MISC
+and	O	CC	I-MISC
+Engineers	UC	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+PECASE	UC	NN	I-MISC
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+a	O	DT	O
+Sloan	UC	NNP	B-MISC
+Research	UC	NNP	I-MISC
+Fellowship	UC	NNP	I-MISC
+,	UM	,	O
+the	O	DT	O
+ACM	UC	NNP	B-MISC
+Siggraph	UC	NNP	I-MISC
+Significant	UC	JJ	I-MISC
+New	UC	NNP	I-MISC
+Researcher	UC	NN	I-MISC
+Award	UC	NN	I-MISC
+,	UM	,	O
+an	O	DT	O
+Office	UC	NNP	B-MISC
+of	O	IN	I-MISC
+Naval	UC	NNP	I-MISC
+Research	UC	NNP	I-MISC
+Young	UC	NNP	I-MISC
+Investigator	UC	NN	I-MISC
+Program	UC	NN	I-MISC
+Award	UC	NN	I-MISC
+-LRB-	UC	-LRB-	O
+ONR	UC	NN	I-MISC
+YIP	UC	NN	I-MISC
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+the	O	DT	O
+Okawa	UC	NNP	B-MISC
+Foundation	UC	NNP	I-MISC
+Research	UC	NNP	I-MISC
+Grant	UC	NNP	I-MISC
+,	UM	,	O
+the	O	DT	O
+Robert	UC	NNP	B-MISC
+Bosch	UC	NNP	I-MISC
+Faculty	UC	NN	I-MISC
+Scholarship	UC	NN	I-MISC
+,	UM	,	O
+the	O	DT	O
+Robert	UC	NNP	B-MISC
+N.	UC	NNP	O
+Noyce	UC	NNP	I-MISC
+Family	UC	NNP	I-MISC
+Faculty	UC	NN	I-MISC
+Scholarship	UC	NN	I-MISC
+,	UM	,	O
+two	O	CD	O
+distinguished	O	VBN	O
+teaching	O	NN	O
+awards	O	NNS	O
+,	UM	,	O
+etc.	O	FW	O
+.	UM	.	O
+Currently	UC	RB	O
+he	O	PRP	O
+is	O	VBZ	O
+on	O	IN	O
+the	O	DT	O
+editorial	O	NN	O
+board	O	NN	O
+of	O	IN	O
+the	O	DT	O
+Journal	UC	NNP	B-MISC
+of	O	IN	I-MISC
+Computational	UC	JJ	I-MISC
+Physics	UC	NN	I-MISC
+,	UM	,	O
+Journal	UC	NNP	B-MISC
+of	O	IN	I-MISC
+Scientific	UC	NNP	I-MISC
+Computing	UC	NNP	I-MISC
+,	UM	,	O
+SIAM	UC	NNP	B-MISC
+Journal	UC	NNP	I-MISC
+on	O	IN	I-MISC
+Imaging	UC	NNP	I-MISC
+Sciences	UC	NNPS	I-MISC
+,	UM	,	O
+and	O	CC	O
+Communications	UC	NNPS	B-MISC
+in	O	IN	I-MISC
+Mathematical	UC	JJ	I-MISC
+Sciences	UC	NNPS	I-MISC
+,	UM	,	O
+and	O	CC	O
+he	O	PRP	O
+participates	O	VBZ	O
+in	O	IN	O
+the	O	DT	O
+reviewing	O	VBG	O
+process	O	NN	O
+of	O	IN	O
+a	O	DT	O
+number	O	NN	O
+of	O	IN	O
+journals	O	NNS	O
+and	O	CC	O
+funding	O	NN	O
+agencies	O	NNS	O
+.	UM	.	O
+He	UC	PRP	O
+has	O	VBZ	O
+published	O	VBN	O
+over	O	IN	O
+80	UM	CD	O
+research	O	NN	O
+papers	O	NNS	O
+in	O	IN	O
+computational	O	JJ	O
+physics	O	NN	O
+,	UM	,	O
+computer	O	NN	O
+graphics	O	NNS	O
+and	O	CC	O
+vision	O	NN	O
+,	UM	,	O
+as	O	IN	O
+well	O	RB	O
+as	O	IN	O
+a	O	DT	O
+book	O	NN	O
+on	O	IN	O
+level	O	NN	O
+set	O	NN	O
+methods	O	NNS	O
+.	UM	.	O
+For	UC	IN	O
+the	O	DT	O
+past	O	IN	O
+seven	O	CD	O
+years	O	NNS	O
+,	UM	,	O
+he	O	PRP	O
+has	O	VBZ	O
+been	O	VBN	O
+a	O	DT	O
+consultant	O	NN	O
+with	O	IN	O
+Industrial	UC	NNP	B-ORG
+Light	UC	NN	I-ORG
++	UM	CC	O
+Magic	UC	JJ	I-ORG
+.	UM	.	O
+He	UC	PRP	O
+received	O	VBN	O
+screen	O	NN	O
+credits	O	NNS	O
+for	O	IN	O
+his	O	PRP$	O
+work	O	NN	O
+on	O	IN	O
+``	UM	``	B-MISC
+Terminator	UC	NNP	B-MISC
+3	UM	CD	I-MISC
+:	UM	:	I-MISC
+Rise	UC	NN	I-MISC
+of	O	IN	I-MISC
+the	O	DT	I-MISC
+Machines	UC	NNS	I-MISC
+''	UM	''	O
+,	UM	,	O
+``	UM	``	B-MISC
+Star	UC	NNP	B-MISC
+Wars	UC	NNS	I-MISC
+:	UM	:	I-MISC
+Episode	UC	NN	I-MISC
+III	UC	NNP	I-MISC
+-	UM	:	O
+Revenge	UC	NN	I-MISC
+of	O	IN	I-MISC
+the	O	DT	I-MISC
+Sith	UC	NNP	I-MISC
+''	UM	''	O
+,	UM	,	O
+``	UM	``	B-MISC
+Poseidon	UC	NNP	B-MISC
+''	UM	''	O
+and	O	CC	O
+``	UM	``	B-MISC
+Evan	UC	NNP	B-MISC
+Almighty	UC	NNP	I-MISC
+''	UM	''	O
+.	UM	.	O
+
+
+Research	UC	NNP	O
+
+
+My	UC	PRP$	O
+research	O	NN	O
+is	O	VBZ	O
+focused	O	VBN	O
+on	O	IN	O
+the	O	DT	O
+design	O	NN	O
+of	O	IN	O
+new	O	JJ	O
+computational	O	JJ	O
+algorithms	O	NNS	O
+for	O	IN	O
+a	O	DT	O
+variety	O	NN	O
+of	O	IN	O
+applications	O	NNS	O
+including	O	VBG	O
+computational	O	JJ	O
+fluid	O	NN	O
+dynamics	O	NNS	O
+and	O	CC	O
+solid	O	JJ	O
+mechanics	O	NNS	O
+,	UM	,	O
+computer	O	NN	O
+graphics	O	NNS	O
+,	UM	,	O
+computer	O	NN	O
+vision	O	NN	O
+and	O	CC	O
+computational	O	JJ	O
+biomechanics	O	NNS	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Two	UC	CD	B-MISC
+way	O	NN	I-MISC
+coupled	O	VBN	I-MISC
+SPH	UC	NN	I-MISC
+and	O	CC	I-MISC
+particle	O	NN	I-MISC
+level	O	NN	I-MISC
+set	O	NN	I-MISC
+fluid	O	NN	I-MISC
+simulation	O	NN	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Frank	UC	NNP	B-PER
+Losasso	UC	NNP	I-PER
+,	UM	,	O
+Jerry	UC	NNP	B-PER
+Talton	UC	NNP	I-PER
+and	O	CC	O
+Nipun	UC	NN	B-PER
+Kwatra	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Hybrid	UC	NN	B-MISC
+simulation	O	NN	I-MISC
+of	O	IN	I-MISC
+embedded	O	JJ	I-MISC
+deformable	O	JJ	I-MISC
+solids	O	NNS	I-MISC
+and	O	CC	I-MISC
+rigid	O	JJ	I-MISC
+bodies	O	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Eftychios	UC	NNS	B-PER
+Sifakis	UC	NNP	I-PER
+,	UM	,	O
+Tamar	UC	NNP	B-PER
+Shinar	UC	NNP	I-PER
+and	O	CC	O
+Geoffrey	UC	NNP	B-PER
+Irving	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Arbitrary	UC	JJ	B-MISC
+cutting	O	VBG	I-MISC
+of	O	IN	I-MISC
+tetrahedral	O	JJ	I-MISC
+meshes	O	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Eftychios	UC	NNS	B-PER
+Sifakis	UC	NNP	I-PER
+and	O	CC	O
+Kevin	UC	NNP	B-PER
+Der	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Fire	UC	NN	B-MISC
+with	O	IN	I-MISC
+cellular	O	JJ	I-MISC
+patterns	O	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Jeong-Mo	UC	NN	O
+Hong	UC	NNP	I-PER
+and	O	CC	O
+Tamar	UC	NNP	B-PER
+Shinar	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Incompressible	UC	JJ	B-MISC
+solids	O	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Geoffrey	UC	NNP	B-PER
+Irving	UC	NNP	I-PER
+and	O	CC	O
+Craig	UC	NNP	B-PER
+Schroeder	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Fracturing	UC	NNP	B-MISC
+rigid	O	JJ	I-MISC
+bodies	O	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Josh	UC	NNP	B-PER
+Bao	UC	NNP	I-PER
+,	UM	,	O
+Jeong-Mo	UC	NN	O
+Hong	UC	NNP	I-PER
+and	O	CC	O
+Joey	UC	NNP	B-PER
+Teran	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Thin	UC	JJ	B-MISC
+shell	O	NN	I-MISC
+rigid	O	JJ	I-MISC
+bodies	O	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Josh	UC	NNP	B-PER
+Bao	UC	NNP	I-PER
+,	UM	,	O
+Jeong-Mo	UC	NN	O
+Hong	UC	NNP	I-PER
+and	O	CC	O
+Joey	UC	NNP	B-PER
+Teran	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Multiple	UC	JJ	B-MISC
+Interacting	UC	VBG	I-MISC
+Liquids	UC	NNS	I-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Frank	UC	NNP	B-PER
+Losasso	UC	NNP	I-PER
+,	UM	,	O
+Tamar	UC	NNP	B-PER
+Shinar	UC	NNP	I-PER
+and	O	CC	O
+Andrew	UC	NNP	B-PER
+Selle	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+MANTASUIT	UC	NNP	O
+
+
+The	UC	DT	O
+goal	O	NN	O
+is	O	VBZ	O
+to	O	TO	O
+design	O	NN	O
+an	O	DT	O
+underwater	O	JJ	O
+diving	O	NN	O
+suit	O	NN	O
+that	O	IN	O
+provides	O	VBZ	O
+a	O	DT	O
+diver	O	NN	O
+with	O	IN	O
+an	O	DT	O
+exoskeleton	O	NN	O
+for	O	IN	O
+enhanced	O	VBN	O
+locomotion	O	NN	O
+,	UM	,	O
+as	O	IN	O
+well	O	RB	O
+as	O	IN	O
+augmented	O	JJ	O
+reality	O	NN	O
+enhancements	O	NNS	O
+for	O	IN	O
+underwater	O	JJ	O
+vision	O	NN	O
+and	O	CC	O
+directional	O	JJ	O
+sound	O	NN	O
+detection	O	NN	O
+.	UM	.	O
+Concept	UC	NN	O
+art	O	NN	O
+by	O	IN	O
+Wilson	UC	NNP	B-PER
+Tang	UC	NNP	I-PER
+.	UM	.	O
+
+
+Academy	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Motion	UC	NNP	I-ORG
+Picture	UC	NNP	I-ORG
+Arts	UC	NNS	I-ORG
+and	O	CC	I-ORG
+Sciences	UC	NNPS	I-ORG
+
+
+Scientific	UC	NNP	B-MISC
+and	O	CC	I-MISC
+Technical	UC	NNP	I-MISC
+Awards	UC	NNS	I-MISC
+-	UM	:	O
+Since	UC	IN	O
+1930/31	UM	CD	O
+the	O	DT	O
+Academy	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Motion	UC	NNP	I-ORG
+Picture	UC	NNP	I-ORG
+Arts	UC	NNS	I-ORG
+and	O	CC	I-ORG
+Sciences	UC	NNPS	I-ORG
+has	O	VBZ	O
+conducted	O	VBN	O
+a	O	DT	O
+program	O	NN	O
+for	O	IN	O
+honoring	O	VBG	O
+the	O	DT	O
+artisans	O	NNS	O
+whose	O	WP$	O
+contributions	O	NNS	O
+have	O	VB	O
+made	O	VBN	O
+it	O	PRP	O
+possible	O	JJ	O
+for	O	IN	O
+an	O	DT	O
+industry	O	NN	O
+known	O	VBN	O
+as	O	IN	O
+``	UM	``	O
+The	UC	DT	O
+Movies	UC	NNS	O
+''	UM	''	O
+to	O	TO	O
+exist	O	VB	O
+.	UM	.	O
+Recognition	UC	NN	O
+of	O	IN	O
+ingenuity	O	NN	O
+,	UM	,	O
+efficiency	O	NN	O
+and	O	CC	O
+economy	O	NN	O
+toward	O	IN	O
+achieving	O	VBG	O
+the	O	DT	O
+end	O	NN	O
+result	O	NN	O
+is	O	VBZ	O
+the	O	DT	O
+basic	O	JJ	O
+purpose	O	NN	O
+of	O	IN	O
+the	O	DT	O
+Scientific	UC	NNP	O
+and	O	CC	O
+Technical	UC	NNP	O
+Awards	UC	NNS	O
+.	UM	.	O
+
+
+National	UC	NNP	B-ORG
+Academy	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Sciences	UC	NNPS	I-ORG
+
+
+NAS	UC	NNP	B-MISC
+Award	UC	NN	I-MISC
+for	O	IN	I-MISC
+Initiatives	UC	NNS	I-MISC
+in	O	IN	I-MISC
+Research	UC	NNP	I-MISC
+-	UM	:	O
+awarded	O	VBN	O
+to	O	TO	O
+recognize	O	VB	O
+innovative	O	JJ	O
+young	O	JJ	O
+scientists	O	NNS	O
+and	O	CC	O
+to	O	TO	O
+encourage	O	VB	O
+research	O	NN	O
+likely	O	RB	O
+to	O	TO	O
+lead	O	NN	O
+toward	O	IN	O
+new	O	JJ	O
+capabilities	O	NNS	O
+for	O	IN	O
+human	O	JJ	O
+benefit	O	NN	O
+.	UM	.	O
+The	UC	DT	O
+award	O	NN	O
+is	O	VBZ	O
+to	O	TO	O
+be	O	VB	O
+given	O	VBN	O
+to	O	TO	O
+a	O	DT	O
+citizen	O	NN	O
+of	O	IN	O
+the	O	DT	O
+United	UC	NNP	B-LOC
+States	UC	NNPS	I-LOC
+,	UM	,	O
+preferably	O	RB	O
+no	O	DT	O
+older	O	JJR	O
+than	O	IN	O
+35	UM	CD	O
+years	O	NNS	O
+of	O	IN	O
+age	O	NN	O
+.	UM	.	O
+The	UC	DT	O
+field	O	NN	O
+of	O	IN	O
+presentation	O	NN	O
+rotates	O	VBZ	O
+among	O	IN	O
+the	O	DT	O
+physical	O	JJ	O
+sciences	O	NNS	O
+,	UM	,	O
+engineering	O	NN	O
+,	UM	,	O
+and	O	CC	O
+mathematics	O	NNS	O
+.	UM	.	O
+
+
+The	UC	DT	B-ORG
+David	UC	NNP	I-ORG
+and	O	CC	I-ORG
+Lucille	UC	NNP	I-ORG
+Packard	UC	NNP	I-ORG
+Foundation	UC	NNP	I-ORG
+
+
+Fellowships	UC	NNS	B-MISC
+for	O	IN	I-MISC
+Science	UC	NN	I-MISC
+and	O	CC	I-MISC
+Engineering	UC	NNP	I-MISC
+-	UM	:	O
+The	UC	DT	O
+Foundation	UC	NNP	O
+has	O	VBZ	O
+a	O	DT	O
+long-standing	O	JJ	O
+interest	O	NN	O
+in	O	IN	O
+strengthening	O	VBG	O
+both	O	DT	O
+university-based	O	JJ	O
+research	O	NN	O
+and	O	CC	O
+graduate	O	NN	O
+education	O	NN	O
+.	UM	.	O
+Each	UC	DT	O
+year	O	NN	O
+,	UM	,	O
+they	O	PRP	O
+generously	O	RB	O
+-LRB-	UC	-LRB-	O
+!	UM	.	O
+-RRB-	UC	-RRB-	O
+select	O	JJ	O
+20	UM	CD	O
+Fellows	UC	NNS	O
+to	O	TO	O
+receive	O	VB	O
+individual	O	JJ	O
+grants	O	NNS	O
+of	O	IN	O
+$	UM	$	O
+625,000	UM	CD	O
+over	O	IN	O
+five	O	CD	O
+years	O	NNS	O
+.	UM	.	O
+The	UC	DT	O
+Fellowship	UC	NNP	B-MISC
+Program	UC	NN	I-MISC
+was	O	VBD	O
+established	O	VBN	O
+in	O	IN	O
+1988	UM	CD	O
+.	UM	.	O
+
+
+Presidential	UC	JJ	B-MISC
+Early	UC	RB	I-MISC
+Career	UC	NNP	I-MISC
+Award	UC	NN	I-MISC
+for	O	IN	I-MISC
+Scientists	UC	NNS	I-MISC
+and	O	CC	I-MISC
+Engineers	UC	NNS	I-MISC
+
+
+PECASE	UC	NN	B-MISC
+-	UM	:	O
+I	UC	PRP	O
+went	O	VBD	O
+to	O	TO	O
+the	O	DT	O
+White	UC	NNP	B-LOC
+House	UC	NNP	I-LOC
+for	O	IN	O
+the	O	DT	O
+PECASE	UC	NN	B-MISC
+awards	O	NNS	O
+ceremony	O	NN	O
+-LRB-	UC	-LRB-	O
+thank	O	VB	O
+you	O	PRP	O
+Wen	UC	NNP	B-PER
+&	UM	CC	O
+ONR	UC	NN	B-ORG
+!	UM	.	O
+-RRB-	UC	-RRB-	O
+which	O	WDT	O
+included	O	VBN	O
+a	O	DT	O
+wonderful	O	JJ	O
+speech	O	NN	O
+by	O	IN	O
+President	UC	NNP	B-PER
+George	UC	NNP	I-PER
+W.	UC	NNP	O
+Bush	UC	NNP	I-PER
+.	UM	.	O
+
+
+The	UC	DT	B-ORG
+Alfred	UC	NNP	I-ORG
+P.	UC	NNP	O
+Sloan	UC	NNP	I-ORG
+Foundation	UC	NNP	I-ORG
+
+
+Sloan	UC	NNP	B-MISC
+Research	UC	NNP	I-MISC
+Fellowships	UC	NNS	I-MISC
+-	UM	:	O
+Currently	UC	RB	O
+a	O	DT	O
+total	O	NN	O
+of	O	IN	O
+116	UM	CD	O
+fellowships	O	NNS	O
+are	O	VBP	O
+awarded	O	VBN	O
+annually	O	RB	O
+in	O	IN	O
+seven	O	CD	O
+fields	O	NNS	O
+:	UM	:	O
+chemistry	O	NN	O
+,	UM	,	O
+computational	O	JJ	O
+and	O	CC	O
+evolutionary	O	JJ	O
+molecular	O	JJ	O
+biology	O	NN	O
+,	UM	,	O
+computer	O	NN	O
+science	O	NN	O
+,	UM	,	O
+economics	O	NNS	O
+,	UM	,	O
+mathematics	O	NNS	O
+,	UM	,	O
+neuroscience	O	NN	O
+,	UM	,	O
+and	O	CC	O
+physics	O	NN	O
+.	UM	.	O
+
+
+ACM	UC	NNP	B-ORG
+SIGGRAPH	UC	NNP	I-ORG
+
+
+ACM	UC	NNP	B-MISC
+SIGGRAPH	UC	NNP	I-MISC
+Awards	UC	NNS	I-MISC
+Program	UC	NN	I-MISC
+-	UM	:	O
+The	UC	DT	O
+ACM	UC	NNP	B-MISC
+SIGGRAPH	UC	NNP	I-MISC
+Awards	UC	NNS	I-MISC
+program	O	NN	O
+recognizes	O	VBZ	O
+individuals	O	NNS	O
+who	O	WP	O
+have	O	VB	O
+made	O	VBN	O
+a	O	DT	O
+significant	O	JJ	O
+contribution	O	NN	O
+to	O	TO	O
+the	O	DT	O
+computer	O	NN	O
+graphics	O	NNS	O
+community	O	NN	O
+through	O	IN	O
+their	O	PRP$	O
+research	O	NN	O
+,	UM	,	O
+teaching	O	NN	O
+,	UM	,	O
+service	O	NN	O
+,	UM	,	O
+or	O	CC	O
+writing	O	VBG	O
+.	UM	.	O
+
+
+The	UC	DT	B-ORG
+Okawa	UC	NNP	I-ORG
+Foundation	UC	NNP	I-ORG
+
+
+The	UC	DT	B-MISC
+Okawa	UC	NNP	I-MISC
+Foundation	UC	NNP	I-MISC
+Research	UC	NNP	I-MISC
+Grant	UC	NNP	I-MISC
+-	UM	:	O
+The	UC	DT	O
+Foundation	UC	NNP	B-ORG
+was	O	VBD	O
+established	O	VBN	O
+in	O	IN	O
+1986	UM	CD	O
+as	O	IN	O
+an	O	DT	O
+authorized	O	VBN	O
+non-profit	O	JJ	O
+organization	O	NN	O
+to	O	TO	O
+promote	O	VB	O
+the	O	DT	O
+growth	O	NN	O
+and	O	CC	O
+development	O	NN	O
+of	O	IN	O
+the	O	DT	O
+information	O	NN	O
+and	O	CC	O
+telecommunications	O	NNS	O
+fields	O	NNS	O
+,	UM	,	O
+through	O	IN	O
+donations	O	NNS	O
+from	O	IN	O
+the	O	DT	O
+late	O	RB	O
+Mr.	UC	NNP	O
+Isao	UC	NNP	I-PER
+Okawa	UC	NNP	I-PER
+.	UM	.	O
+
+
+Publications	UC	NNP	O
+
+
+Computational	UC	JJ	B-MISC
+Physics	UC	NN	I-MISC
+...	UM	:	O
+
+
+*	UM	SYM	O
+Selle	UC	NNP	B-PER
+,	UM	,	O
+A.	UC	NN	O
+,	UM	,	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+Kim	UC	NNP	B-PER
+,	UM	,	O
+B.-M	UC	NN	O
+.	UM	.	O
+,	UM	,	O
+Liu	UC	NNP	B-PER
+,	UM	,	O
+Y.	UC	NNP	O
+and	O	CC	O
+Rossignac	UC	NNP	B-PER
+,	UM	,	O
+J.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+An	UC	DT	B-MISC
+Unconditionally	UC	RB	I-MISC
+Stable	UC	JJ	I-MISC
+MacCormack	UC	NNP	I-MISC
+Method	UC	NN	I-MISC
+''	UM	''	O
+,	UM	,	O
+J.	UC	NNP	O
+Sci	UC	NNP	I-MISC
+.	UM	.	O
+Comput	UC	NNP	I-MISC
+.	UM	.	O
+,	UM	,	O
+-LRB-	UC	-LRB-	O
+in	O	IN	O
+press	O	NN	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Hong	UC	NNP	B-PER
+,	UM	,	O
+J.-M	UC	NN	O
+.	UM	.	O
+,	UM	,	O
+Shinar	UC	NNP	B-PER
+,	UM	,	O
+T.	UC	NNP	O
+,	UM	,	O
+Kang	UC	NNP	B-PER
+,	UM	,	O
+M.	UC	NN	O
+and	O	CC	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+On	UC	IN	B-MISC
+Boundary	UC	NN	I-MISC
+Condition	UC	NN	I-MISC
+Capturing	UC	VBG	I-MISC
+for	O	IN	I-MISC
+Multiphase	UC	NN	I-MISC
+Interfaces	UC	NNS	I-MISC
+''	UM	''	O
+,	UM	,	O
+J.	UC	NNP	O
+Sci	UC	NNP	I-MISC
+.	UM	.	O
+Comput	UC	NNP	I-MISC
+.	UM	.	O
+31	UM	CD	O
+,	UM	,	O
+99-125	UM	CD	O
+-LRB-	UC	-LRB-	O
+2007	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Losasso	UC	NNP	B-PER
+,	UM	,	O
+F.	UC	NNP	O
+,	UM	,	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+and	O	CC	O
+Osher	UC	NNP	B-PER
+,	UM	,	O
+``	UM	``	B-MISC
+Spatially	UC	RB	B-MISC
+Adaptive	UC	JJ	I-MISC
+Techniques	UC	NNS	I-MISC
+for	O	IN	I-MISC
+Level	UC	NN	I-MISC
+Set	UC	VB	I-MISC
+Methods	UC	NNS	I-MISC
+and	O	CC	I-MISC
+Incompressible	UC	JJ	I-MISC
+Flow	UC	NN	I-MISC
+''	UM	''	O
+,	UM	,	O
+Computers	UC	NNS	B-MISC
+and	O	CC	I-MISC
+Fluids	UC	NNS	I-MISC
+35	UM	CD	O
+,	UM	,	O
+995-1010	UM	CD	O
+-LRB-	UC	-LRB-	O
+2006	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Bridson	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+Teran	UC	NNP	B-PER
+,	UM	,	O
+J.	UC	NNP	O
+,	UM	,	O
+Molino	UC	NNP	B-PER
+,	UM	,	O
+N.	UC	NNP	O
+and	O	CC	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+Adaptive	UC	JJ	B-MISC
+Physics	UC	NN	I-MISC
+Based	UC	VBN	I-MISC
+Tetrahedral	UC	JJ	I-MISC
+Mesh	UC	VB	I-MISC
+Generation	UC	NN	I-MISC
+Using	UC	VBG	I-MISC
+Level	UC	NN	I-MISC
+Sets	UC	NNS	I-MISC
+''	UM	''	O
+,	UM	,	O
+Engineering	UC	NNP	B-MISC
+with	O	IN	I-MISC
+Computers	UC	NNS	I-MISC
+21	UM	CD	O
+,	UM	,	O
+2-18	UM	CD	O
+-LRB-	UC	-LRB-	O
+2005	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Enright	UC	NNP	B-PER
+,	UM	,	O
+D.	UC	NNP	O
+,	UM	,	O
+Losasso	UC	NNP	B-PER
+,	UM	,	O
+F.	UC	NNP	O
+and	O	CC	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+A	UC	DT	B-MISC
+Fast	UC	JJ	I-MISC
+and	O	CC	I-MISC
+Accurate	UC	JJ	I-MISC
+Semi-Lagrangian	UC	JJ	O
+Particle	UC	NN	I-MISC
+Level	UC	NN	I-MISC
+Set	UC	VB	I-MISC
+Method	UC	NN	I-MISC
+''	UM	''	O
+,	UM	,	O
+Computers	UC	NNS	B-ORG
+and	O	CC	I-ORG
+Structures	UC	NNS	I-ORG
+83	UM	CD	O
+,	UM	,	O
+479-490	UM	CD	O
+-LRB-	UC	-LRB-	O
+2005	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+Ph.D.	UC	NNP	O
+.	UM	.	O
+thesis	O	NN	O
+...	UM	:	O
+
+
+*	UM	SYM	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+A	UC	DT	B-MISC
+Survey	UC	NN	I-MISC
+of	O	IN	I-MISC
+Chemically	UC	RB	I-MISC
+Reacting	UC	VBG	I-MISC
+,	UM	,	O
+Compressible	UC	JJ	I-MISC
+Flow	UC	NN	I-MISC
+''	UM	''	O
+,	UM	,	O
+Ph.D.	UC	NNP	O
+.	UM	.	O
+Thesis	UC	NN	O
+,	UM	,	O
+UCLA	UC	NNP	B-ORG
+Mathematics	UC	NNS	I-ORG
+Department	UC	NNP	I-ORG
+,	UM	,	O
+June	UC	NNP	O
+1996	UM	CD	O
+.	UM	.	O
+
+
+Computer	UC	NN	B-MISC
+Graphics	UC	NNS	I-MISC
+,	UM	,	O
+Vision	UC	NNP	B-MISC
+&	UM	CC	O
+Biomechanics	UC	NNS	I-MISC
+...	UM	:	O
+
+
+*	UM	SYM	O
+Losasso	UC	NNP	B-PER
+,	UM	,	O
+F.	UC	NNP	O
+,	UM	,	O
+Talton	UC	NNP	B-PER
+,	UM	,	O
+J.	UC	NNP	O
+,	UM	,	O
+Kwatra	UC	NNP	B-PER
+,	UM	,	O
+N.	UC	NNP	O
+and	O	CC	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+Two-way	UC	NN	O
+Coupled	UC	VBN	I-MISC
+SPH	UC	NN	I-MISC
+and	O	CC	I-MISC
+Particle	UC	NN	I-MISC
+Level	UC	NN	I-MISC
+Set	UC	VB	I-MISC
+Fluid	UC	NN	I-MISC
+Simulation	UC	NN	I-MISC
+''	UM	''	O
+,	UM	,	O
+IEEE	UC	NN	O
+TVCG	UC	NN	O
+-LRB-	UC	-LRB-	O
+in	O	IN	O
+press	O	NN	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Sifakis	UC	NNP	B-PER
+,	UM	,	O
+E.	UC	NNP	O
+,	UM	,	O
+Der	UC	NNP	B-PER
+,	UM	,	O
+K.	UC	NNP	O
+and	O	CC	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+Arbitrary	UC	JJ	B-MISC
+Cutting	UC	VBG	I-MISC
+of	O	IN	I-MISC
+Deformable	UC	JJ	I-MISC
+Tetrahedralized	UC	VBN	I-MISC
+Objects	UC	NNS	I-MISC
+''	UM	''	O
+,	UM	,	O
+ACM	UC	NNP	B-MISC
+SIGGRAPH/Eurographics	UC	NNS	O
+Symposium	UC	NNP	I-MISC
+on	O	IN	I-MISC
+Computer	UC	NN	I-MISC
+Animation	UC	NN	I-MISC
+-LRB-	UC	-LRB-	O
+SCA	UC	NN	I-MISC
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+edited	O	VBN	O
+by	O	IN	O
+D.	UC	NNP	O
+Metaxas	UC	NNP	I-PER
+and	O	CC	O
+J.	UC	NNP	O
+Popovic	UC	NNP	I-PER
+,	UM	,	O
+pp	O	NN	O
+.	UM	.	O
+73-80	UM	CD	O
+-LRB-	UC	-LRB-	O
+2007	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Sifakis	UC	NNP	B-PER
+,	UM	,	O
+E.	UC	NNP	O
+,	UM	,	O
+Shinar	UC	NNP	B-PER
+,	UM	,	O
+T.	UC	NNP	O
+,	UM	,	O
+Irving	UC	NNP	B-PER
+,	UM	,	O
+G.	UC	NNP	O
+and	O	CC	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+Hybrid	UC	NN	B-MISC
+Simulation	UC	NN	I-MISC
+of	O	IN	I-MISC
+Deformable	UC	JJ	I-MISC
+Solids	UC	NNS	I-MISC
+''	UM	''	O
+,	UM	,	O
+ACM	UC	NNP	B-MISC
+SIGGRAPH/Eurographics	UC	NNS	O
+Symposium	UC	NNP	I-MISC
+on	O	IN	I-MISC
+Computer	UC	NN	I-MISC
+Animation	UC	NN	I-MISC
+-LRB-	UC	-LRB-	O
+SCA	UC	NN	I-MISC
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+edited	O	VBN	O
+by	O	IN	O
+D.	UC	NNP	O
+Metaxas	UC	NNP	I-PER
+and	O	CC	O
+J.	UC	NNP	O
+Popovic	UC	NNP	I-PER
+pp	O	NN	O
+.	UM	.	O
+81-90	UM	CD	O
+-LRB-	UC	-LRB-	O
+2007	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Hong	UC	NNP	B-PER
+,	UM	,	O
+J.-M	UC	NN	O
+.	UM	.	O
+,	UM	,	O
+Shinar	UC	NNP	B-PER
+,	UM	,	O
+T.	UC	NNP	O
+and	O	CC	O
+Fedkiw	UC	NNP	B-PER
+,	UM	,	O
+R.	UC	NNP	O
+,	UM	,	O
+``	UM	``	B-MISC
+Wrinkled	UC	JJ	B-MISC
+Flames	UC	NNS	I-MISC
+and	O	CC	I-MISC
+Cellular	UC	JJ	I-MISC
+Patterns	UC	NN	I-MISC
+''	UM	''	O
+,	UM	,	O
+SIGGRAPH	UC	NNP	B-MISC
+2007	UM	CD	I-MISC
+,	UM	,	O
+ACM	UC	NNP	B-MISC
+TOG	UC	NN	I-MISC
+26	UM	CD	O
+,	UM	,	O
+47.1-47	UM	CD	O
+.6	UM	CD	O
+-LRB-	UC	-LRB-	O
+2007	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+Students	UC	NNS	O
+
+
+Ph.D.	UC	NNP	O
+.	UM	.	O
+Students	UC	NNS	O
+
+
+*	UM	SYM	O
+Andrew	UC	NNP	B-PER
+Selle	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Tamar	UC	NNP	B-PER
+Shinar	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Avi	UC	NNP	B-PER
+Robinson-Mosher	UC	NNP	O
+
+
+Stanford	UC	NNP	O
+Graduate	UC	NN	O
+Fellow	UC	NNP	O
+
+
+*	UM	SYM	O
+Jonathan	UC	NNP	B-PER
+Su	UC	FW	I-PER
+
+
+NSF	UC	NN	O
+Graduate	UC	NN	O
+Research	UC	NNP	O
+Fellow	UC	NNP	O
+
+
+*	UM	SYM	O
+Kevin	UC	NNP	B-PER
+Der	UC	NNP	I-PER
+
+
+NSF	UC	NN	O
+Graduate	UC	NN	O
+Research	UC	NNP	O
+Fellow	UC	NNP	O
+
+
+*	UM	SYM	O
+Nipun	UC	NN	B-PER
+Kwatra	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Craig	UC	NNP	B-PER
+Schroeder	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Jon	UC	NNP	B-PER
+Gretarsson	UC	NNP	I-PER
+
+
+*	UM	SYM	O
+Michael	UC	NNP	B-PER
+Lentine	UC	NNP	I-PER
+
+
+Former	UC	NNP	O
+Ph.D.	UC	NNP	O
+.	UM	.	O
+Students	UC	NNS	O
+
+
+*	UM	SYM	O
+Douglas	UC	NNP	B-PER
+Enright	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2002	UM	CD	O
+-	UM	:	O
+Aerospace	UC	NNP	B-ORG
+Corporation	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Ian	UC	NNP	B-PER
+Mitchell	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2002	UM	CD	O
+co-advisor	O	NN	O
+-LRB-	UC	-LRB-	O
+primary	O	JJ	O
+advisor	O	NN	O
+-	UM	:	O
+Claire	UC	NNP	B-PER
+Tomlin	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+-	UM	:	O
+Assistant	UC	NNP	O
+Professor	UC	NNP	O
+at	O	IN	O
+the	O	DT	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+British	UC	JJ	I-ORG
+Columbia	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Robert	UC	NNP	B-PER
+Bridson	UC	NN	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2003	UM	CD	O
+-	UM	:	O
+Assistant	UC	NNP	O
+Professor	UC	NNP	O
+at	O	IN	O
+the	O	DT	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+British	UC	JJ	I-ORG
+Columbia	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Neil	UC	NNP	B-PER
+Molino	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2004	UM	CD	O
+-	UM	:	O
+Morgan	UC	NNP	B-ORG
+Stanley	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Igor	UC	NNP	B-PER
+Neverov	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2005	UM	CD	O
+-	UM	:	O
+Insomniac	UC	NNP	B-ORG
+Games	UC	NNPS	I-ORG
+
+
+*	UM	SYM	O
+Joseph	UC	NNP	B-PER
+Teran	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2005	UM	CD	O
+-	UM	:	O
+Assistant	UC	NNP	O
+Professor	UC	NNP	O
+at	O	IN	O
+UCLA	UC	NNP	B-ORG
+
+
+*	UM	SYM	O
+Eran	UC	NN	B-PER
+Guendelman	UC	NN	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2006	UM	CD	O
+-	UM	:	O
+Postdoctoral	UC	JJ	O
+Scholar	UC	NNP	O
+at	O	IN	O
+Stanford	UC	NNP	B-ORG
+in	O	IN	O
+Bioengineering	UC	VBG	B-MISC
+-LRB-	UC	-LRB-	O
+also	O	RB	O
+at	O	IN	O
+UCLA	UC	NNP	B-ORG
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Zhaosheng	UC	NNP	B-PER
+Bao	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2006	UM	CD	O
+-	UM	:	O
+Microsoft	UC	NNP	B-ORG
+Research	UC	NNP	I-ORG
+Asia	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Rachel	UC	NNP	B-PER
+Weinstein	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2007	UM	CD	O
+-	UM	:	O
+Industrial	UC	NNP	B-ORG
+Light	UC	NN	I-ORG
++	UM	CC	O
+Magic	UC	JJ	I-ORG
+
+
+*	UM	SYM	O
+Eftychios	UC	NNS	B-PER
+Sifakis	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2007	UM	CD	O
+-	UM	:	O
+UCLA	UC	NNP	B-ORG
+
+
+*	UM	SYM	O
+Frank	UC	NNP	B-PER
+Losasso	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2007	UM	CD	O
+-	UM	:	O
+Industrial	UC	NNP	B-ORG
+Light	UC	NN	I-ORG
++	UM	CC	O
+Magic	UC	JJ	I-ORG
+
+
+*	UM	SYM	O
+Geoffrey	UC	NNP	B-PER
+Irving	UC	NNP	I-PER
+Ph.D.	UC	NNP	O
+.	UM	.	O
+2007	UM	CD	O
+-	UM	:	O
+Pixar	UC	NNP	B-ORG
+Animation	UC	NN	I-ORG
+Studios	UC	NNP	I-ORG
+
+
+Former	UC	NNP	O
+Postdoctoral	UC	JJ	O
+Scholars	UC	NNS	O
+
+
+*	UM	SYM	O
+Duc	UC	NN	B-PER
+Nguyen	UC	NNP	I-PER
+2001-2004	UM	CD	O
+-	UM	:	O
+Lockheed	UC	NNP	B-ORG
+Martin	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Frederic	UC	NNP	B-PER
+Gibou	UC	NNP	I-PER
+2001-2004	UM	CD	O
+-	UM	:	O
+Assistant	UC	NNP	O
+Professor	UC	NNP	O
+at	O	IN	O
+the	O	DT	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+California	UC	NNP	I-ORG
+,	UM	,	O
+Santa	UC	NNP	I-ORG
+Barbara	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Ian	UC	NNP	B-PER
+Mitchell	UC	NNP	I-PER
+2002-2003	UM	CD	O
+-	UM	:	O
+Assistant	UC	NNP	O
+Professor	UC	NNP	O
+at	O	IN	O
+the	O	DT	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+British	UC	JJ	I-ORG
+Columbia	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Jeong-Mo	UC	NN	O
+Hong	UC	NNP	I-PER
+2005-2007	UM	CD	O
+-	UM	:	O
+Korea	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+
+
+*	UM	SYM	O
+Robert	UC	NNP	B-PER
+Strzodka	UC	FW	I-PER
+2005-2007	UM	CD	O
+-	UM	:	O
+Independent	UC	NNP	O
+Junior	UC	NN	O
+Research	UC	NNP	O
+Group	UC	NNP	O
+Leader	UC	NNP	O
+-LRB-	UC	-LRB-	O
+i.e.	O	FW	O
+Assistant	UC	NNP	O
+Professor	UC	NNP	O
+-RRB-	UC	-RRB-	O
+at	O	IN	O
+the	O	DT	O
+Max	UC	NNP	B-ORG
+Planck	UC	NNP	I-ORG
+Institute	UC	NNP	I-ORG
+
+
+G-number	UC	NN	O
+
+
+A	UC	DT	O
+-LRB-	UC	-LRB-	O
+G	UC	NN	B-MISC
+-RRB-	UC	-RRB-	O
+raphics	O	NNS	B-MISC
+researcher	O	NN	I-MISC
+'s	O	POS	O
+G-number	UC	NN	O
+is	O	VBZ	O
+calculated	O	VBN	O
+as	O	IN	O
+the	O	DT	O
+number	O	NN	O
+of	O	IN	O
+papers/books/citations	O	NNS	O
+on	O	IN	O
+-LRB-	UC	-LRB-	O
+G	UC	NN	B-MISC
+-RRB-	UC	-RRB-	O
+oogle	O	NN	B-MISC
+Scholar	UC	NNP	I-MISC
+that	O	IN	O
+contain	O	VB	O
+more	O	RBR	O
+than	O	IN	O
+200	UM	CD	O
+cites	O	VBZ	O
+.	UM	.	O
+Note	UC	VB	O
+that	O	IN	O
+the	O	DT	O
+best	O	RB	O
+way	O	NN	O
+to	O	TO	O
+search	O	NN	O
+Google	UC	NNP	B-MISC
+scholar	O	NN	I-MISC
+seems	O	VBZ	O
+to	O	TO	O
+be	O	VB	O
+by	O	IN	O
+using	O	VBG	O
+the	O	DT	O
+first	O	RB	O
+initial	O	JJ	O
+of	O	IN	O
+the	O	DT	O
+first	O	RB	O
+name	O	NN	O
+,	UM	,	O
+e.g.	O	FW	O
+''	UM	''	O
+r	O	NN	B-PER
+fedkiw	O	NN	I-PER
+''	UM	''	O
+.	UM	.	O
+-LRB-	UC	-LRB-	O
+G	UC	NN	O
+-RRB-	UC	-RRB-	O
+eez	O	NN	O
+,	UM	,	O
+there	O	RB	O
+are	O	VBP	O
+so	O	RB	O
+many	O	JJ	O
+citation	O	NN	O
+indexes	O	NNS	O
+out	O	IN	O
+there	O	RB	O
+,	UM	,	O
+I	UC	PRP	O
+just	O	RB	O
+felt	O	VBD	O
+like	O	IN	O
+we	O	PRP	O
+needed	O	VBN	O
+another	O	DT	O
+one	O	CD	O
+.	UM	.	O
+Note	UC	VB	O
+that	O	IN	O
+G	UC	NN	O
+comes	O	VBZ	O
+before	O	IN	O
+H	UC	NN	O
+-LRB-	UC	-LRB-	O
+as	O	IN	O
+in	O	IN	O
+h-humber	O	NN	O
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+and	O	CC	O
+that	O	IN	O
+G	UC	NN	O
+also	O	RB	O
+stands	O	NNS	O
+Graphics	UC	NNS	O
+,	UM	,	O
+Google	UC	NNP	O
+,	UM	,	O
+and	O	CC	O
+even	O	RB	O
+Goober	UC	NNP	O
+.	UM	.	O
+This	UC	DT	O
+is	O	VBZ	O
+only	O	RB	O
+a	O	DT	O
+partial	O	JJ	O
+list	O	NN	O
+that	O	IN	O
+I	UC	PRP	O
+put	O	VBN	O
+together	O	RB	O
+when	O	WRB	O
+I	UC	PRP	O
+was	O	VBD	O
+bored	O	VBN	O
+one	O	CD	O
+day	O	NN	O
+.	UM	.	O
+No	UC	DT	O
+omissions	O	NNS	O
+or	O	CC	O
+errors	O	NNS	O
+are	O	VBP	O
+intentional	O	JJ	O
+,	UM	,	O
+but	O	CC	O
+rather	O	RB	O
+an	O	DT	O
+indication	O	NN	O
+of	O	IN	O
+my	O	PRP$	O
+competence	O	NN	O
+.	UM	.	O
+Please	UC	VB	O
+feel	O	VB	O
+free	O	JJ	O
+to	O	TO	O
+email	O	NN	O
+me	O	PRP	O
+corrections	O	NNS	O
+,	UM	,	O
+additions	O	NNS	O
+...	UM	:	O
+or	O	CC	O
+even	O	RB	O
+a	O	DT	O
+complete	O	JJ	O
+list	O	NN	O
+.	UM	.	O
+Since	UC	IN	O
+this	O	DT	O
+has	O	VBZ	O
+been	O	VBN	O
+posted	O	VBN	O
+,	UM	,	O
+I	UC	PRP	O
+have	O	VB	O
+received	O	VBN	O
+emails	O	NNS	O
+about	O	IN	O
+a	O	DT	O
+few	O	JJ	O
+people	O	NNS	O
+who	O	WP	O
+collaborate	O	VB	O
+with	O	IN	O
+graphics	O	NNS	O
+folks	O	NNS	O
+-LRB-	UC	-LRB-	O
+applied	O	VBN	O
+math	O	NN	O
+,	UM	,	O
+computer	O	NN	O
+vision	O	NN	O
+and	O	CC	O
+robotics	O	NNS	O
+researchers	O	NNS	O
+-RRB-	UC	-RRB-	O
+and	O	CC	O
+have	O	VB	O
+added	O	VBN	O
+some	O	DT	O
+suggested	O	VBN	O
+names	O	NNS	O
+to	O	TO	O
+the	O	DT	O
+list	O	NN	O
+-	UM	:	O
+just	O	RB	O
+for	O	IN	O
+fun	O	NN	O
+...	UM	:	O
+NOTE	UC	VB	O
+:	UM	:	O
+I	UC	PRP	O
+will	O	MD	O
+periodically	O	RB	O
+update	O	VB	O
+the	O	DT	O
+names	O	NNS	O
+on	O	IN	O
+this	O	DT	O
+list	O	NN	O
+to	O	TO	O
+the	O	DT	O
+best	O	RB	O
+of	O	IN	O
+my	O	PRP$	O
+ability	O	NN	O
+,	UM	,	O
+but	O	CC	O
+finding	O	NN	O
+new	O	JJ	O
+names	O	NNS	O
+to	O	TO	O
+add	O	VB	O
+to	O	TO	O
+the	O	DT	O
+list	O	NN	O
+is	O	VBZ	O
+more	O	RBR	O
+difficult	O	JJ	O
+-	UM	:	O
+emails	O	NNS	O
+pertaining	O	VBG	O
+to	O	TO	O
+this	O	DT	O
+are	O	VBP	O
+greatly	O	RB	O
+appreciated	O	VBN	O
+!	UM	.	O
+
+
+#	UM	#	O
+Takeo	UC	NNP	B-PER
+Kanade	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+27	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+
+
+#	UM	#	O
+David	UC	NNP	B-PER
+Donoho	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+20	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+Stan	UC	NNP	B-PER
+Osher	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+20	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+
+
+#	UM	#	O
+Pierre-Louis	UC	NNP	O
+Lions	UC	NNS	I-PER
+-LRB-	UC	-LRB-	O
+18	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+Benoit	UC	NNP	B-PER
+Mandelbrot	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+18	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+Sebastian	UC	NNP	B-PER
+Thrun	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+18	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+
+
+#	UM	#	O
+Olivier	UC	NNP	B-PER
+Faugeras	UC	FW	I-PER
+-LRB-	UC	-LRB-	O
+17	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+Richard	UC	NNP	B-PER
+Szeliski	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+17	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+Demetri	UC	NNP	B-PER
+Terzopoulos	UC	NNS	I-PER
+-LRB-	UC	-LRB-	O
+17	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+
+
+#	UM	#	O
+Wim	UC	NNP	B-PER
+Sweldens	UC	NNS	I-PER
+-LRB-	UC	-LRB-	O
+16	UM	CD	O
+-RRB-	UC	-RRB-	O
+;	UM	:	O
+
+
+Teaching	UC	NN	O
+
+
+*	UM	SYM	O
+Spring	UC	NN	O
+quarter	O	NN	O
+2008	UM	CD	O
+-	UM	:	O
+CS	UC	NN	O
+205B	UM	NN	O
+-	UM	:	O
+Mathematical	UC	JJ	B-MISC
+Methods	UC	NNS	I-MISC
+for	O	IN	I-MISC
+Fluids	UC	NNS	I-MISC
+,	UM	,	O
+Solids	UC	NNS	I-MISC
+and	O	CC	I-MISC
+Interfaces	UC	NNS	I-MISC
+
+
+Overview	UC	NN	O
+of	O	IN	O
+numerical	O	JJ	O
+methods	O	NNS	O
+for	O	IN	O
+the	O	DT	O
+simulation	O	NN	O
+of	O	IN	O
+problems	O	NNS	O
+involving	O	VBG	O
+solid	O	JJ	O
+mechanics	O	NNS	O
+and	O	CC	O
+fluid	O	NN	O
+dynamics	O	NNS	O
+.	UM	.	O
+The	UC	DT	O
+focus	O	NN	O
+is	O	VBZ	O
+on	O	IN	O
+practical	O	JJ	O
+tools	O	NNS	O
+needed	O	VBN	O
+for	O	IN	O
+simulation	O	NN	O
+,	UM	,	O
+as	O	IN	O
+well	O	RB	O
+as	O	IN	O
+the	O	DT	O
+necessary	O	JJ	O
+continuous	O	JJ	O
+mathematics	O	NNS	O
+involving	O	VBG	O
+nonlinear	O	JJ	O
+hyperbolic	O	JJ	O
+partial	O	JJ	O
+differential	O	JJ	O
+equations	O	NNS	O
+.	UM	.	O
+Possible	UC	JJ	O
+topics	O	NNS	O
+:	UM	:	O
+finite	O	JJ	O
+element	O	NN	O
+method	O	NN	O
+,	UM	,	O
+highly	O	RB	O
+deformable	O	JJ	O
+elastic	O	JJ	O
+bodies	O	NNS	O
+,	UM	,	O
+plasticity	O	NN	O
+,	UM	,	O
+fracture	O	NN	O
+,	UM	,	O
+level	O	NN	O
+set	O	NN	O
+method	O	NN	O
+,	UM	,	O
+Burgers	UC	NNS	B-PER
+'	UM	''	O
+equation	O	NN	O
+,	UM	,	O
+compressible	O	JJ	O
+and	O	CC	O
+incompressible	O	JJ	O
+Navier-Stokes	UC	NN	O
+equations	O	NNS	O
+,	UM	,	O
+smoke	O	NN	O
+,	UM	,	O
+water	O	NN	O
+,	UM	,	O
+fire	O	NN	O
+,	UM	,	O
+solid-fluid	O	NN	O
+coupling	O	NN	O
+.	UM	.	O
+Prerequisites	UC	NNS	O
+:	UM	:	O
+205A	UM	NN	O
+or	O	CC	O
+equivalents	O	NNS	O
+.	UM	.	O
+3	UM	CD	O
+units	O	NNS	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Fall	UC	NN	O
+quarter	O	NN	O
+2007	UM	CD	O
+-	UM	:	O
+CS	UC	NN	O
+205A	UM	NN	O
+-	UM	:	O
+Mathematical	UC	JJ	B-MISC
+Methods	UC	NNS	I-MISC
+for	O	IN	I-MISC
+Robotics	UC	NNS	I-MISC
+,	UM	,	O
+Vision	UC	NNP	I-MISC
+and	O	CC	I-MISC
+Graphics	UC	NNS	I-MISC
+
+
+Overview	UC	NN	O
+of	O	IN	O
+some	O	DT	O
+of	O	IN	O
+the	O	DT	O
+continuous	O	JJ	O
+mathematics	O	NNS	O
+background	O	NN	O
+necessary	O	JJ	O
+for	O	IN	O
+research	O	NN	O
+in	O	IN	O
+robotics	O	NNS	O
+,	UM	,	O
+vision	O	NN	O
+,	UM	,	O
+and	O	CC	O
+graphics	O	NNS	O
+.	UM	.	O
+Possible	UC	JJ	O
+topics	O	NNS	O
+:	UM	:	O
+linear	O	JJ	O
+algebra	O	NN	O
+;	UM	:	O
+the	O	DT	O
+conjugate	O	NN	O
+gradient	O	NN	O
+method	O	NN	O
+;	UM	:	O
+ordinary	O	JJ	O
+and	O	CC	O
+partial	O	JJ	O
+differential	O	JJ	O
+equations	O	NNS	O
+;	UM	:	O
+vector	O	NN	O
+and	O	CC	O
+tensor	O	NN	O
+calculus	O	NN	O
+;	UM	:	O
+calculus	O	NN	O
+of	O	IN	O
+variations	O	NNS	O
+.	UM	.	O
+Prerequisites	UC	NNS	O
+:	UM	:	O
+106B	UM	NN	O
+or	O	CC	O
+106X	UM	NN	O
+;	UM	:	O
+MATH	UC	NN	O
+51	UM	CD	O
+and	O	CC	O
+113	UM	CD	O
+;	UM	:	O
+or	O	CC	O
+equivalents	O	NNS	O
+.	UM	.	O
+3	UM	CD	O
+units	O	NNS	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Spring	UC	NN	O
+quarter	O	NN	O
+2007	UM	CD	O
+-	UM	:	O
+CS	UC	NN	O
+237C	UM	NN	O
+-	UM	:	O
+Numerical	UC	JJ	B-MISC
+Solution	UC	NN	I-MISC
+of	O	IN	I-MISC
+Partial	UC	JJ	I-MISC
+Differential	UC	JJ	I-MISC
+Equations	UC	NNS	I-MISC
+II	UC	NNP	I-MISC
+
+
+Hyperbolic	UC	JJ	O
+partial	O	JJ	O
+differential	O	JJ	O
+equations	O	NNS	O
+:	UM	:	O
+stability	O	NN	O
+,	UM	,	O
+convergence	O	NN	O
+and	O	CC	O
+qualitative	O	JJ	O
+properties	O	NNS	O
+.	UM	.	O
+Nonlinear	UC	JJ	O
+hyperbolic	O	JJ	O
+equations	O	NNS	O
+and	O	CC	O
+systems	O	NNS	O
+.	UM	.	O
+Combined	UC	VBN	O
+solution	O	NN	O
+methods	O	NNS	O
+from	O	IN	O
+elliptic	O	JJ	O
+,	UM	,	O
+parabolic	O	JJ	O
+,	UM	,	O
+and	O	CC	O
+hyperbolic	O	JJ	O
+problems	O	NNS	O
+.	UM	.	O
+Examples	UC	NNS	O
+include	O	VB	O
+:	UM	:	O
+Burgers	UC	NNS	B-PER
+equation	O	NN	O
+,	UM	,	O
+Euler	UC	NNP	B-PER
+equations	O	NNS	O
+for	O	IN	O
+compressible	O	JJ	O
+flow	O	NN	O
+,	UM	,	O
+Navier	UC	NN	B-PER
+Stokes	UC	NNP	I-PER
+equations	O	NNS	O
+for	O	IN	O
+incompressible	O	JJ	O
+flow	O	NN	O
+.	UM	.	O
+Prerequisites	UC	NNS	O
+:	UM	:	O
+205	UM	CD	O
+or	O	CC	O
+both	O	DT	O
+237A	UM	NN	O
+and	O	CC	O
+237B	UM	NN	O
+;	UM	:	O
+MATH	UC	NN	O
+130	UM	CD	O
+,	UM	,	O
+131	UM	CD	O
+;	UM	:	O
+or	O	CC	O
+equivalents	O	NNS	O
+.	UM	.	O
+3	UM	CD	O
+units	O	NNS	O
+.	UM	.	O
+
+
+Personal	UC	NNP	O
+Stuff	UC	NN	O
+
+
+*	UM	SYM	O
+Brittany	UC	NNP	B-PER
+and	O	CC	O
+Briana	UC	NNP	B-PER
+...	UM	:	O
+
+
+*	UM	SYM	O
+Some	UC	DT	O
+scuba	O	NN	O
+diving	O	NN	O
+photos	O	NNS	O
+...	UM	:	O
+octopus	O	NN	O
+,	UM	,	O
+octopus2	UM	NN	O
+,	UM	,	O
+turtle	O	NN	O
+
+
+*	UM	SYM	O
+I	UC	PRP	O
+used	O	VBN	O
+to	O	TO	O
+be	O	VB	O
+a	O	DT	O
+competitive	O	JJ	O
+weightlifter	O	NN	O
+with	O	IN	O
+a	O	DT	O
+personal	O	JJ	O
+best	O	RB	O
+squat	O	JJ	O
+of	O	IN	O
+800	UM	CD	O
+pounds	O	NNS	O
+,	UM	,	O
+bench	O	NN	O
+press	O	NN	O
+of	O	IN	O
+555	UM	CD	O
+pounds	O	NNS	O
+and	O	CC	O
+deadlift	O	NN	O
+of	O	IN	O
+735	UM	CD	O
+pounds	O	NNS	O
+,	UM	,	O
+all	O	DT	O
+in	O	IN	O
+the	O	DT	O
+198	UM	CD	O
+pound	O	NN	O
+weight	O	NN	O
+class	O	NN	O
+...	UM	:	O
+
+
+squatting	O	VBG	O
+775	UM	CD	O
+pounds	O	NNS	O
+,	UM	,	O
+incline	O	NN	O
+dumbell	O	NN	O
+press	O	NN	O
+with	O	IN	O
+170	UM	CD	O
+pound	O	NN	O
+dumbells	O	NNS	O
+,	UM	,	O
+deadlifting	O	VBG	O
+661	UM	CD	O
+pounds	O	NNS	O
+,	UM	,	O
+front	O	NN	O
+,	UM	,	O
+back	O	RB	O
+,	UM	,	O
+side	O	NN	O
+,	UM	,	O
+torso	O	NN	O
+,	UM	,	O
+arms	O	NNS	O
+
+
+Rajeev	UC	NNP	B-PER
+Motwani	UC	NNP	I-PER
+
+
+Professor	UC	NNP	O
+and	O	CC	O
+Director	UC	NN	O
+of	O	IN	O
+Graduate	UC	NN	O
+Studies	UC	NNS	O
+
+
+Database	UC	NN	B-ORG
+Group/InfoLab	UC	NNP	O
+,	UM	,	O
+and	O	CC	I-ORG
+Foundations	UC	NNS	I-ORG
+Group	UC	NNP	I-ORG
+
+
+Computer	UC	NN	O
+Science	UC	NN	O
+Department	UC	NNP	O
+
+
+Stanford	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+
+
+Ph.D.	UC	NNP	O
+.	UM	.	O
+1988	UM	CD	O
+-LRB-	UC	-LRB-	O
+Computer	UC	NN	B-MISC
+Science	UC	NN	I-MISC
+,	UM	,	O
+U.C.	UC	NNP	O
+Berkeley	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+B.Tech	UC	NNP	O
+.	UM	.	O
+1983	UM	CD	O
+-LRB-	UC	-LRB-	O
+-LSB-	UC	-LRB-	O
+MISC	UC	NNP	O
+Computer	UC	NN	O
+Science	UC	NN	O
+-RSB-	UC	-RRB-	O
+,	UM	,	O
+IIT	UC	NNP	B-ORG
+Kanpur	UC	NNP	I-ORG
+-RRB-	UC	-RRB-	O
+
+
+-----	UM	CD	O
+
+
+Research	UC	NNP	O
+Interests	UC	NNS	O
+:	UM	:	O
+Databases	UC	NNS	O
+,	UM	,	O
+data	O	NNS	O
+mining	O	NN	O
+,	UM	,	O
+information	O	NN	O
+retrieval	O	NN	O
+,	UM	,	O
+and	O	CC	O
+web	O	NN	O
+searching	O	VBG	O
+.	UM	.	O
+Privacy	UC	NN	O
+and	O	CC	O
+security	O	NN	O
+,	UM	,	O
+particularly	O	RB	O
+in	O	IN	O
+the	O	DT	O
+context	O	NN	O
+of	O	IN	O
+databases	O	NNS	O
+and	O	CC	O
+information	O	NN	O
+retrieval	O	NN	O
+.	UM	.	O
+Optimization	UC	NN	O
+and	O	CC	O
+scheduling	O	NN	O
+problems	O	NNS	O
+,	UM	,	O
+particularly	O	RB	O
+for	O	IN	O
+applications	O	NNS	O
+in	O	IN	O
+computer	O	NN	O
+systems	O	NNS	O
+,	UM	,	O
+compilers	O	NNS	O
+,	UM	,	O
+and	O	CC	O
+databases	O	NNS	O
+.	UM	.	O
+Computational	UC	JJ	O
+and	O	CC	O
+combinatorial	O	JJ	O
+geometry	O	NN	O
+with	O	IN	O
+applications	O	NNS	O
+to	O	TO	O
+robotics	O	NNS	O
+and	O	CC	O
+vision	O	NN	O
+.	UM	.	O
+Computational	UC	JJ	O
+biology	O	NN	O
+and	O	CC	O
+automated	O	VBN	O
+drug	O	NN	O
+design	O	NN	O
+.	UM	.	O
+Design	UC	NN	O
+and	O	CC	O
+analysis	O	NN	O
+of	O	IN	O
+algorithms	O	NNS	O
+with	O	IN	O
+emphasis	O	NN	O
+on	O	IN	O
+approximations	O	NNS	O
+,	UM	,	O
+online	O	NN	O
+computations	O	NNS	O
+,	UM	,	O
+and	O	CC	O
+randomized	O	VBN	O
+algorithms	O	NNS	O
+,	UM	,	O
+as	O	IN	O
+well	O	RB	O
+as	O	IN	O
+related	O	JJ	O
+complexity	O	NN	O
+theory	O	NN	O
+.	UM	.	O
+
+
+Biographical	UC	NNP	O
+Information	UC	NN	O
+
+
+-----	UM	CD	O
+
+
+Table	UC	NNP	O
+of	O	IN	O
+Contents	UC	NNS	O
+:	UM	:	O
+
+
+*	UM	SYM	O
+Research	UC	NNP	O
+Projects	UC	NNS	O
+-LRB-	UC	-LRB-	O
+Algorithms	UC	NNS	B-MISC
+,	UM	,	O
+DataMining/Internet/Web	UC	NNP	O
+/	UM	:	O
+Search	UC	VB	B-MISC
+,	UM	,	O
+Databases/Streams	UC	NNS	O
+,	UM	,	O
+Privacy	UC	NN	B-MISC
+,	UM	,	O
+P2P	UC	NN	B-MISC
+,	UM	,	O
+Drug	UC	NN	B-MISC
+Design	UC	NN	I-MISC
+,	UM	,	O
+Robotics	UC	NNS	B-MISC
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Graduate	UC	NN	O
+Students	UC	NNS	O
+-LRB-	UC	-LRB-	O
+Current	UC	JJ	O
+and	O	CC	O
+``	UM	``	O
+Graduated	UC	VBD	O
+''	UM	''	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Publications	UC	NNP	O
+
+
+*	UM	SYM	O
+Books	UC	NNS	O
+&	UM	CC	O
+Book	UC	VB	O
+Chapters	UC	NNS	O
+
+
+*	UM	SYM	O
+Recent	UC	JJ	O
+and	O	CC	O
+Forthcoming	UC	JJ	O
+Talks	UC	NNS	O
+
+
+*	UM	SYM	O
+Teaching	UC	NN	O
+and	O	CC	O
+Courses	UC	NNS	O
+-LRB-	UC	-LRB-	O
+Spring	UC	NN	O
+07-08	UM	CD	O
+:	UM	:	O
+CS	UC	NN	O
+154	UM	CD	O
+-	UM	:	O
+Automata	UC	NN	B-MISC
+&	UM	CC	O
+Complexity	UC	NN	I-MISC
+Theory	UC	NNP	I-MISC
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Selected	UC	VBN	O
+Awards	UC	NNS	O
+and	O	CC	O
+Honors	UC	NNS	O
+
+
+*	UM	SYM	O
+Professional	UC	NNP	O
+Activities	UC	NNS	O
+:	UM	:	O
+
+
+*	UM	SYM	O
+Journal	UC	NNP	O
+Editorial	UC	NN	O
+Boards	UC	NNS	O
+:	UM	:	O
+ACM	UC	NNP	B-MISC
+Transactions	UC	NNS	I-MISC
+on	O	IN	I-MISC
+Knowledge	UC	NN	I-MISC
+Discovery	UC	NNP	I-MISC
+from	O	IN	I-MISC
+Data	UC	NNS	I-MISC
+
+
+Journal	UC	NNP	B-MISC
+of	O	IN	I-MISC
+Computer	UC	NN	I-MISC
+and	O	CC	I-MISC
+System	UC	NNP	I-MISC
+Sciences	UC	NNPS	I-MISC
+
+
+SIAM	UC	NNP	B-MISC
+Journal	UC	NNP	I-MISC
+on	O	IN	I-MISC
+Computing	UC	NNP	I-MISC
+
+
+IEEE	UC	NN	B-MISC
+Transactions	UC	NNS	I-MISC
+on	O	IN	I-MISC
+Knowledge	UC	NN	I-MISC
+and	O	CC	I-MISC
+Data	UC	NNS	I-MISC
+Engineering	UC	NNP	I-MISC
+-LRB-	UC	-LRB-	O
+2002-2007	UM	CD	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Current	UC	JJ	O
+Program	UC	NN	O
+Committees	UC	NNS	O
+:	UM	:	O
+SODA	UC	NN	B-MISC
+2009	UM	CD	I-MISC
+,	UM	,	O
+WINE	UC	NN	B-MISC
+2008	UM	CD	I-MISC
+,	UM	,	O
+SIAM	UC	NNP	B-MISC
+Annual	UC	JJ	I-MISC
+Meeting	UC	VBG	I-MISC
+2008	UM	CD	I-MISC
+,	UM	,	O
+WSDM	UC	NNP	B-MISC
+2008	UM	CD	I-MISC
+,	UM	,	O
+KDD	UC	NNP	B-MISC
+2008	UM	CD	I-MISC
+,	UM	,	O
+SIGMOD	UC	NN	B-MISC
+2007	UM	CD	I-MISC
+,	UM	,	O
+ICDE	UC	NN	B-MISC
+2007	UM	CD	I-MISC
+,	UM	,	O
+
+
+*	UM	SYM	O
+Past	UC	JJ	O
+Conference	UC	NN	O
+Program	UC	NN	O
+Committees	UC	NNS	O
+
+
+*	UM	SYM	O
+Vice-Chair	UC	NNP	O
+,	UM	,	O
+Executive	UC	NNP	O
+Committee	UC	NNP	O
+,	UM	,	O
+ACM	UC	NNP	B-MISC
+SIGACT	UC	NNP	I-MISC
+-LRB-	UC	-LRB-	O
+2001-2005	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Want	UC	JJ	O
+to	O	TO	O
+contact	O	NN	O
+me	O	PRP	O
+or	O	CC	O
+my	O	PRP$	O
+admin	O	NN	O
+?	UM	.	O
+
+
+*	UM	SYM	O
+Other	UC	JJ	O
+Links	UC	NNP	O
+.	UM	.	O
+
+
+-----	UM	CD	O
+
+
+Recent	UC	JJ	O
+survey	O	NN	O
+talks	O	NNS	O
+on	O	IN	O
+Data	UC	NNS	O
+Streams	UC	NNS	O
+:	UM	:	O
+
+
+Randomization	UC	NN	B-MISC
+for	O	IN	I-MISC
+Massive	UC	JJ	I-MISC
+and	O	CC	I-MISC
+Streaming	UC	VBG	I-MISC
+Data	UC	NNS	I-MISC
+Sets	UC	NNS	I-MISC
+
+
+Stanford	UC	NNP	B-MISC
+Computer	UC	NN	I-MISC
+Science	UC	NN	I-MISC
+Forum	UC	NNP	I-MISC
+-	UM	:	O
+Annual	UC	JJ	I-MISC
+Affiliates	UC	NNP	I-MISC
+Meeting	UC	VBG	I-MISC
+,	UM	,	O
+Stanford	UC	NNP	B-ORG
+,	UM	,	O
+May	UC	NNP	O
+2003	UM	CD	O
+.	UM	.	O
+
+
+Here	UC	RB	O
+are	O	VBP	O
+the	O	DT	O
+slides	O	NNS	O
+from	O	IN	O
+this	O	DT	O
+talk	O	NN	O
+.	UM	.	O
+
+
+Models	UC	NNS	B-MISC
+and	O	CC	I-MISC
+Issues	UC	NNS	I-MISC
+in	O	IN	I-MISC
+Data	UC	NNS	I-MISC
+Stream	UC	NNP	I-MISC
+Systems	UC	NNPS	I-MISC
+
+
+PODS	UC	NNS	B-MISC
+Plenary	UC	NNP	I-MISC
+Talk	UC	NN	I-MISC
+at	O	IN	O
+the	O	DT	O
+ACM	UC	NNP	B-MISC
+SIGMOD/PODS	UC	NN	O
+2002	UM	CD	O
+Conference	UC	NN	O
+,	UM	,	O
+June	UC	NNP	O
+2002	UM	CD	O
+.	UM	.	O
+
+
+Here	UC	RB	O
+are	O	VBP	O
+the	O	DT	O
+slides	O	NNS	O
+from	O	IN	O
+this	O	DT	O
+talk	O	NN	O
+.	UM	.	O
+
+
+If	UC	IN	O
+I	UC	PRP	O
+had	O	VBD	O
+more	O	RBR	O
+time	O	NN	O
+-LRB-	UC	-LRB-	O
+say	O	VB	O
+3	UM	CD	O
+hours	O	NNS	O
+:-RRB-	UC	NN	O
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+here	O	RB	O
+are	O	VBP	O
+the	O	DT	O
+slides	O	NNS	O
+I	UC	PRP	O
+would	O	MD	O
+have	O	VB	O
+used	O	VBN	O
+.	UM	.	O
+
+
+-----	UM	CD	O
+
+
+Introduction	UC	NN	B-MISC
+to	O	TO	I-MISC
+Automata	UC	NN	I-MISC
+Theory	UC	NNP	I-MISC
+,	UM	,	O
+
+
+Languages	UC	NNS	I-MISC
+,	UM	,	O
+and	O	CC	I-MISC
+Computation	UC	NN	I-MISC
+
+
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Hopcroft	UC	NNP	B-PER
+and	O	CC	O
+Ullman	UC	NNP	B-PER
+-RRB-	UC	-RRB-	O
+
+
+Addison-Wesley	UC	NN	O
+,	UM	,	O
+2000	UM	CD	O
+.	UM	.	O
+
+
+Jeff	UC	NNP	B-PER
+Ullman	UC	NNP	I-PER
+maintains	O	VBZ	O
+the	O	DT	O
+book	O	NN	O
+web	O	NN	O
+page	O	NN	O
+.	UM	.	O
+
+
+Randomized	UC	VBN	B-MISC
+Algorithms	UC	NNS	I-MISC
+
+
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Raghavan	UC	NNP	B-PER
+-RRB-	UC	-RRB-	O
+
+
+Cambridge	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+Press	UC	NNP	I-ORG
+,	UM	,	O
+1995	UM	CD	O
+.	UM	.	O
+
+
+-----	UM	CD	O
+
+
+Rajeev	UC	NNP	B-PER
+Motwani	UC	NNP	I-PER
+
+
+Department	UC	NNP	O
+of	O	IN	O
+Computer	UC	NN	O
+Science	UC	NN	O
+
+
+Room	UC	NN	B-LOC
+474	UM	CD	I-LOC
+
+
+Gates	UC	NNP	I-LOC
+Computer	UC	NN	I-LOC
+Science	UC	NN	I-LOC
+Building	UC	NN	I-LOC
+4B	UM	NN	I-LOC
+
+
+Stanford	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+
+
+Stanford	UC	NNP	B-LOC
+,	UM	,	O
+CA	UC	NNP	I-LOC
+94305-9045	UM	CD	O
+
+
+Phones	UC	NNS	O
+:	UM	:	O
+650-723-6045	UM	CD	O
+-LRB-	UC	-LRB-	O
+office	O	NN	O
+-RRB-	UC	-RRB-	O
+
+
+650-725-4671	UM	CD	O
+-LRB-	UC	-LRB-	O
+fax	O	NN	O
+-RRB-	UC	-RRB-	O
+
+
+``	UM	``	O
+first	O	RB	O
+name	O	NN	O
+''	UM	''	O
+AT	UC	IN	O
+cs.stanford.edu	O	NN	O
+
+
+Admin	UC	NNP	O
+:	UM	:	O
+Lynda	UC	NNP	B-PER
+Harris	UC	NNP	I-PER
+
+
+Department	UC	NNP	O
+of	O	IN	O
+Computer	UC	NN	O
+Science	UC	NN	O
+
+
+Room	UC	NN	O
+495	UM	CD	O
+
+
+Gates	UC	NNP	B-LOC
+Computer	UC	NN	I-LOC
+Science	UC	NN	I-LOC
+Building	UC	NN	I-LOC
+4B	UM	NN	I-LOC
+
+
+Stanford	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+
+
+Stanford	UC	NNP	B-ORG
+,	UM	,	O
+CA	UC	NNP	I-ORG
+94305-9045	UM	CD	O
+
+
+Phones	UC	NNS	O
+:	UM	:	O
+650-723-4377	UM	CD	O
+-LRB-	UC	-LRB-	O
+office	O	NN	O
+-RRB-	UC	-RRB-	O
+
+
+650-725-4671	UM	CD	O
+-LRB-	UC	-LRB-	O
+fax	O	NN	O
+-RRB-	UC	-RRB-	O
+
+
+``	UM	``	O
+first	O	RB	O
+name	O	NN	O
+''	UM	''	O
+@cs	O	NNS	O
+.	UM	.	O
+
+
+Directions	UC	NNS	O
+to	O	TO	O
+Gates	UC	NNP	B-LOC
+Building	UC	NN	I-LOC
+
+
+-----	UM	CD	O
+
+
+Graeme	UC	NNP	B-PER
+Bailey	UC	NNP	I-PER
+
+
+Professor	UC	NNP	O
+
+
+bailey@cs.cornell.edu	O	NN	O
+
+
+Ph.D.	UC	NNP	O
+.	UM	.	O
+University	UC	NNP	B-ORG
+of	O	IN	I-ORG
+Birmingham	UC	NNP	I-ORG
+U.K.	UC	NNP	O
+,	UM	,	O
+1977	UM	CD	O
+
+
+Originally	UC	RB	O
+working	O	VBG	O
+in	O	IN	O
+low-dimensional	O	JJ	O
+topology	O	NN	O
+and	O	CC	O
+combinatorial	O	JJ	O
+group	O	NN	O
+theory	O	NN	O
+,	UM	,	O
+through	O	IN	O
+an	O	DT	O
+odd	O	JJ	O
+mixture	O	NN	O
+of	O	IN	O
+circumstances	O	NNS	O
+I	UC	PRP	O
+have	O	VB	O
+become	O	VB	O
+actively	O	RB	O
+involved	O	VBN	O
+in	O	IN	O
+research	O	NN	O
+in	O	IN	O
+mathematics	O	NNS	O
+and	O	CC	O
+medicine	O	NN	O
+.	UM	.	O
+One	UC	CD	O
+of	O	IN	O
+two	O	CD	O
+ongoing	O	JJ	O
+research	O	NN	O
+projects	O	NNS	O
+in	O	IN	O
+this	O	DT	O
+area	O	NN	O
+is	O	VBZ	O
+the	O	DT	O
+modeling	O	NN	O
+of	O	IN	O
+lung	O	NN	O
+inflation	O	NN	O
+,	UM	,	O
+together	O	RB	O
+with	O	IN	O
+a	O	DT	O
+research	O	NN	O
+group	O	NN	O
+at	O	IN	O
+the	O	DT	O
+Class	UC	NN	B-ORG
+One	UC	CD	I-ORG
+Trauma	UC	NN	I-ORG
+Center	UC	NNP	I-ORG
+at	O	IN	O
+Upstate	UC	JJ	B-ORG
+Medical	UC	NNP	I-ORG
+Univ.	UC	NNP	O
+.	UM	.	O
+,	UM	,	O
+Syracuse	UC	NNP	B-LOC
+,	UM	,	O
+NY	UC	NNP	I-LOC
+.	UM	.	O
+This	UC	DT	O
+is	O	VBZ	O
+in	O	IN	O
+the	O	DT	O
+early	O	RB	O
+stages	O	NNS	O
+of	O	IN	O
+a	O	DT	O
+program	O	NN	O
+to	O	TO	O
+extend	O	VB	O
+to	O	TO	O
+various	O	JJ	O
+pathologies	O	NNS	O
+affecting	O	VBG	O
+elasticity	O	NN	O
+and	O	CC	O
+aimed	O	VBN	O
+towards	O	IN	O
+effective	O	JJ	O
+clinical	O	JJ	O
+treatments	O	NNS	O
+.	UM	.	O
+The	UC	DT	O
+group	O	NN	O
+,	UM	,	O
+now	O	RB	O
+having	O	VBG	O
+made	O	VBN	O
+some	O	DT	O
+significant	O	JJ	O
+advances	O	NNS	O
+in	O	IN	O
+answering	O	VBG	O
+questions	O	NNS	O
+that	O	IN	O
+had	O	VBD	O
+remained	O	VBD	O
+unsolved	O	JJ	O
+for	O	IN	O
+over	O	IN	O
+30	UM	CD	O
+years	O	NNS	O
+,	UM	,	O
+is	O	VBZ	O
+now	O	RB	O
+in	O	IN	O
+the	O	DT	O
+process	O	NN	O
+of	O	IN	O
+trying	O	VBG	O
+to	O	TO	O
+obtain	O	VB	O
+reliable	O	JJ	O
+mathematical	O	JJ	O
+models	O	NNS	O
+.	UM	.	O
+This	UC	DT	O
+involves	O	VBZ	O
+building	O	NN	O
+computer	O	NN	O
+simulations	O	NNS	O
+of	O	IN	O
+dynamic	O	JJ	O
+packing	O	NN	O
+results	O	NNS	O
+under	O	IN	O
+constrained	O	VBN	O
+perturbations	O	NNS	O
+and	O	CC	O
+deformations	O	NNS	O
+.	UM	.	O
+The	UC	DT	O
+other	O	JJ	O
+project	O	NN	O
+is	O	VBZ	O
+in	O	IN	O
+understanding	O	VBG	O
+deformations	O	NNS	O
+of	O	IN	O
+trans	O	JJ	O
+membrane	O	NN	O
+proteins	O	NNS	O
+used	O	VBN	O
+in	O	IN	O
+cell-signaling	O	NN	O
+processes	O	NNS	O
+.	UM	.	O
+This	UC	DT	O
+is	O	VBZ	O
+a	O	DT	O
+carefully	O	RB	O
+constrained	O	VBN	O
+version	O	NN	O
+of	O	IN	O
+the	O	DT	O
+protein-folding	O	JJ	O
+problems	O	NNS	O
+that	O	IN	O
+have	O	VB	O
+been	O	VBN	O
+exciting	O	JJ	O
+the	O	DT	O
+mathematical	O	JJ	O
+biology	O	NN	O
+community	O	NN	O
+in	O	IN	O
+recent	O	JJ	O
+years	O	NNS	O
+;	UM	:	O
+the	O	DT	O
+application	O	NN	O
+of	O	IN	O
+a	O	DT	O
+topological	O	JJ	O
+viewpoint	O	NN	O
+in	O	IN	O
+collaborating	O	VBG	O
+with	O	IN	O
+molecular	O	JJ	O
+pharmacologists	O	NNS	O
+and	O	CC	O
+structural	O	JJ	O
+biologists	O	NNS	O
+has	O	VBZ	O
+already	O	RB	O
+yielded	O	VBD	O
+some	O	DT	O
+intriguing	O	JJ	O
+insights	O	NNS	O
+.	UM	.	O
+
+
+Honors/Awards	UC	NNS	O
+
+
+Kenneth	UC	NNP	B-PER
+A.	UC	NN	O
+Goldman	UC	NNP	I-PER
+'	UM	POS	O
+71	UM	CD	O
+Excellence	UC	NN	B-MISC
+in	O	IN	I-MISC
+Teaching	UC	NN	I-MISC
+Award	UC	NN	I-MISC
+,	UM	,	O
+2000	UM	CD	O
+.	UM	.	O
+
+
+University	UC	NNP	O
+Activities	UC	NNS	O
+
+
+Adjunct	UC	NN	O
+Professor	UC	NNP	O
+;	UM	:	O
+Mathematics	UC	NN	O
+.	UM	.	O
+
+
+Member	UC	NNP	O
+,	UM	,	O
+Fellowship	UC	NNP	O
+Selection	UC	NN	O
+Committees	UC	NNS	O
+:	UM	:	O
+Rhodes	UC	NNP	B-MISC
+,	UM	,	O
+Marshall	UC	NNP	B-MISC
+,	UM	,	O
+Churchill	UC	NNP	B-MISC
+,	UM	,	O
+and	O	CC	O
+Fulbright	UC	NNP	B-MISC
+.	UM	.	O
+
+
+Member	UC	NNP	O
+,	UM	,	O
+WCHI-Development	UC	NN	O
+and	O	CC	I-ORG
+Transition	UC	NN	I-ORG
+Committee	UC	NNP	I-ORG
+.	UM	.	O
+
+
+Member	UC	NNP	O
+,	UM	,	O
+Donlon	UC	NNP	B-ORG
+Fellows	UC	NNS	I-ORG
+Development	UC	NNP	I-ORG
+.	UM	.	O
+
+
+Member	UC	NNP	O
+,	UM	,	O
+Master	UC	NN	B-ORG
+of	O	IN	I-ORG
+Engineering	UC	NNP	I-ORG
+Committee	UC	NNP	I-ORG
+.	UM	.	O
+
+
+Member	UC	NNP	O
+,	UM	,	O
+Cornell	UC	NNP	B-ORG
+EMS	UC	NNP	I-ORG
+.	UM	.	O
+
+
+Faculty	UC	NN	O
+Advisor	UC	NNP	O
+,	UM	,	O
+Judo	UC	NN	B-ORG
+Club	UC	NNP	I-ORG
+.	UM	.	O
+
+
+Gerard	UC	NNP	B-PER
+J.	UC	NNP	O
+Holzmann	UC	NNP	I-PER
+
+
+gholzmann	O	NN	O
+-LRB-	UC	-LRB-	O
+insert	O	NN	O
+atsign	O	NN	O
+here	O	RB	O
+-RRB-	UC	-RRB-	O
+acm.org	O	NN	O
+
+
+NASA/JPL	UC	NN	O
+Laboratory	UC	NN	I-ORG
+for	O	IN	I-ORG
+Reliable	UC	JJ	I-ORG
+Software	UC	NNP	I-ORG
+,	UM	,	O
+
+
+and	O	CC	O
+Caltech	UC	NNP	B-ORG
+CS	UC	NN	I-ORG
+,	UM	,	O
+Pasadena	UC	NNP	B-LOC
+,	UM	,	O
+CA	UC	NNP	I-LOC
+.	UM	.	O
+
+
+interested	O	JJ	O
+in	O	IN	O
+:	UM	:	O
+software	O	NN	O
+reliability	O	NN	O
+,	UM	,	O
+software	O	NN	O
+analysis	O	NN	O
+methods	O	NNS	O
+,	UM	,	O
+formal	O	JJ	O
+verification	O	NN	O
+,	UM	,	O
+metrics	O	NNS	O
+,	UM	,	O
+logic	O	NN	O
+model	O	NN	O
+checking	O	VBG	O
+,	UM	,	O
+distributed	O	VBN	O
+systems	O	NNS	O
+design	O	NN	O
+,	UM	,	O
+analysis	O	NN	O
+of	O	IN	O
+multi-threaded	O	JJ	O
+software	O	NN	O
+,	UM	,	O
+testing	O	NN	O
+,	UM	,	O
+requirements	O	NNS	O
+capture	O	NN	O
+and	O	CC	O
+analysis	O	NN	O
+,	UM	,	O
+algorithms	O	NNS	O
+,	UM	,	O
+user	O	NN	O
+interface	O	NN	O
+design	O	NN	O
+,	UM	,	O
+graphic	O	JJ	O
+design	O	NN	O
+,	UM	,	O
+text	O	NN	O
+processing	O	NN	O
+,	UM	,	O
+image	O	NN	O
+processing	O	NN	O
+,	UM	,	O
+history	O	NN	O
+of	O	IN	O
+technology	O	NN	O
+,	UM	,	O
+technology	O	NN	O
+transfer	O	NN	O
+.	UM	.	O
+
+
+before	O	IN	O
+joining	O	VBG	O
+jpl	O	NN	B-ORG
+i	O	LS	O
+worked	O	VBD	O
+in	O	IN	O
+the	O	DT	O
+cs	O	NNS	O
+research	O	NN	O
+group	O	NN	O
+at	O	IN	O
+bell	O	NN	B-ORG
+labs	O	NNS	I-ORG
+-LRB-	UC	-LRB-	O
+1980-1981	UM	CD	O
+and	O	CC	O
+1983-2003	UM	CD	O
+-RRB-	UC	-RRB-	O
+a	O	DT	O
+truly	O	RB	O
+remarkable	O	JJ	O
+group	O	NN	O
+that	O	IN	O
+was	O	VBD	O
+given	O	VBN	O
+virtually	O	RB	O
+complete	O	JJ	O
+freedom	O	NN	O
+to	O	TO	O
+pursue	O	VB	O
+research	O	NN	O
+goals	O	NNS	O
+,	UM	,	O
+with	O	IN	O
+no	O	DT	O
+perceptible	O	JJ	O
+management	O	NN	O
+oversight	O	NN	O
+.	UM	.	O
+i	O	LS	O
+made	O	VBN	O
+a	O	DT	O
+map	O	NN	O
+of	O	IN	O
+the	O	DT	O
+5th	UM	NN	O
+floor	O	NN	O
+at	O	IN	O
+stair	O	NN	O
+9	UM	CD	O
+in	O	IN	O
+building	O	NN	O
+2	UM	CD	O
+,	UM	,	O
+the	O	DT	O
+most	O	RBS	O
+desirable	O	JJ	O
+location	O	NN	O
+for	O	IN	O
+one	O	PRP	O
+'s	O	POS	O
+office	O	NN	O
+at	O	IN	O
+the	O	DT	O
+time	O	NN	O
+.	UM	.	O
+the	O	DT	O
+map	O	NN	O
+lists	O	NNS	O
+the	O	DT	O
+main	O	JJ	O
+occupants	O	NNS	O
+for	O	IN	O
+each	O	DT	O
+office	O	NN	O
+over	O	IN	O
+the	O	DT	O
+years	O	NNS	O
+,	UM	,	O
+with	O	IN	O
+the	O	DT	O
+person	O	NN	O
+that	O	IN	O
+occupied	O	VBN	O
+it	O	PRP	O
+the	O	DT	O
+longest	O	JJS	O
+in	O	IN	O
+red	O	JJ	O
+.	UM	.	O
+from	O	IN	O
+the	O	DT	O
+30-some	O	JJ	O
+people	O	NNS	O
+shown	O	VBN	O
+on	O	IN	O
+this	O	DT	O
+map	O	NN	O
+,	UM	,	O
+just	O	RB	O
+a	O	DT	O
+few	O	JJ	O
+remained	O	VBD	O
+to	O	TO	O
+witness	O	NN	O
+the	O	DT	O
+final	O	JJ	O
+disappearance	O	NN	O
+of	O	IN	O
+center	O	NN	O
+1127	UM	CD	O
+from	O	IN	O
+the	O	DT	O
+bell	O	NN	B-ORG
+labs	O	NNS	I-ORG
+org	O	NN	O
+charts	O	NNS	O
+in	O	IN	O
+august	O	NNP	O
+2005	UM	CD	O
+:	UM	:	O
+rae	O	NN	B-PER
+mclellan	O	NN	I-PER
+,	UM	,	O
+howard	O	NN	B-PER
+trickey	O	NN	I-PER
+-LRB-	UC	-LRB-	O
+since	O	IN	O
+moved	O	VBN	O
+to	O	TO	O
+google	O	NN	B-ORG
+-RRB-	UC	-RRB-	O
+and	O	CC	O
+dennis	O	NN	B-PER
+ritchie	O	NN	I-PER
+.	UM	.	O
+one	O	CD	O
+by	O	IN	O
+one	O	CD	O
+,	UM	,	O
+the	O	DT	O
+others	O	NNS	O
+all	O	DT	O
+found	O	VBN	O
+a	O	DT	O
+safe	O	JJ	O
+haven	O	NN	O
+elsewhere	O	RB	O
+.	UM	.	O
+
+
+remarkably	O	RB	O
+,	UM	,	O
+8	UM	CD	O
+of	O	IN	O
+the	O	DT	O
+30	UM	CD	O
+people	O	NNS	O
+whose	O	WP$	O
+name	O	NN	O
+is	O	VBZ	O
+shown	O	VBN	O
+on	O	IN	O
+this	O	DT	O
+map	O	NN	O
+-LRB-	UC	-LRB-	O
+and	O	CC	O
+about	O	IN	O
+18	UM	CD	O
+former	O	JJ	O
+members	O	NNS	O
+of	O	IN	O
+center	O	NN	O
+1127	UM	CD	O
+alltogether	O	NN	O
+-RRB-	UC	-RRB-	O
+now	O	RB	O
+work	O	NN	O
+at	O	IN	O
+google	O	NN	B-ORG
+.	UM	.	O
+
+
+Software	UC	NNP	O
+
+
+*	UM	SYM	O
+Spin	UC	VB	B-MISC
+an	O	DT	O
+efficient	O	JJ	O
+verification	O	NN	O
+system	O	NN	O
+for	O	IN	O
+distributed	O	VBN	O
+software	O	NN	O
+systems	O	NNS	O
+-LRB-	UC	-LRB-	O
+a	O	DT	O
+logic	O	NN	O
+model	O	NN	O
+checker	O	NN	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Feaver	UC	NNP	B-MISC
+a	O	DT	O
+model	O	NN	O
+extraction	O	NN	O
+system	O	NN	O
+for	O	IN	O
+ANSI-C	UC	NN	O
+source	O	NN	O
+code	O	NN	O
+:	UM	:	O
+the	O	DT	O
+first	O	RB	O
+step	O	NN	O
+towards	O	IN	O
+the	O	DT	O
+development	O	NN	O
+of	O	IN	O
+a	O	DT	O
+general	O	JJ	O
+purpose	O	NN	O
+tool	O	NN	O
+for	O	IN	O
+the	O	DT	O
+verification	O	NN	O
+of	O	IN	O
+distributed	O	VBN	O
+systems	O	NNS	O
+applications	O	NNS	O
+directly	O	RB	O
+from	O	IN	O
+program	O	NN	O
+source	O	NN	O
+text	O	NN	O
+.	UM	.	O
+the	O	DT	O
+system	O	NN	O
+was	O	VBD	O
+used	O	VBN	O
+at	O	IN	O
+Bell	UC	NNP	B-ORG
+Labs	UC	NNPS	I-ORG
+between	O	IN	O
+1998	UM	CD	O
+and	O	CC	O
+2000	UM	CD	O
+to	O	TO	O
+exhaustively	O	RB	O
+verify	O	VB	O
+the	O	DT	O
+call-processing	O	NN	O
+software	O	NN	O
+of	O	IN	O
+Lucent	UC	NNP	B-MISC
+'s	O	POS	O
+PathStar	UC	NN	I-MISC
+access	O	NN	O
+server	O	NN	O
+.	UM	.	O
+The	UC	DT	O
+source	O	NN	O
+code	O	NN	O
+is	O	VBZ	O
+available	O	JJ	O
+,	UM	,	O
+see	O	VB	O
+the	O	DT	O
+Modex	UC	NNP	B-MISC
+distribution	O	NN	O
+page	O	NN	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Uno	UC	NNP	B-MISC
+A	UC	DT	O
+simple	O	JJ	O
+static	O	JJ	O
+analysis	O	NN	O
+tool	O	NN	O
+for	O	IN	O
+ANSI	UC	NN	O
+C	UC	NN	O
+programs	O	NNS	O
+,	UM	,	O
+based	O	VBN	O
+on	O	IN	O
+Ctree	UC	NNP	O
+0.14	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Ubet	UC	NNP	B-MISC
+a	O	DT	O
+requirements	O	NNS	O
+capture	O	NN	O
+and	O	CC	O
+analysis	O	NN	O
+toolset	O	NN	O
+from	O	IN	O
+around	O	IN	O
+1995	UM	CD	O
+,	UM	,	O
+originally	O	RB	O
+called	O	VBN	O
+msc/poga	O	NN	O
+,	UM	,	O
+later	O	RB	O
+productized	O	VBN	O
+and	O	CC	O
+distributed	O	VBN	O
+within	O	IN	O
+Lucent	UC	NNP	B-MISC
+as	O	IN	O
+the	O	DT	O
+uBET	UM	NN	O
+tool	O	NN	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Sdlvalid	UC	NN	B-MISC
+,	UM	,	O
+an	O	DT	O
+early	O	RB	O
+verifier	O	NN	O
+for	O	IN	O
+SDL	UC	NN	O
+.	UM	.	O
+the	O	DT	O
+tool	O	NN	O
+was	O	VBD	O
+written	O	VBN	O
+in	O	IN	O
+1987/1988	UM	CD	O
+,	UM	,	O
+and	O	CC	O
+was	O	VBD	O
+used	O	VBN	O
+internally	O	RB	O
+for	O	IN	O
+about	O	IN	O
+five	O	CD	O
+years	O	NNS	O
+.	UM	.	O
+it	O	PRP	O
+was	O	VBD	O
+never	O	RB	O
+approved	O	VBN	O
+for	O	IN	O
+public	O	NN	O
+release	O	NN	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+microtrace	O	NN	B-MISC
+a	O	DT	O
+demo	O	NN	O
+awk-script	O	JJ	O
+for	O	IN	O
+FSM	UC	SYM	O
+verification	O	NN	O
+-LRB-	UC	-LRB-	O
+written	O	VBN	O
+1987	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Pico/Popi	UC	NNP	O
+digital	O	JJ	O
+darkroom	O	NN	O
+software	O	NN	O
+-LRB-	UC	-LRB-	O
+written	O	VBN	O
+1984	UM	CD	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+For	UC	IN	O
+the	O	DT	O
+curious	O	JJ	O
+,	UM	,	O
+here	O	RB	O
+is	O	VBZ	O
+also	O	RB	O
+a	O	DT	O
+tar	O	NN	O
+archive	O	NN	O
+pico.tar	O	NN	O
+with	O	IN	O
+the	O	DT	O
+pre-ansi	O	JJ	O
+c	O	NN	O
+source	O	NN	O
+code	O	NN	O
+that	O	IN	O
+includes	O	VBZ	O
+the	O	DT	O
+little	O	RB	O
+on-the-fly	O	JJ	O
+compiler	O	NN	O
+that	O	IN	O
+Ken	UC	NNP	B-PER
+Thompson	UC	NNP	I-PER
+and	O	CC	O
+Rob	UC	NNP	B-PER
+Pike	UC	NNP	I-PER
+wrote	O	VBD	O
+.	UM	.	O
+The	UC	DT	O
+compiler	O	NN	O
+in	O	IN	O
+gen.c	O	NN	O
+-LRB-	UC	-LRB-	O
+also	O	RB	O
+written	O	VBN	O
+in	O	IN	O
+1984	UM	CD	O
+-RRB-	UC	-RRB-	O
+generated	O	VBN	O
+machine	O	NN	O
+code	O	NN	O
+for	O	IN	O
+a	O	DT	O
+VAX	UC	NNP	O
+.	UM	.	O
+Of	UC	IN	O
+course	O	NN	O
+,	UM	,	O
+this	O	DT	O
+code	O	NN	O
+will	O	MD	O
+not	O	RB	O
+compile	O	VB	O
+or	O	CC	O
+run	O	NN	O
+on	O	IN	O
+any	O	DT	O
+modern	O	JJ	O
+machine	O	NN	O
+.	UM	.	O
+See	UC	VB	O
+also	O	RB	O
+Pico	UC	NNP	B-MISC
+'s	O	POS	O
+website	O	NN	O
+.	UM	.	O
+
+
+Books	UC	NNS	O
+
+
+*	UM	SYM	O
+The	UC	DT	B-MISC
+Spin	UC	VB	I-MISC
+Model	UC	NNP	I-MISC
+Checker	UC	NN	I-MISC
+-	UM	:	O
+Primer	UC	NN	I-MISC
+and	O	CC	I-MISC
+Reference	UC	NNP	I-MISC
+Manual	UC	NNP	I-MISC
+.	UM	.	O
+The	UC	DT	O
+new	O	JJ	O
+book	O	NN	O
+,	UM	,	O
+describing	O	VBG	O
+the	O	DT	O
+most	O	RBS	O
+recent	O	JJ	O
+version	O	NN	O
+of	O	IN	O
+Spin	UC	VB	B-MISC
+,	UM	,	O
+608	UM	CD	O
+pgs	O	NNS	O
+.	UM	.	O
+Addison-Wesley	UC	NN	O
+Publ.	UC	NNP	O
+,	UM	,	O
+ISBN	UC	NNP	O
+0-321-22862-6	UM	CD	O
+,	UM	,	O
+available	O	JJ	O
+September	UC	NNP	O
+2003	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Design	UC	NN	B-MISC
+and	O	CC	I-MISC
+Validation	UC	NN	I-MISC
+of	O	IN	I-MISC
+Computer	UC	NN	I-MISC
+Protocols	UC	NNS	I-MISC
+,	UM	,	O
+Prentice	UC	NNP	B-ORG
+Hall	UC	NN	I-ORG
+,	UM	,	O
+1991	UM	CD	O
+.	UM	.	O
+The	UC	DT	O
+first	O	RB	O
+Spin	UC	VB	B-MISC
+book	O	NN	O
+.	UM	.	O
+Spin	UC	VB	B-MISC
+was	O	VBD	O
+written	O	VBN	O
+for	O	IN	O
+this	O	DT	O
+book	O	NN	O
+in	O	IN	O
+1989	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+The	UC	DT	B-MISC
+Early	UC	RB	I-MISC
+History	UC	NN	I-MISC
+of	O	IN	I-MISC
+Data	UC	NNS	I-MISC
+Networks	UC	NNP	I-MISC
+,	UM	,	O
+IEEE	UC	NN	B-ORG
+Computer	UC	NN	I-ORG
+Society	UC	NNP	I-ORG
+Press	UC	NNP	I-ORG
+,	UM	,	O
+1995	UM	CD	O
+.	UM	.	O
+-LRB-	UC	-LRB-	O
+inspired	O	VBN	O
+by	O	IN	O
+the	O	DT	O
+first	O	RB	O
+chapter	O	NN	O
+in	O	IN	O
+the	O	DT	O
+Design	UC	NN	B-MISC
+and	O	CC	I-MISC
+Validation	UC	NN	I-MISC
+book	O	NN	O
+.	UM	.	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+Beyond	UC	IN	B-MISC
+Photography	UC	NNP	I-MISC
+--	UM	:	O
+The	UC	DT	I-MISC
+Digital	UC	NNP	I-MISC
+Darkroom	UC	NN	I-MISC
+,	UM	,	O
+Prentice	UC	NNP	B-ORG
+Hall	UC	NN	I-ORG
+,	UM	,	O
+1988	UM	CD	O
+.	UM	.	O
+The	UC	DT	O
+first	O	RB	O
+book	O	NN	O
+to	O	TO	O
+coin	O	NN	O
+the	O	DT	O
+term	O	NN	O
+digital	O	JJ	O
+darkroom	O	NN	O
+;	UM	:	O
+it	O	PRP	O
+predicted	O	VBN	O
+that	O	IN	O
+the	O	DT	O
+days	O	NNS	O
+of	O	IN	O
+conventional	O	JJ	O
+photograph	O	NN	O
+would	O	MD	O
+be	O	VB	O
+numbered	O	VBD	O
+.	UM	.	O
+The	UC	DT	O
+book	O	NN	O
+,	UM	,	O
+and	O	CC	O
+lots	O	NNS	O
+of	O	IN	O
+background	O	NN	O
+information	O	NN	O
+,	UM	,	O
+is	O	VBZ	O
+today	O	NN	O
+accessible	O	JJ	O
+online	O	NN	O
+via	O	IN	O
+the	O	DT	O
+link	O	NN	O
+above	O	RB	O
+.	UM	.	O
+
+
+Papers	UC	NNP	O
+etc.	O	FW	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+publications	O	NNS	O
+,	UM	,	O
+with	O	IN	O
+PDF	UC	NN	O
+for	O	IN	O
+most	O	RBS	O
+papers	O	NNS	O
+-LRB-	UC	-LRB-	O
+new	O	JJ	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+abstracts	O	NNS	O
+for	O	IN	O
+selected	O	VBN	O
+papers	O	NNS	O
+
+
+Little	UC	JJ	O
+Movies	UC	NNS	O
+
+
+*	UM	SYM	O
+pixelface	O	NN	B-MISC
+,	UM	,	O
+1988	UM	CD	O
+,	UM	,	O
+a	O	DT	O
+five	O	CD	O
+minute	O	NN	O
+demo	O	NN	O
+of	O	IN	O
+Pico/Popi	UC	NNP	O
+-LRB-	UC	-LRB-	O
+Mpeg	UC	NNP	O
+40Mb	UM	NN	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+A	UC	DT	O
+portion	O	NN	O
+of	O	IN	O
+the	O	DT	O
+video	O	NN	O
+was	O	VBD	O
+shown	O	VBN	O
+on	O	IN	O
+CNN	UC	NNP	B-MISC
+Science	UC	NN	I-MISC
+&	UM	CC	O
+Technology	UC	NN	I-MISC
+report	O	NN	I-MISC
+in	O	IN	O
+1989	UM	CD	O
+:	UM	:	O
+see	O	VB	O
+clip	O	NN	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+walkman	O	NN	B-MISC
+,	UM	,	O
+1984	UM	CD	O
+,	UM	,	O
+a	O	DT	O
+40	UM	CD	O
+second	O	JJ	O
+try	O	VB	O
+to	O	TO	O
+make	O	VB	O
+a	O	DT	O
+little	O	RB	O
+movie	O	NN	O
+,	UM	,	O
+with	O	IN	O
+Rob	UC	NNP	B-PER
+Pike	UC	NNP	I-PER
+,	UM	,	O
+Don	UC	NNP	B-PER
+Mitchell	UC	NNP	I-PER
+,	UM	,	O
+and	O	CC	O
+Lillian	UC	NNP	B-PER
+Schwartz	UC	NNP	I-PER
+-LRB-	UC	-LRB-	O
+Mpeg	UC	NNP	O
+7	UM	CD	O
+Mb	UC	NN	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+A	UC	DT	O
+frame	O	NN	O
+from	O	IN	O
+the	O	DT	O
+movie	O	NN	O
+was	O	VBD	O
+used	O	VBN	O
+for	O	IN	O
+the	O	DT	O
+cover	O	NN	O
+of	O	IN	O
+IEEE	UC	NN	B-MISC
+Spectrum	UC	NN	I-MISC
+,	UM	,	O
+June	UC	NNP	O
+1984	UM	CD	O
+.	UM	.	O
+
+
+Covers	UC	NNP	O
+,	UM	,	O
+Logos	UC	NNS	O
+etc.	O	FW	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+The	UC	DT	O
+first	O	RB	O
+Inferno	UC	NN	B-ORG
+logo	O	NN	O
+,	UM	,	O
+1996	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+CS	UC	NN	B-ORG
+Research	UC	NNP	I-ORG
+Center	UC	NNP	I-ORG
+logo	O	NN	O
+,	UM	,	O
+1997	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Spin	UC	VB	B-MISC
+logo	O	NN	O
+,	UM	,	O
+2000	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+NASA/JPL	UC	NN	O
+Lars	UC	NNP	I-ORG
+logo	O	NN	O
+,	UM	,	O
+2004	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+CD	UC	NNP	O
+,	UM	,	O
+floppies	O	NNS	O
+,	UM	,	O
+and	O	CC	O
+manual	O	NN	O
+covers	O	NNS	O
+,	UM	,	O
+Plan-9	UC	NN	O
+,	UM	,	O
+2nd	UM	JJ	O
+Edition	UC	NN	O
+,	UM	,	O
+
+
+Pub	UC	NN	B-ORG
+.	UM	.	O
+Harcourt	UC	NNP	I-ORG
+Brace	UC	NNP	I-ORG
+&	UM	CC	O
+Company	UC	NN	I-ORG
+,	UM	,	O
+Orlando	UC	NNP	B-LOC
+,	UM	,	O
+Fl	UC	NN	I-LOC
+.	UM	.	O
+,	UM	,	O
+1995	UM	CD	O
+.	UM	.	O
+
+
+-LRB-	UC	-LRB-	O
+Illustrations	UC	NNS	O
+from	O	IN	O
+Louis	UC	NNP	B-PER
+Figuier	UC	NN	I-PER
+,	UM	,	O
+Les	UC	NNP	B-ORG
+Merveilles	UC	NNP	I-ORG
+de	O	IN	I-ORG
+la	O	DT	I-ORG
+Science	UC	NN	I-ORG
+,	UM	,	O
+Paris	UC	NNP	B-LOC
+1867	UM	CD	O
+.	UM	.	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+CD	UC	NNP	O
+,	UM	,	O
+Plan-9	UC	NN	O
+from	O	IN	O
+Bell	UC	NNP	B-ORG
+Labs	UC	NNPS	I-ORG
+,	UM	,	O
+1st	UM	JJ	O
+Edition	UC	NN	O
+,	UM	,	O
+1992	UM	CD	O
+.	UM	.	O
+
+
+-LRB-	UC	-LRB-	O
+Three	UC	CD	O
+actors	O	NNS	O
+from	O	IN	O
+Plan-9	UC	NN	O
+,	UM	,	O
+the	O	DT	O
+movie	O	NN	O
+by	O	IN	O
+Ed	UC	NNP	B-PER
+Wood	UC	NNP	I-PER
+.	UM	.	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+CD	UC	NNP	O
+,	UM	,	O
+Chess	UC	NN	B-MISC
+Endgames	UC	NNS	I-MISC
+,	UM	,	O
+Vols	UC	NNS	O
+1-4	UM	CD	O
+,	UM	,	O
+-LRB-	UC	-LRB-	O
+issued	O	VBN	O
+by	O	IN	O
+Ken	UC	NNP	B-PER
+Thompson	UC	NNP	I-PER
+,	UM	,	O
+1991	UM	CD	O
+-RRB-	UC	-RRB-	O
+
+
+-LRB-	UC	-LRB-	O
+Chess-piece	UC	NN	O
+and	O	CC	O
+a	O	DT	O
+small	O	JJ	O
+part	O	NN	O
+of	O	IN	O
+Leonardo	UC	NNP	B-PER
+da	O	NN	I-PER
+Vinci	UC	NNP	I-PER
+'s	O	POS	O
+Creation	UC	NN	O
+.	UM	.	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+AT&T	UC	NNP	O
+Technical	UC	NNP	I-MISC
+Journal	UC	NNP	I-MISC
+,	UM	,	O
+March/April	UC	NNP	O
+1987	UM	CD	O
+,	UM	,	O
+Vol	UC	NNP	O
+66	UM	CD	O
+,	UM	,	O
+Issue	UC	NN	O
+2	UM	LS	O
+.	UM	.	O
+
+
+-LRB-	UC	-LRB-	O
+Cover	UC	NNP	O
+with	O	IN	O
+a	O	DT	O
+transformed	O	VBN	O
+Pico/Popi	UC	NNP	O
+Image	UC	NN	O
+of	O	IN	O
+Peter	UC	NNP	B-PER
+Weinberger	UC	NNP	I-PER
+'s	O	POS	O
+portrait	O	NN	O
+.	UM	.	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+AT&T	UC	NNP	O
+Bell	UC	NNP	I-MISC
+Laboratories	UC	NNPS	I-MISC
+Technical	UC	NNP	I-MISC
+Journal	UC	NNP	I-MISC
+,	UM	,	O
+October	UC	NNP	O
+1984	UM	CD	O
+,	UM	,	O
+Vol	UC	NNP	O
+63	UM	CD	O
+,	UM	,	O
+No	UC	DT	O
+.	UM	.	O
+8	UM	CD	O
+,	UM	,	O
+Part	UC	NN	O
+2	UM	LS	O
+.	UM	.	O
+Special	UC	JJ	O
+Issue	UC	NN	O
+on	O	IN	O
+Unix	UC	NNP	O
+-LRB-	UC	-LRB-	O
+cover	O	NN	O
+with	O	IN	O
+computer	O	NN	O
+generated	O	VBN	O
+graphics	O	NNS	O
+.	UM	.	O
+-RRB-	UC	-RRB-	O
+
+
+Photos	UC	NNS	O
+
+
+*	UM	SYM	O
+Portraits	UC	NNS	O
+,	UM	,	O
+a	O	DT	O
+small	O	JJ	O
+selection	O	NN	O
+of	O	IN	O
+the	O	DT	O
+portraits	O	NNS	O
+I	UC	PRP	O
+`	UM	``	O
+ve	O	FW	O
+taken	O	VBN	O
+in	O	IN	O
+the	O	DT	O
+last	O	JJ	O
+25	UM	CD	O
+years	O	NNS	O
+or	O	CC	O
+so	O	RB	O
+,	UM	,	O
+mostly	O	RB	O
+with	O	IN	O
+a	O	DT	O
+large	O	JJ	O
+studio	O	NN	O
+view	O	NN	O
+camera	O	NN	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Masks	UC	NNS	O
+and	O	CC	O
+Statues	UC	NNS	O
+from	O	IN	O
+the	O	DT	O
+collection	O	NN	O
+of	O	IN	O
+Norbert	UC	NNP	B-PER
+Elias	UC	NNP	I-PER
+,	UM	,	O
+taken	O	VBN	O
+between	O	IN	O
+1983	UM	CD	O
+and	O	CC	O
+1987	UM	CD	O
+in	O	IN	O
+Amsterdam	UC	NNP	B-LOC
+
+
+*	UM	SYM	O
+Pictures	UC	NNS	O
+of	O	IN	O
+Tessa	UC	NNP	B-PER
+,	UM	,	O
+the	O	DT	O
+start	O	NN	O
+of	O	IN	O
+a	O	DT	O
+well-documented	O	JJ	O
+life	O	NN	O
+...	UM	:	O
+
+
+Press	UC	NNP	O
+
+
+*	UM	SYM	O
+Story	UC	NNP	O
+in	O	IN	O
+IEEE	UC	NN	B-ORG
+Computer	UC	NN	I-ORG
+,	UM	,	O
+Jan.	UC	NNP	O
+.	UM	.	O
+2004	UM	CD	O
+
+
+*	UM	SYM	O
+Interview	UC	NN	O
+with	O	IN	O
+FTP	UC	NN	B-ORG
+online	O	NN	I-ORG
+,	UM	,	O
+Oct.	UC	NNP	O
+.	UM	.	O
+2003	UM	CD	O
+
+
+*	UM	SYM	O
+Interview	UC	NN	O
+with	O	IN	O
+objectmonkey.com	O	NNP	O
+,	UM	,	O
+Oct.	UC	NNP	O
+.	UM	.	O
+2003	UM	CD	O
+
+
+*	UM	SYM	O
+MIT	UC	NNP	B-ORG
+Technology	UC	NN	I-ORG
+Review	UC	NN	I-ORG
+,	UM	,	O
+February	UC	NNP	O
+2003	UM	CD	O
+,	UM	,	O
+brief	O	NN	O
+mention	O	NN	O
+in	O	IN	O
+the	O	DT	O
+category	O	NN	O
+of	O	IN	O
+Software	UC	NNP	B-MISC
+Assurance	UC	NNP	I-MISC
+,	UM	,	O
+in	O	IN	O
+article	O	NN	O
+on	O	IN	O
+``	UM	``	B-MISC
+10	UM	CD	B-MISC
+Emerging	UC	VBG	I-MISC
+Technologies	UC	NNPS	I-MISC
+That	UC	DT	I-MISC
+Will	UC	MD	I-MISC
+Change	UC	NNP	I-MISC
+the	O	DT	I-MISC
+World	UC	NNP	I-MISC
+.	UM	.	O
+''	UM	''	O
+
+
+*	UM	SYM	O
+Interview	UC	NN	O
+with	O	IN	O
+Software	UC	NNP	B-ORG
+Development	UC	NNP	I-ORG
+Magazine	UC	NN	I-ORG
+-LRB-	UC	-LRB-	O
+SD	UC	NN	I-ORG
+Magazine	UC	NN	I-ORG
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+on	O	IN	O
+software	O	NN	O
+verification	O	NN	O
+,	UM	,	O
+September	UC	NNP	O
+2002	UM	CD	O
+,	UM	,	O
+p.	O	NN	O
+15	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+NJN	UC	NN	B-ORG
+New	UC	NNP	I-ORG
+Jersey	UC	NNP	I-ORG
+Network	UC	NNP	I-ORG
+News	UC	NNP	I-ORG
+,	UM	,	O
+an	O	DT	O
+interview	O	NN	O
+on	O	IN	O
+software	O	NN	O
+quality	O	NN	O
+aired	O	VBN	O
+in	O	IN	O
+the	O	DT	O
+science	O	NN	O
+and	O	CC	O
+technology	O	NN	O
+segment	O	NN	O
+on	O	IN	O
+March	UC	NNP	O
+6	UM	CD	O
+,	UM	,	O
+2002	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Two	UC	CD	O
+Dutch	UC	NNP	O
+journals	O	NNS	O
+,	UM	,	O
+Technisch	UC	NNP	B-ORG
+Weekblad	UC	NNP	I-ORG
+,	UM	,	O
+No	UC	DT	O
+.	UM	.	O
+17	UM	CD	O
+,	UM	,	O
+and	O	CC	O
+Embedded	UC	VBN	B-ORG
+Systems	UC	NNPS	I-ORG
+,	UM	,	O
+published	O	VBN	O
+interviews	O	NNS	O
+-LRB-	UC	-LRB-	O
+in	O	IN	O
+Dutch	UC	NNP	O
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Infoworld	UC	NNP	B-ORG
+,	UM	,	O
+October	UC	NNP	O
+26	UM	CD	O
+,	UM	,	O
+2001	UM	CD	O
+Short	UC	JJ	O
+feature	O	NN	O
+on	O	IN	O
+code	O	NN	O
+debugging	O	NN	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+CIO	UC	NNP	B-ORG
+magazine	O	NN	I-ORG
+,	UM	,	O
+August	UC	NNP	O
+1	UM	CD	O
+,	UM	,	O
+2001	UM	CD	O
+.	UM	.	O
+Brief	UC	JJ	O
+mention	O	NN	O
+of	O	IN	O
+software	O	NN	O
+verification	O	NN	O
+project	O	NN	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+New	UC	NNP	B-ORG
+Scientist	UC	NN	I-ORG
+,	UM	,	O
+18	UM	CD	O
+November	UC	NNP	O
+,	UM	,	O
+2000	UM	CD	O
+
+
+*	UM	SYM	O
+Future	UC	JJ	O
+of	O	IN	O
+Software	UC	NNP	B-ORG
+Column	UC	NN	I-ORG
+published	O	VBN	O
+in	O	IN	O
+FTP	UC	NN	B-ORG
+magazine	O	NN	I-ORG
+in	O	IN	O
+2000	UM	CD	O
+,	UM	,	O
+Fawcette	UC	NNP	B-ORG
+Publ	UC	NN	I-ORG
+.	UM	.	O
+
+
+*	UM	SYM	O
+A	UC	DT	O
+series	O	NN	O
+of	O	IN	O
+columns	O	NNS	O
+on	O	IN	O
+Smart	UC	NNP	B-MISC
+Machines	UC	NNS	I-MISC
+,	UM	,	O
+published	O	VBN	O
+in	O	IN	O
+Inc.	UC	NNP	O
+.	UM	.	O
+Technology	UC	NN	I-ORG
+
+
+Other	UC	JJ	O
+
+
+*	UM	SYM	O
+JPL	UC	NNP	B-MISC
+Fellow	UC	NNP	I-MISC
+,	UM	,	O
+May	UC	NNP	O
+2007	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Caltech	UC	NNP	B-ORG
+CS	UC	NNP	O
+,	UM	,	O
+Faculty	UC	NN	O
+Associate	UC	NNP	O
+,	UM	,	O
+May	UC	NNP	O
+2007	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Honorary	UC	JJ	O
+doctorate	O	NN	O
+,	UM	,	O
+Twente	UC	NNP	B-ORG
+University	UC	NNP	I-ORG
+,	UM	,	O
+The	UC	DT	B-LOC
+Netherlands	UC	NNP	I-LOC
+,	UM	,	O
+December	UC	NNP	O
+2006	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+ACM	UC	NNP	B-MISC
+Kanellakis	UC	NNPS	I-MISC
+Theory	UC	NNP	I-MISC
+and	O	CC	I-MISC
+Practice	UC	NN	I-MISC
+Award	UC	NN	I-MISC
+,	UM	,	O
+May	UC	NNP	O
+2006	UM	CD	O
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Vardi	UC	NNP	B-PER
+,	UM	,	O
+Wolper	UC	NNP	B-PER
+,	UM	,	O
+and	O	CC	O
+Kurshan	UC	NNP	B-PER
+-RRB-	UC	-RRB-	O
+.	UM	.	O
+-LRB-	UC	-LRB-	O
+press	O	NN	O
+release	O	NN	O
+March	UC	NNP	O
+2006	UM	CD	O
+-RRB-	UC	-RRB-	O
+
+
+*	UM	SYM	O
+US	UC	NNP	B-ORG
+National	UC	NNP	I-ORG
+Academy	UC	NNP	I-ORG
+of	O	IN	I-ORG
+Engineering	UC	NNP	I-ORG
+,	UM	,	O
+elected	O	VBN	O
+member	O	NN	O
+2005	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+Thomas	UC	NNP	B-MISC
+Alva	UC	NNP	I-MISC
+Edison	UC	NNP	I-MISC
+Patent	UC	NN	I-MISC
+Award	UC	NN	I-MISC
+,	UM	,	O
+2003	UM	CD	O
+,	UM	,	O
+in	O	IN	O
+the	O	DT	O
+Information	UC	NN	B-MISC
+Technology	UC	NN	I-MISC
+Category	UC	NN	I-MISC
+,	UM	,	O
+for	O	IN	O
+a	O	DT	O
+patent	O	NN	O
+on	O	IN	O
+software	O	NN	O
+verification	O	NN	O
+with	O	IN	O
+FeaVer	UC	NNP	B-MISC
+and	O	CC	O
+Spin	UC	VB	B-MISC
+-LRB-	UC	-LRB-	O
+with	O	IN	O
+Ken	UC	NNP	B-PER
+Thompson	UC	NNP	I-PER
+and	O	CC	O
+Phil	UC	NNP	B-PER
+Winterbottom	UC	NNP	I-PER
+-RRB-	UC	-RRB-	O
+,	UM	,	O
+July	UC	NNP	O
+2003	UM	CD	O
+.	UM	.	O
+
+
+*	UM	SYM	O
+ACM	UC	NNP	B-MISC
+SigSoft	UC	NNP	I-MISC
+Outstanding	UC	JJ	I-MISC
+Research	UC	NNP	I-MISC
+award	O	NN	I-MISC
+,	UM	,	O
+2002	UM	CD	O
+
+
+*	UM	SYM	O
+ACM	UC	NNP	B-MISC
+System	UC	NNP	I-MISC
+Software	UC	NNP	I-MISC
+Award	UC	NN	I-MISC
+
+
